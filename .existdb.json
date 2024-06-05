@@ -22,7 +22,8 @@
             "*.code-workspace",
             "*.properties",
             "*local*",
-            "build.xml"
+            "build.xml",
+            "resources/images/**"
         ]
     }
 }

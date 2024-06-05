@@ -38,6 +38,7 @@
                 <exclude name=".gitignore" />
                 <exclude name="*.code-workspace" />
                 <exclude name="local.*" />
+                <exclude name="resources/images/**" />
             </fileset>
         </copy>
     </target>
