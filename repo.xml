@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>eXist-db Lucene sample (eXist-db Users Meetup, XML Prague 2024)</description>
+    <author>Boris Lehečka</author>
+    <website>https://github.com/daliboris/eXist-db-Lucene</website>
+    <status>beta</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>library</type>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <target>exist-db-lucene</target>
+    <permissions user="xml" password="prague" group="tei" mode="rw-r--r--"/>
+    <changelog>
+        <change version="0.1.0">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h3>eXist-db package for lexicographic data</h3>
+                <h4 id="indexing">Indexing</h4>
+                <ul>
+                    <li>data located in the collection <em>data</em> and subcollections</li>
+                    <li>one index field for searching text in whole entry</li>
+                    <li>field for sorting based on the frequency of the lemma in the corpus</li>
+                    <li>advanced indexing of translation equivalents, including relevance boosting based on<ul>
+                        <li>position of the equivalent in the meaning</li>
+                        <li>frequency of the lemma in the corpus</li>
+                        <li>order of the sense in the entry</li>
+                        <li>uniqueness of the sense</li>
+                    </ul>
+                </li>
+                <li>processing equivalent without gloss (i.e. text in brackets)</li>
+                <li>omission of indexing of data in subentries (i.e. frequency, number of meanings, reversals, definitions...)</li>
+                <li>separate indexing of Czech and English reversals</li>
+                <li>advanced indexing of reversals with fields for<ul>
+                    <li>text content</li>
+                    <li>language of the reversal</li>
+                    <li>order of the sense in the entry</li>
+                    <li>uniqueness of the sense</li>
+                </ul>
+            </li>
+        </ul>
+        <h4 id="rest-api">REST API</h4>
+        <ul>
+            <li>REST API available on <a href="api.html">api.html</a>
+            </li>
+            <li>API for updating files in collections</li>
+            <li>API for uploading a ZIP file to a collection</li>
+            <li>API for generating statistics on collections and indexes</li>
+        </ul>
+        <h4 id="build-and-installation">Build and Installation</h4>
+        <ul>
+            <li>
+                <strong>build.xml</strong> modifications for data repository</li>
+            <li>modules <strong>pre-install.xql</strong> and <strong>post-install.xql</strong>
+            </li>
+            <li>setting owner of subcollections</li>
+        </ul>
+
+    </div>
+</change>
+</changelog>
+</meta>

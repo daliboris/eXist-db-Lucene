@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="LeDIIR"
+     type="lex-0"
+     xml:lang="cs"
+     xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elektronická lexikální databáze indoíránských jazyků</title>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Sociologický ústav AV ČR</distributor>
+            <distributor>Filozofická fakulta UK</distributor>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Toto dílo podléhá licenci Creative Commons Uveďte původ-Neužívejte komerčně-Nezpracovávejte 4.0 Mezinárodní Licence.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elektronická lexikální databáze indoíránských jazyků: Perština</title>
+                  <imprint>
+                     <distributor>Sociologický ústav AV ČR</distributor>
+                     <distributor>Filozofická fakulta UK</distributor>
+                     <pubPlace>Praha</pubPlace>
+                     <date when="2022">2022</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Data vznikla v rámci projektu podpořeného TA ČR.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Doklady byly upraveny pro potřeby překladového slovníku.</p>
+            <p>Pravopis dokladů byl sjednocen. Pravopisné varianty uvádíme v obvyklých pravopisných podobách.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy xml:id="LeDIIR.taxonomy">
+               <bibl>Taxonomie Lexikální databáze indoevropských jazyků.</bibl>
+               <category xml:id="LeDIIR.taxonomy.1"
+                         n="63403699-07c1-43f3-a47c-069d6e4316e5">
+                  <catDesc xml:lang="en">
+                     <idno>1</idno>
+                     <term>Universe, creation</term>
+                     <gloss>Use this domain for general words referring to the physical universe. Some languages may not have a single word for the universe and may have to use a phrase such as 'rain, soil, and things of the sky' or 'sky, land, and water' or a descriptive phrase such as 'everything you can see' or 'everything that exists'.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>۱</idno>
+                     <term>خلقت، هستی</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.1.1"
+                            n="999581c4-1611-4acb-ae1b-5e6c1dfe6f0c">
+                     <catDesc xml:lang="en">
+                        <idno>1.1</idno>
+                        <term>Sky</term>
+                        <gloss>Use this domain for words related to the sky.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۱،۱</idno>
+                        <term>آسمان</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.1.1.3"
+                               n="b4aa4bbd-8abf-4503-96e4-05c75efd23d5">
+                        <catDesc xml:lang="en">
+                           <idno>1.1.3</idno>
+                           <term>Weather</term>
+                           <gloss>Use this domain for words related to the weather.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۱،۳</idno>
+                           <term>آب و هوا</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.1.1.3.1"
+                                  n="93b8bd61-137a-4ebc-b12f-52fa5d2b3ea4">
+                           <catDesc xml:lang="en">
+                              <idno>1.1.3.1</idno>
+                              <term>Wind</term>
+                              <gloss>Use this domain for words related to the wind. Some words refer to when the wind begins and ends. The wind changes in speed, so some words refer to how fast the wind is moving. Try to rank these on a scale from very slow to very fast. These words may also be distinguished by what the wind does, since a fast wind does more things. These words may also be distinguished by how long the wind blows. Some words refer to the speed of the wind becoming faster or slower. Some words distinguish a steady wind from a wind in which the speed keeps changing. Some words refer to when the speed of the wind becomes faster for a short time. A steady wind moves in a particular direction, so there are words that include the direction of the wind. The direction of the wind may refer to the points of the compass, a neighboring geographical feature or area, or the direction in which the speaker is moving. Some words refer to a wind that moves in a small circle, making a pillar of dust or a funnel-shaped cloud. Some words refer to what the wind does, such as when it moves or damages something. People can feel the wind, so some words refer to how it feels. The wind makes noise, so there are words that refer to the sound of the wind. In some cultures there is a relation between the wind and spirits, so some words may refer to the activity of the spirits in the wind, or that the wind brings disease.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۱،۱،۳،۱</idno>
+                              <term>باد</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.1.1.3.3"
+                                  n="bfa3be74-0390-4e2e-bdb7-ed41eb67e4f1">
+                           <catDesc xml:lang="en">
+                              <idno>1.1.3.3</idno>
+                              <term>Rain</term>
+                              <gloss>Use this domain for words related to the rain.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۱،۱،۳،۳</idno>
+                              <term>باران</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.1.2"
+                            n="b47d2604-8b23-41e9-9158-01526dd83894">
+                     <catDesc xml:lang="en">
+                        <idno>1.2</idno>
+                        <term>World</term>
+                        <gloss>Use this domain for words referring to the planet we live on.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۱،۲</idno>
+                        <term>جهان</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.1.2.2"
+                               n="f899802d-bd32-427f-a101-c84219f7e14e">
+                        <catDesc xml:lang="en">
+                           <idno>1.2.2</idno>
+                           <term>Substance, matter</term>
+                           <gloss>Use this domain for general words referring to matter--what something is made out of, or a type of solid, liquid, or gas.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۲،۲</idno>
+                           <term>جسم، ماده</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.1"
+                                  n="180a2220-942c-4e17-96ee-cd4f63a4c715">
+                           <catDesc xml:lang="en">
+                              <idno>1.2.2.1</idno>
+                              <term>Soil, dirt</term>
+                              <gloss>Use this domain for words referring to soil and dirt.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۱،۲،۲،۱</idno>
+                              <term>چرک، ماسه</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.2"
+                                  n="0f07adb7-4387-4723-9800-8362e825ad45">
+                           <catDesc xml:lang="en">
+                              <idno>1.2.2.2</idno>
+                              <term>Rock</term>
+                              <gloss>Use this domain for words referring to rock.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۱،۲،۲،۲</idno>
+                              <term>صخره</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.3"
+                                  n="3df7d174-83d1-4e17-890e-1272e171ca41">
+                           <catDesc xml:lang="en">
+                              <idno>1.2.2.3</idno>
+                              <term>Metal</term>
+                              <gloss>Use this domain for words referring to metal.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۱،۲،۲،۳</idno>
+                              <term>فلز</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.4"
+                                  n="56c9c38c-728a-42fe-b93c-6ca67fdf2a9a">
+                           <catDesc xml:lang="en">
+                              <idno>1.2.2.4</idno>
+                              <term>Mineral</term>
+                              <gloss>Use this domain for naturally occurring elements, compounds, and minerals--things you can find in the ground.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۱،۲،۲،۴</idno>
+                              <term>مواد معدنی</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.5"
+                                  n="21bcc306-13cb-4162-98b3-2ba319ba14ea">
+                           <catDesc xml:lang="en">
+                              <idno>1.2.2.5</idno>
+                              <term>Jewel</term>
+                              <gloss>Use this domain for words referring to jewels and precious stones.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۱،۲،۲،۵</idno>
+                              <term>جواهر</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.1.4"
+                            n="8d47c9ec-80c4-4309-9848-c453dcd71182">
+                     <catDesc xml:lang="en">
+                        <idno>1.4</idno>
+                        <term>Living things</term>
+                        <gloss>Use this domain for general words that relate to all living things.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۱،۴</idno>
+                        <term>موجودات زنده</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.1.4.1"
+                               n="06a89652-70e0-40ac-b929-ed42f011c9fc">
+                        <catDesc xml:lang="en">
+                           <idno>1.4.1</idno>
+                           <term>Dead things</term>
+                           <gloss>Use this domain for words referring to dead things--things that were alive before, but aren't now.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۴،۱</idno>
+                           <term>موجودات مرده</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.1.4.2"
+                               n="1c512719-6ecb-48cb-980e-4ff20e8b5f9b">
+                        <catDesc xml:lang="en">
+                           <idno>1.4.2</idno>
+                           <term>Spirits of things</term>
+                           <gloss>Use this domain for words referring to the spirits of things.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۴،۲</idno>
+                           <term>روح موجودات</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.1.5"
+                            n="025da6f4-b1b6-423a-8c0f-b324f531a6f1">
+                     <catDesc xml:lang="en">
+                        <idno>1.5</idno>
+                        <term>Plant</term>
+                        <gloss>Use this domain for general words for all plants. Use a book of pictures to identify plant names and the scientific name. Languages divide plants into various domains that are not always comparable from language to language. Criterial features may be characteristics (trees and bushes are distinguished by size and number of trunks) and use (grass and weeds are distinguished by their desirability). A common distinction is between trees and non-trees, with trees described as being big, woody, and having a life expectancy of several years, while non-trees are small, non-woody, and have a life expectancy of typically not more than one year (Heine, Bernd and Karsten Legere. 1995. Swahili plants. Rudiger Koppe Verlag: Koln.). Agricultural societies will divide plants into wild and cultivated. However most plants for which there are names have some use. Therefore it does not seem helpful to divide plant names into domains for useful and non-useful plants. Since only parts of plants are eaten, edible parts of plants are listed under the domain 'Food'. Some languages may have more domains than are used in this list, others may have fewer. The classification system used here does not agree entirely with the system used by botanists. For instance botanists do not classify all the tree species together. The palm trees belong to the class Monocotyledoneae and are classified with lilies, bananas, and orchids. Apple and cherry trees belong to the class Dicotyledoneae and are classified in the rose family along with roses and blackberries. The acacia tree also belongs to the class Dicotyledoneae and is classified in the pulse family along with lupines and beans. However most folk taxonomies bring all the trees together. The scientific classification system for plants and animals is taken from: Carruth, Gorton, ed. 1989. The Volume Library, Vols. 1 and 2. The Southwestern Company: Nashville.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۱،۵</idno>
+                        <term>گیاه</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.1.5.1"
+                               n="0ee5b933-f1ab-485f-894a-51fe239cb726">
+                        <catDesc xml:lang="en">
+                           <idno>1.5.1</idno>
+                           <term>Tree</term>
+                           <gloss>Use this domain for trees--flowering plants with roots, stems, and leaves, which are large and have a wooden trunk (Phylum Spermatophyta, Subdivision Angiospermae). Also include the evergreen trees (Phylum Spermatophyta, Subdivision Gymnospermae). Evergreen trees do not have flowers, but have cone like fruits (pinecones) that contain seeds. Their leaves are shaped like needles and are retained for over a year.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۵،۱</idno>
+                           <term>درخت</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.1.5.2"
+                               n="531af868-b5fb-41c2-ba50-764458f9102f">
+                        <catDesc xml:lang="en">
+                           <idno>1.5.2</idno>
+                           <term>Bush, shrub</term>
+                           <gloss>Use this domain for bushes and shrubs--plants that are smaller than trees and have several wooden trunks (Phylum Spermatophyta, Subdivision Angiospermae).</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۵،۲</idno>
+                           <term>درختچه، بوته</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.1.5.3"
+                               n="c345f278-91ff-463d-b9a6-8abac8a267eb">
+                        <catDesc xml:lang="en">
+                           <idno>1.5.3</idno>
+                           <term>Grass, herb, vine</term>
+                           <gloss>Use this domain for small plants that have roots, stems, flowers, and seeds, but do not have a wooden trunk (Phylum Spermatophyta, Subdivision Angiospermae). Also include the seedless plants, such as ferns (phylum Pteridophyta, class Felicineae), horsetails (phylum Pteridophyta, class Equisetineae), and club mosses (phylum Pteridophyta, class Lycopodineae). Plants of the Pteridophyta phylum have no flowers or seeds. Ferns have large, divided, feather-like leaves, or fronds. Club mosses are small (rarely over one meter) evergreen plants with simple leaves resembling pine or hemlock needles. Sometimes they grow upright, but often trail on the ground, where they propagate by means of runners. Horsetails send up tall, vertical, jointed stalks with branches covered with scale like leaves.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۵،۳</idno>
+                           <term>تاک، گیاه، چمن</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.1.5.4"
+                               n="d06dae77-134a-403f-ba88-52ecd66c0522">
+                        <catDesc xml:lang="en">
+                           <idno>1.5.4</idno>
+                           <term>Moss, fungus, algae</term>
+                           <gloss>Use this domain for mosses (phylum Bryophyta, class Musci), liverworts (phylum Bryophyta, class Hepaticae), fungi (phylum Thallophyta, subdivision Fungi), algae (phylum Thallophyta, subdivision Algae), and lichens. These plants do not have true roots, stems, or leaves. The mosses are small, green, flowerless plants that grow in moist environments and look like velvety or feathery growths carpeting the ground, tree trunks, and rocks. The liverworts are similar to the mosses with a flat and branching growth pattern. The algae possess green chlorophyll. They vary from one-celled organisms, which sometimes live in colonies such as pond scum, to complex organisms such as seaweed. The fungi do not possess chlorophyll and feed off of other organic material. Lichens consist of a fungus and an algae growing together. They commonly grow on trunks of trees and rocks. Some are flat and leafy, and some are moss like.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۵،۴</idno>
+                           <term>جلبک، قارچ، خزه</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.1.5.5"
+                               n="d117aa22-3f18-47c4-9683-51ecf1dc7134">
+                        <catDesc xml:lang="en">
+                           <idno>1.5.5</idno>
+                           <term>Parts of a plant</term>
+                           <gloss>Use this domain for words that refer to parts of a plant. Start with general words that all plants have. Then think through each major type of plant. Finish by thinking of specific plants that are well known (usually cultivated crops) and that have words for specific parts (e.g. tassel on a corn/maize cob).</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۵،۵</idno>
+                           <term>بخشهای یک گیاه</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.1.5.6"
+                               n="d2ca3194-e393-480e-ae1d-dd67bed55227">
+                        <catDesc xml:lang="en">
+                           <idno>1.5.6</idno>
+                           <term>Growth of plants</term>
+                           <gloss>Use this domain for words related to the growth of plants.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۵،۶</idno>
+                           <term>رشد گیاهان</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.1.5.7"
+                               n="f7b7eb3c-b784-4ba5-8dac-a68fd27ce0ea">
+                        <catDesc xml:lang="en">
+                           <idno>1.5.7</idno>
+                           <term>Plant diseases</term>
+                           <gloss>Use this domain for words related to plant diseases.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۱،۵،۷</idno>
+                           <term>بیماری گیاه</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.2"
+                         n="ba06de9e-63e1-43e6-ae94-77bea498379a">
+                  <catDesc xml:lang="en">
+                     <idno>2</idno>
+                     <term>Person</term>
+                     <gloss>Use this domain for general words for a person or all mankind.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>۲</idno>
+                     <term>شخص</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.2.5"
+                            n="32bebe7e-bdcc-4e40-8f0a-894cd6b26f25">
+                     <catDesc xml:lang="en">
+                        <idno>2.5</idno>
+                        <term>Healthy</term>
+                        <gloss>Use this domain for words related to a person being healthy--not sick.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۲،۵</idno>
+                        <term>سالم، تندرست</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.2.5.6"
+                               n="a894d991-d5da-45a6-9c62-009133257f36">
+                        <catDesc xml:lang="en">
+                           <idno>2.5.6</idno>
+                           <term>Symptom of disease</term>
+                           <gloss>Use this domain for words for symptoms of disease--something that happens to you when you get sick, something that shows that you are sick.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۲،۵،۶</idno>
+                           <term>نشانه مرض، علائم امراض</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.2.5.6.4"
+                                  n="d83ebe2c-c1d6-49ec-a4a9-1cdced843387">
+                           <catDesc xml:lang="en">
+                              <idno>2.5.6.4</idno>
+                              <term>Lose consciousness</term>
+                              <gloss>Use this domain for words related to losing consciousness, including fainting, being knocked out, and anesthesia.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۵،۶،۴</idno>
+                              <term>از هوش رفتن، بیهوش شدن</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.2.5.7"
+                               n="101c16f8-ec76-4ec7-895a-fd814fef51dd">
+                        <catDesc xml:lang="en">
+                           <idno>2.5.7</idno>
+                           <term>Treat disease</term>
+                           <gloss>Use this domain for words related to the treatment of disease and injury.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۲،۵،۷</idno>
+                           <term>درمان امراض</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.1"
+                                  n="c01bbcef-7d89-4753-bafd-3a7f23648982">
+                           <catDesc xml:lang="en">
+                              <idno>2.5.7.1</idno>
+                              <term>Doctor, nurse</term>
+                              <gloss>Use this domain for words referring to people who habitually take care of the sick and injured, such as those who do it for a living.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۵،۷،۱</idno>
+                              <term>پزشک، پرستار</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.2"
+                                  n="b82c7ba0-9f4e-44da-bcd0-d30f5b224de5">
+                           <catDesc xml:lang="en">
+                              <idno>2.5.7.2</idno>
+                              <term>Medicine</term>
+                              <gloss>Use this domain for words related to medicine, types of medicine, and the application of medicine.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۵،۷،۲</idno>
+                              <term>دارو</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.3"
+                                  n="f3627c41-5daf-4f73-ac42-8a0522035e0b">
+                           <catDesc xml:lang="en">
+                              <idno>2.5.7.3</idno>
+                              <term>Medicinal plants</term>
+                              <gloss>Use this domain for plants that are used for medicine.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۵،۷،۳</idno>
+                              <term>گیاهان دارویی/طبی</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.4"
+                                  n="250a52e4-ede0-427d-8382-46a5742d4f96">
+                           <catDesc xml:lang="en">
+                              <idno>2.5.7.4</idno>
+                              <term>Hospital</term>
+                              <gloss>Use this domain for words that refer to a place where the sick and injured are treated.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۵،۷،۴</idno>
+                              <term>بیمارستان</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.5"
+                                  n="8e88ed6a-000d-400a-8cd8-7b3cc7f1818c">
+                           <catDesc xml:lang="en">
+                              <idno>2.5.7.5</idno>
+                              <term>Traditional medicine</term>
+                              <gloss>Use this domain for words related to traditional medicine. There may be no distinction in terminology between 'modern medicine' and 'traditional medicine.' In that case this domain should be ignored. (Our purpose here is not to judge the value of traditional medicine, but to collect and describe the words used for it.)</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۵،۷،۵</idno>
+                              <term>داروهای سنتی</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.2.6"
+                            n="50db27b5-89eb-4ffb-af82-566f51c8ec0b">
+                     <catDesc xml:lang="en">
+                        <idno>2.6</idno>
+                        <term>Life</term>
+                        <gloss>Use this domain for general words referring to being alive and to a person's lifetime.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۲،۶</idno>
+                        <term>حیات/زندگی</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.2.6.3"
+                               n="35e61ec4-0542-4583-b5da-0aa5e31a35aa">
+                        <catDesc xml:lang="en">
+                           <idno>2.6.3</idno>
+                           <term>Birth</term>
+                           <gloss>Use this domain for words related to giving birth and being born.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۲،۶،۳</idno>
+                           <term>تولد</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.2.6.3.1"
+                                  n="3cb4c07c-8760-4ff9-8d45-1c0bed80ffb3">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.3.1</idno>
+                              <term>Pregnancy</term>
+                              <gloss>Use this domain for words related to being pregnant.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۳،۱</idno>
+                              <term>حاملگی</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.2.6.5"
+                               n="0db5817e-05bf-4703-a6b9-e239ac44f857">
+                        <catDesc xml:lang="en">
+                           <idno>2.6.5</idno>
+                           <term>Male, female</term>
+                           <gloss>Use this domain for words referring to male and female people.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۲،۶،۵</idno>
+                           <term>مذکر، مونث</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.2.6.5.1"
+                                  n="04582a28-b94a-4e7f-8cc4-5cdefa8a39f0">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.5.1</idno>
+                              <term>Man</term>
+                              <gloss>Use this domain for words referring to a man or any male person.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۵،۱</idno>
+                              <term>مرد</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.6.5.2"
+                                  n="ae6f73ab-432d-42e8-aa1a-c848652a13f0">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.5.2</idno>
+                              <term>Woman</term>
+                              <gloss>Use this domain for words referring to a woman or any female person.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۵،۲</idno>
+                              <term>زن</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.2.6.6"
+                               n="1c3c8af0-56b9-4617-862e-21f39b388606">
+                        <catDesc xml:lang="en">
+                           <idno>2.6.6</idno>
+                           <term>Die</term>
+                           <gloss>Use this domain for words related to dying.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۲،۶،۶</idno>
+                           <term>مردن</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.1"
+                                  n="b8d2fdb9-22ea-4040-8abb-aeeff0399f23">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.6.1</idno>
+                              <term>Kill</term>
+                              <gloss>Use this domain for words related to killing someone--to cause someone to die.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۶،۱</idno>
+                              <term>کشتن</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.2"
+                                  n="7e2b6218-0837-4b16-a982-c9535cccdb21">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.6.2</idno>
+                              <term>Corpse</term>
+                              <gloss>Use this domain for words referring to a corpse--the body of a person who has died.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۶،۲</idno>
+                              <term>جسد</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.3"
+                                  n="08d5e632-0aed-4924-b3bb-d43de3420385">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.6.3</idno>
+                              <term>Funeral</term>
+                              <gloss>Use this domain for words related to a funeral and other things that are done after a person dies.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۶،۳</idno>
+                              <term>مراسم دفن/تشییع جنازه</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.4"
+                                  n="f2d0f288-5bbe-4fa0-9e8f-ddcc74891701">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.6.4</idno>
+                              <term>Mourn</term>
+                              <gloss>Use this domain for words related to mourning a death--to feel bad because someone died and to show this feeling in various ways. Include whatever cultural practices are used.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۶،۴</idno>
+                              <term>عزاداری</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.5"
+                                  n="ca9c215a-e568-4d09-b3a9-b5727cd831d6">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.6.5</idno>
+                              <term>Bury</term>
+                              <gloss>Use this domain for words related to disposing of a dead body. Different cultures have practices other than burying a body in the ground. Include words for all practices used by the culture.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۶،۵</idno>
+                              <term>دفن</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.6"
+                                  n="32cf3835-bced-4ea1-9c7a-f7ff653e59fe">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.6.6</idno>
+                              <term>Grave</term>
+                              <gloss>Use this domain for words related to a grave--the place where a dead body is put.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۶،۶</idno>
+                              <term>قبر</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.7"
+                                  n="1ec85151-eba0-48f4-b56d-4f8040602a4b">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.6.7</idno>
+                              <term>Inherit</term>
+                              <gloss>Use this domain for words related to inheriting something from your parents after they die.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۶،۷</idno>
+                              <term>ارث</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.8"
+                                  n="0281fb1d-ab12-41b9-a3dc-09ef6b1e4733">
+                           <catDesc xml:lang="en">
+                              <idno>2.6.6.8</idno>
+                              <term>Life after death</term>
+                              <gloss>Use this domain for words related to life after death.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۲،۶،۶،۸</idno>
+                              <term>زندگی/حیات پس از مرگ</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.3"
+                         n="f4491f9b-3c5e-42ab-afc0-f22e19d0fff5">
+                  <catDesc xml:lang="en">
+                     <idno>3</idno>
+                     <term>Language and thought</term>
+                     <gloss>Use this domain for general words referring to mental and verbal activity. This domain is primarily for grouping many related domains. Therefore there may be no general word in a language to cover such a broad area of meaning.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>۳</idno>
+                     <term>زبان و افکار</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.3.2"
+                            n="df9ee372-e92e-4f73-aac5-d36908497698">
+                     <catDesc xml:lang="en">
+                        <idno>3.2</idno>
+                        <term>Think</term>
+                        <gloss>Use this domain for words related to thinking, thought processes, and kinds of thinking.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۳،۲</idno>
+                        <term>فکر کردن</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.3.2.5"
+                               n="541dfa10-bf97-4713-a534-9cbcc7f66bc9">
+                        <catDesc xml:lang="en">
+                           <idno>3.2.5</idno>
+                           <term>Opinion</term>
+                           <gloss>Use this domain for situations in which a question or issues are being debated, more than one option is possible, and a person chooses to think in one way about the question or issue.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۳،۲،۵</idno>
+                           <term>نظر، عقیده</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.3.2.5.1"
+                                  n="c0f4715e-55c9-4379-ab6f-ad561a5e7151">
+                           <catDesc xml:lang="en">
+                              <idno>3.2.5.1</idno>
+                              <term>Believe</term>
+                              <gloss>Use this domain for words referring to believing that something is true.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۳،۲،۵،۱</idno>
+                              <term>ایمان داشتن، باور داشتن</term>
+                              <gloss/>
+                           </catDesc>
+                           <category xml:id="LeDIIR.taxonomy.3.2.5.1.1"
+                                     n="691bdba3-c216-4b42-877c-674bbdb517a7">
+                              <catDesc xml:lang="en">
+                                 <idno>3.2.5.1.1</idno>
+                                 <term>Trust</term>
+                                 <gloss>Use this domain for words referring to trusting someone--believing that someone is honest and will not do something bad to you.</gloss>
+                              </catDesc>
+                              <catDesc xml:lang="fa">
+                                 <idno>۳،۲،۵،۱،۱</idno>
+                                 <term>اعتماد</term>
+                                 <gloss/>
+                              </catDesc>
+                           </category>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.3.2.7"
+                               n="5e3bb9e5-fd70-4c5a-95a0-938bc4876a47">
+                        <catDesc xml:lang="en">
+                           <idno>3.2.7</idno>
+                           <term>Expect</term>
+                           <gloss>Use this domain for words referring to thinking about the future.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۳،۲،۷</idno>
+                           <term>انتظار داشتن، چشم داشتن</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.3.2.7.1"
+                                  n="aaf63abd-c8a5-4546-8fc1-a51c6e607683">
+                           <catDesc xml:lang="en">
+                              <idno>3.2.7.1</idno>
+                              <term>Hope</term>
+                              <gloss>Use this domain for words related to hoping that something will happen--to want something good to happen in the future.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۳،۲،۷،۱</idno>
+                              <term>امید</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.3.4"
+                            n="cb95189c-8c74-465b-af07-48e08dbf7c39">
+                     <catDesc xml:lang="en">
+                        <idno>3.4</idno>
+                        <term>Emotion</term>
+                        <gloss>Use this domain for general words related to feelings and emotions.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۳،۴</idno>
+                        <term>احساسات</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.3.4.1"
+                               n="474aa982-8350-47e2-a983-e1e2bce9d928">
+                        <catDesc xml:lang="en">
+                           <idno>3.4.1</idno>
+                           <term>Feel good</term>
+                           <gloss>Use this domain for general words related to positive emotions.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۳،۴،۱</idno>
+                           <term>احساس خوب</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.3.4.1.4"
+                                  n="f9d020d6-b129-4bb8-9509-3b4a6c27482e">
+                           <catDesc xml:lang="en">
+                              <idno>3.4.1.4</idno>
+                              <term>Interested</term>
+                              <gloss>Use this domain for words related to feeling interested.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۳،۴،۱،۴</idno>
+                              <term>علاقه مند</term>
+                              <gloss/>
+                           </catDesc>
+                           <category xml:id="LeDIIR.taxonomy.3.4.1.4.2"
+                                     n="85912845-21b0-41eb-8b8c-1f5c3d53df08">
+                              <catDesc xml:lang="en">
+                                 <idno>3.4.1.4.2</idno>
+                                 <term>Enthusiastic</term>
+                                 <gloss>Use this domain for words related to feeling enthusiastic--to feel very good because you want to do something or you want something to happen.</gloss>
+                              </catDesc>
+                              <catDesc xml:lang="fa">
+                                 <idno>۳،۴،۱،۴،۲</idno>
+                                 <term>مشتاق، علاقه مند</term>
+                                 <gloss/>
+                              </catDesc>
+                           </category>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.3.5"
+                            n="c9aee4df-ac3e-4159-bd1a-060db1a5f070">
+                     <catDesc xml:lang="en">
+                        <idno>3.5</idno>
+                        <term>Communication</term>
+                        <gloss>Use this domain for general words referring to communication of all kinds.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۳،۵</idno>
+                        <term>ارتباط</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.3.5.1"
+                               n="9efa7949-de15-499a-b382-4560e06c4fb4">
+                        <catDesc xml:lang="en">
+                           <idno>3.5.1</idno>
+                           <term>Say</term>
+                           <gloss>Use this domain for words related to saying something.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۳،۵،۱</idno>
+                           <term>گفتن</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.3.5.1.2"
+                                  n="e45b8bac-9623-4f84-a113-9dec13a8db64">
+                           <catDesc xml:lang="en">
+                              <idno>3.5.1.2</idno>
+                              <term>Talk about a subject</term>
+                              <gloss>Use this domain for words related to talking about a subject.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۳،۵،۱،۲</idno>
+                              <term>در مورد موضوعی صحبت کردن</term>
+                              <gloss/>
+                           </catDesc>
+                           <category xml:id="LeDIIR.taxonomy.3.5.1.2.6"
+                                     n="0539de86-f407-4b3d-b1b8-028822fb9f26">
+                              <catDesc xml:lang="en">
+                                 <idno>3.5.1.2.6</idno>
+                                 <term>Repeat</term>
+                                 <gloss>Use this domain for words related to repeating something--saying something a second time.</gloss>
+                              </catDesc>
+                              <catDesc xml:lang="fa">
+                                 <idno>۳،۵،۱،۲،۶</idno>
+                                 <term>تکرار کردن</term>
+                                 <gloss/>
+                              </catDesc>
+                           </category>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.3.5.9"
+                               n="cac1d7a8-7382-466e-ba4a-ba2bfe50f13b">
+                        <catDesc xml:lang="en">
+                           <idno>3.5.9</idno>
+                           <term>Mass communication</term>
+                           <gloss>Use this domain for words related to radio, television, newspapers, magazines and other forms of mass communication.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۳،۵،۹</idno>
+                           <term>ارتباطات جمعی</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.3.5.9.2"
+                                  n="32bf055a-d666-4d6e-a3c6-6c984e2c9868">
+                           <catDesc xml:lang="en">
+                              <idno>3.5.9.2</idno>
+                              <term>Telephone</term>
+                              <gloss>Use this domain for words related to the telephone.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۳،۵،۹،۲</idno>
+                              <term>تلفن</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.3.6"
+                            n="6137239a-b469-46be-b7cb-b9ac22fcc195">
+                     <catDesc xml:lang="en">
+                        <idno>3.6</idno>
+                        <term>Teach</term>
+                        <gloss>Use this domain for words related to teaching.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۳،۶</idno>
+                        <term>یاد دادن، تعلیم دادن</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.3.6.6"
+                               n="1886ffc9-0a18-41ea-b2f6-c17c297f1681">
+                        <catDesc xml:lang="en">
+                           <idno>3.6.6</idno>
+                           <term>Science</term>
+                           <gloss>Use this domain for words related to science.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۳،۶،۶</idno>
+                           <term>علوم</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.4"
+                         n="62b4ae33-f3c2-447a-9ef7-7e41805b6a02">
+                  <catDesc xml:lang="en">
+                     <idno>4</idno>
+                     <term>Social behavior</term>
+                     <gloss>Use this domain for very general words having to do with how people behave in relationship to other people.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>۴</idno>
+                     <term>رفتار اجتماعی</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.4.1"
+                            n="0e79435b-f5ff-4061-81ff-49557ba2aed4">
+                     <catDesc xml:lang="en">
+                        <idno>4.1</idno>
+                        <term>Relationships</term>
+                        <gloss>Use this domain for words related to relationships between people and groups of people.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۴،۱</idno>
+                        <term>روابط</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.4.1.9"
+                               n="e7c58c11-2911-446a-96b0-2113247f3792">
+                        <catDesc xml:lang="en">
+                           <idno>4.1.9</idno>
+                           <term>Kinship</term>
+                           <gloss>Use this domain for general words for family relationships, not for specific terms.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۴،۱،۹</idno>
+                           <term>خویشاوندی</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.4.1.9.3"
+                                  n="04370e1f-25aa-4d9e-97c5-de9b59156666">
+                           <catDesc xml:lang="en">
+                              <idno>4.1.9.3</idno>
+                              <term>Widow, widower</term>
+                              <gloss>Use this domain for words referring to widows and widowers. Some languages also have words for a parent who has lost a child, someone who has lost a brother or sister, or a general word for someone who has lost a relative.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۴،۱،۹،۳</idno>
+                              <term>بیوه زن و بیوه مرد</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.4.2"
+                            n="57225f57-ba51-45d7-b6d2-b22052877ea4">
+                     <catDesc xml:lang="en">
+                        <idno>4.2</idno>
+                        <term>Social activity</term>
+                        <gloss>Use this domain for general words referring to social activities.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۴،۲</idno>
+                        <term>فعالیت اجتماعی</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.4.2.7"
+                               n="a3d95c6a-4b0b-4af0-aca8-addd042becd2">
+                        <catDesc xml:lang="en">
+                           <idno>4.2.7</idno>
+                           <term>Play, fun</term>
+                           <gloss>Use this domain for words related to playing and fun.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۴،۲،۷</idno>
+                           <term>بازی، تفریح</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.4.4"
+                            n="9bb173c6-cf38-47cd-803f-ebdf964ca2fc">
+                     <catDesc xml:lang="en">
+                        <idno>4.4</idno>
+                        <term>Prosperity, trouble</term>
+                        <gloss>Use this domain for general words referring to prosperity and trouble</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۴،۴</idno>
+                        <term>سعادت و خوشبختی ، زحمت و  سختی</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.4.4.1"
+                               n="c1144a6e-3fce-4084-93d6-6f305eda8b1f">
+                        <catDesc xml:lang="en">
+                           <idno>4.4.1</idno>
+                           <term>Prosperity</term>
+                           <gloss>Use this domain for words related to prosperity--when good things are happening.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۴،۴،۱</idno>
+                           <term>سعادت و خوشبختی</term>
+                           <gloss/>
+                        </catDesc>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.4.4.4"
+                               n="3dd684e6-75d9-41f4-aaa3-fb0cb3c7d400">
+                        <catDesc xml:lang="en">
+                           <idno>4.4.4</idno>
+                           <term>Respond to someone in trouble</term>
+                           <gloss>Use this domain for words related to responding to someone in trouble.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۴،۴،۴</idno>
+                           <term>پاسخ دادن/رسیدگی کردن به کسی که در مشکل است</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.4.4.4.5"
+                                  n="0a42fd83-3b30-4c85-bb68-f5132e9ffeee">
+                           <catDesc xml:lang="en">
+                              <idno>4.4.4.5</idno>
+                              <term>Protect</term>
+                              <gloss>Use this domain for words related to protecting someone from danger or being hurt.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۴،۴،۴،۵</idno>
+                              <term>محافظت کردن</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.4.9"
+                            n="7556a257-3703-40d3-91d3-c891fb250947">
+                     <catDesc xml:lang="en">
+                        <idno>4.9</idno>
+                        <term>Religion</term>
+                        <gloss>Use this domain for general words referring to religion and the supernatural.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۴،۹</idno>
+                        <term>مذهب، دین</term>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.4.9.5"
+                               n="b9c752a4-66be-493c-8955-cfa5324a54c1">
+                        <catDesc xml:lang="en">
+                           <idno>4.9.5</idno>
+                           <term>Practice religion</term>
+                           <gloss>Use this domain for words related to practicing religion.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۴،۹،۵</idno>
+                           <term>انجام اعمال مذهبی</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.4.9.5.2"
+                                  n="00dde3be-e53d-42c3-b3ff-717e25cbffb6">
+                           <catDesc xml:lang="en">
+                              <idno>4.9.5.2</idno>
+                              <term>Pray</term>
+                              <gloss>Use this domain for words related to praying--talking to God.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۴،۹،۵،۲</idno>
+                              <term>دعا کردن</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.4.9.5.3"
+                                  n="2ccab97a-fb98-4054-a29b-e5ceac8ca1b4">
+                           <catDesc xml:lang="en">
+                              <idno>4.9.5.3</idno>
+                              <term>Worship</term>
+                              <gloss>Use this domain for personal expressions of devotion to God, in whatever ways the religion defines and expresses it.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۴،۹،۵،۳</idno>
+                              <term>پرستش</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.4.9.5.4"
+                                  n="5a4a8ae5-a209-4946-8fa1-3c3bd5083e0d">
+                           <catDesc xml:lang="en">
+                              <idno>4.9.5.4</idno>
+                              <term>Religious ceremony</term>
+                              <gloss>Use this domain for words related to religious ceremonies.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۴،۹،۵،۴</idno>
+                              <term>مراسم مذهبی</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.4.9.7"
+                               n="2470ad05-636e-4c85-96ab-cd880da58741">
+                        <catDesc xml:lang="en">
+                           <idno>4.9.7</idno>
+                           <term>Religious organization</term>
+                           <gloss>Use this domain for words referring to official religions, groups within a religion, and religious meetings. Each religion will have different names for its groups. Answer each question for each religion.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۴،۹،۷</idno>
+                           <term>سازمان مذهبی</term>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.4.9.7.1"
+                                  n="ef860ee3-a4a5-4a42-b810-fdf41e35d151">
+                           <catDesc xml:lang="en">
+                              <idno>4.9.7.1</idno>
+                              <term>Religious person</term>
+                              <gloss>Use this domain for words referring to religious practitioners--people who practice a religion, who are members of the religion, believe in the religion, leaders of the religion, and followers of the religion. Each religion has its own terms for religious practitioners. List these terms separately for each religion. The examples given below are for the Christian religion.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۴،۹،۷،۱</idno>
+                              <term>فرد مذهبی</term>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.6"
+                         n="c82fa28f-7e26-489e-a244-4d69cea87b94">
+                  <catDesc xml:lang="en">
+                     <idno>6</idno>
+                     <term>Work and occupation</term>
+                     <gloss>Use this domain for general words related to working.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>۶</idno>
+                     <term/>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.6.1"
+                            n="d68911f6-6507-483a-b015-44726fdf868a">
+                     <catDesc xml:lang="en">
+                        <idno>6.1</idno>
+                        <term>Work</term>
+                        <gloss>Use this domain for words related to working.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۶،۱</idno>
+                        <term/>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.6.1.1"
+                               n="8be94377-a3cc-4187-a6e2-51523e953503">
+                        <catDesc xml:lang="en">
+                           <idno>6.1.1</idno>
+                           <term>Worker</term>
+                           <gloss>Use this domain for words related to a worker.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۶،۱،۱</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.6.1.1.1"
+                                  n="b6ead5e6-dab5-4941-9017-d03452182709">
+                           <catDesc xml:lang="en">
+                              <idno>6.1.1.1</idno>
+                              <term>Expert</term>
+                              <gloss>Use this domain for words related to being an expert--someone who can do something well.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۶،۱،۱،۱</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.6.1.8"
+                               n="5d92b4a7-baf7-495e-bb43-4f733cc55935">
+                        <catDesc xml:lang="en">
+                           <idno>6.1.8</idno>
+                           <term>Experienced</term>
+                           <gloss>Use this domain for words related to being experienced at doing something.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۶،۱،۸</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.6.1.8.1"
+                                  n="ea839451-f89e-4432-b361-3086ca4f13fd">
+                           <catDesc xml:lang="en">
+                              <idno>6.1.8.1</idno>
+                              <term>Accustomed to</term>
+                              <gloss>Use this domain for words related to being accustomed to something.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۶،۱،۸،۱</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.6.6"
+                            n="9bab95c4-9773-4894-9cb9-d7ad39378b45">
+                     <catDesc xml:lang="en">
+                        <idno>6.6</idno>
+                        <term>Occupation</term>
+                        <gloss>Use this domain for words related to occupations.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۶،۶</idno>
+                        <term/>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.6.6.2"
+                               n="34e92ff1-32aa-49c7-b4da-d161bedc5adc">
+                        <catDesc xml:lang="en">
+                           <idno>6.6.2</idno>
+                           <term>Working with minerals</term>
+                           <gloss>Use this domain for words related to working with minerals.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۶،۶،۲</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.6.6.2.9"
+                                  n="8b76f4a2-9926-4c76-8d4f-563371683219">
+                           <catDesc xml:lang="en">
+                              <idno>6.6.2.9</idno>
+                              <term>Working with chemicals</term>
+                              <gloss>Use this domain for words related to working with chemicals.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۶،۶،۲،۹</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                           <category xml:id="LeDIIR.taxonomy.6.6.2.9.1"
+                                     n="1fd8a8d6-6795-4a5b-90e0-342e8b0975a1">
+                              <catDesc xml:lang="en">
+                                 <idno>6.6.2.9.1</idno>
+                                 <term>Explode</term>
+                                 <gloss>Use this domain for words related to bombs or chemicals exploding.</gloss>
+                              </catDesc>
+                              <catDesc xml:lang="fa">
+                                 <idno>۶،۶،۲،۹،۱</idno>
+                                 <term/>
+                                 <gloss/>
+                              </catDesc>
+                           </category>
+                        </category>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.7"
+                         n="d60faf11-cc6e-48db-8a13-82f86d78ab00">
+                  <catDesc xml:lang="en">
+                     <idno>7</idno>
+                     <term>Physical actions</term>
+                     <gloss>Use this domain for general words for physical actions--moving yourself, moving things, and changing things.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>۷</idno>
+                     <term>کنشهای فیزیکی یا جسمی (حرکات جسمی)</term>
+                     <gloss>از کلمات این دامنه برای کلمات عمومی برای حرکت جسم- حرکت دادن خود، حرکت اجسام، و تغییر اشیا- استفاده کنید.</gloss>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.7.3"
+                            n="2810998c-d6cc-47a3-a946-66d0986a2767">
+                     <catDesc xml:lang="en">
+                        <idno>7.3</idno>
+                        <term>Move something</term>
+                        <gloss>Use this domain for general words referring to moving something or someone.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۷،۳</idno>
+                        <term>حرکت دادن چیزی</term>
+                        <gloss>از این دامنه برای کلمات جامع مربوط به حرکت دادن چیزی یا کسی استفاده کنید.</gloss>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.7.3.1"
+                               n="6430b89c-7077-418a-a558-51f0e3f2c1a6">
+                        <catDesc xml:lang="en">
+                           <idno>7.3.1</idno>
+                           <term>Carry</term>
+                           <gloss>Use this domain for words referring to carrying something--to pick something up and hold it while moving oneself.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۷،۳،۱</idno>
+                           <term>بر دوش کشیدن</term>
+                           <gloss>از این دامنه برای کلمات مربوط به، بر‌دوش کشیدن چیزی- بلند کردن چیزی و نگهداشتن آن در‌حالیکه خود در حرکت می‌باشید- استفاده کنید.</gloss>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.1"
+                                  n="7831223b-e5ed-4186-a321-94e9ae72a27d">
+                           <catDesc xml:lang="en">
+                              <idno>7.3.1.1</idno>
+                              <term>Throw</term>
+                              <gloss>Use this domain for words referring to throwing something.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۷،۳،۱،۱</idno>
+                              <term>پرتاب کردن</term>
+                              <gloss>از این دامنه برای کلمات مربوط به پرتاب کردن چیزی استفاده کنید.</gloss>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.2"
+                                  n="ef025cd9-dd92-442b-a8f9-fe7ac944ccec">
+                           <catDesc xml:lang="en">
+                              <idno>7.3.1.2</idno>
+                              <term>Catch</term>
+                              <gloss>Use this domain for verbs for catching something that is thrown or dropped</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۷،۳،۱،۲</idno>
+                              <term>گرفتن</term>
+                              <gloss>از این دامنه برای افعال مربوط به گرفتن چیزی که انداخته یا افتاده استفاده کنید.</gloss>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.3"
+                                  n="05371057-2fe4-49ef-b203-f5bd6727645e">
+                           <catDesc xml:lang="en">
+                              <idno>7.3.1.3</idno>
+                              <term>Shake</term>
+                              <gloss>Use this domain for words referring to moving something back and forth.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۷،۳،۱،۳</idno>
+                              <term>لرزیدن</term>
+                              <gloss>از این دامنه برای کلمات مربوط به حرکت چیزی به این سو و آن سو استفاده کنید.</gloss>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.4"
+                                  n="06905a7e-47f4-4c86-afea-a4175295b566">
+                           <catDesc xml:lang="en">
+                              <idno>7.3.1.4</idno>
+                              <term>Knock over</term>
+                              <gloss>Use this domain for words referring to knocking something over so that it falls, and for knocking a container over so that it spills its contents.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۷،۳،۱،۴</idno>
+                              <term>چپه کردن</term>
+                              <gloss>از این دامن برای کلمات مربوط به چپه کردن چیزی طوری‌که بیافتد، و برای چپه کردن یک محفظه طوری‌که محتویاتش بیرون بریزد، استفاده کنید.</gloss>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.5"
+                                  n="28a37d39-8347-4254-99bf-8e3c37dbf8a8">
+                           <catDesc xml:lang="en">
+                              <idno>7.3.1.5</idno>
+                              <term>Set upright</term>
+                              <gloss>Use this domain for words related to setting something upright.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۷،۳،۱،۵</idno>
+                              <term>عمود کردن</term>
+                              <gloss>از این دامنه برای کلمات مربوط به عمود کردن چیزی استفاده کنید.</gloss>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.8"
+                         n="c72985cf-b07f-4ed5-873a-a2209929667e">
+                  <catDesc xml:lang="en">
+                     <idno>8</idno>
+                     <term>States</term>
+                     <gloss>Use this domain for general words refer to the state or condition of something.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>۸</idno>
+                     <term>چگونگی و حالت</term>
+                     <gloss>این  حیطه را برای واژگان عمومی که به حالت یا موقعیت چیزی برمی‌گردد استفاده می‌شود.</gloss>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.8.1"
+                            n="c6c772af-7b6b-4393-b0da-5b4a329d3426">
+                     <catDesc xml:lang="en">
+                        <idno>8.1</idno>
+                        <term>Quantity</term>
+                        <gloss>Use this domain for general words referring to the amount or quantity of something.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۸،۱</idno>
+                        <term>کمیّت</term>
+                        <gloss>از این ناحیه برای واژگان عمومی که به مقدار یا کمیت چیزی برمی‌گردند، استفاده کنید.</gloss>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.8.1.1"
+                               n="fb84538a-17a8-4adc-8d50-e2b66f8e4099">
+                        <catDesc xml:lang="en">
+                           <idno>8.1.1</idno>
+                           <term>Number</term>
+                           <gloss>Use this domain for words related to numbers. Every language has a word for 'one', and a word for 'two'. These two numbers often have special words. So we have included a separate domain for 'one' and 'two'. In addition the numbers form a series (one, two, three...). Most languages have more than one series of numbers (first, second, third...).  So we have also included a domain for each series of numbers that most languages have. Your language may have other series of numbers. Put them in the domain 'Number series'.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۸،۱،۱</idno>
+                           <term>عدد</term>
+                           <gloss>این حوزه را برای واژگان منسوب ارقامی استفاده کنید. هر زبانی واژه‌ای برای (یک ۱) دارد، و واژه‌ای برای (دو۲(. این دو عدد اغلب واژگان خاصی دارند. پس ما حوزه‌ی جداگانه‌ای در برگرفته‌ای برای (یک۱) و (دو۲) داریم. بعلاوه شکل اعداد متوالی (یک، دو، سه...). اغلب زبان‌ها بیشتر از یک متوالی اعداد دارند (اولین، دومین، سومین،...). پس ما همچنان حوزه‌ی در برگرفته‌ای برای هر متوالی از اعدادی که اغلب زبان‌ها دارند را داریم. زبان شما ممکن است که متوالی دیگری از اعداد را داشته باشد. آنها را در (متوالی اعداد) حوزه قرار دهید. </gloss>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.8.1.1.3"
+                                  n="d85d0838-a9e4-4787-8fce-7d0466bc24b9">
+                           <catDesc xml:lang="en">
+                              <idno>8.1.1.3</idno>
+                              <term>Number of times</term>
+                              <gloss>Use this domain for numbers that refer to the number of times something happens or is done. These numbers may be adverbs as in English (twice) or in some languages they may be verbs (to do something two times).</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۸،۱،۱،۳</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.8.1.8"
+                               n="8a81b9bc-9c66-4d57-a2d1-2e592604c4b1">
+                        <catDesc xml:lang="en">
+                           <idno>8.1.8</idno>
+                           <term>Full</term>
+                           <gloss>Use this domain for words referring to a container being full of something.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۸،۱،۸</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.8.1.8.1"
+                                  n="e9cafabe-f0f7-4142-a6f6-d1c94bdc4b5c">
+                           <catDesc xml:lang="en">
+                              <idno>8.1.8.1</idno>
+                              <term>Empty</term>
+                              <gloss>Use this domain for words referring to being empty.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۸،۱،۸،۱</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.8.3"
+                            n="ac9ee84f-f0c7-48b3-8e5a-b4c967112394">
+                     <catDesc xml:lang="en">
+                        <idno>8.3</idno>
+                        <term>Quality</term>
+                        <gloss>Use this domain for general words referring to the quality or condition of something.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۸،۳</idno>
+                        <term/>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.8.3.4"
+                               n="742996cd-b87f-40a8-bdb3-dba74219bd73">
+                        <catDesc xml:lang="en">
+                           <idno>8.3.4</idno>
+                           <term>Hot</term>
+                           <gloss>Use this domain for words describing something that is hot.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۸،۳،۴</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.8.3.2"
+                                  n="2621e605-3ecc-4f3d-b28c-f8c92b3c4584">
+                           <catDesc xml:lang="en">
+                              <idno>8.3.2</idno>
+                              <term>Texture</term>
+                              <gloss>Use this domain for general words referring to the texture of something--how the surface of something feels when you touch it.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۸،۳،۲</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                           <category xml:id="LeDIIR.taxonomy.8.3.2.2"
+                                     n="2e09535f-f61f-4ff5-8d56-23c2916cbb7f">
+                              <catDesc xml:lang="en">
+                                 <idno>8.3.2.2</idno>
+                                 <term>Rough</term>
+                                 <gloss>Use this domain for words referring to being rough.</gloss>
+                              </catDesc>
+                              <catDesc xml:lang="fa">
+                                 <idno>۸،۳،۲،۲</idno>
+                                 <term/>
+                                 <gloss/>
+                              </catDesc>
+                           </category>
+                        </category>
+                     </category>
+                     <category xml:id="LeDIIR.taxonomy.8.3.7"
+                               n="83adeb9d-c0be-4073-894d-913014420280">
+                        <catDesc xml:lang="en">
+                           <idno>8.3.7</idno>
+                           <term>Good</term>
+                           <gloss>Use this domain for words describing something that is good.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۸،۳،۷</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.8.3.7.9"
+                                  n="cd4300c9-265e-4457-8e33-4e0c9a4d4ba8">
+                           <catDesc xml:lang="en">
+                              <idno>8.3.7.9</idno>
+                              <term>Value</term>
+                              <gloss>Use this domain for words related to the value of something.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۸،۳،۷،۹</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.8.4"
+                            n="21167445-f1b1-49b4-b147-bc792616c432">
+                     <catDesc xml:lang="en">
+                        <idno>8.4</idno>
+                        <term>Time</term>
+                        <gloss>Use this domain for general words related to time, and for words indicating the temporal location of an event.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۸،۴</idno>
+                        <term/>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.8.4.6"
+                               n="18a6684f-d324-45ee-855c-44d473916b14">
+                        <catDesc xml:lang="en">
+                           <idno>8.4.6</idno>
+                           <term>Aspectual time</term>
+                           <gloss>Use this domain for words referring to a time period that is part of a longer time period.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۸،۴،۶</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.8.4.6.6"
+                                  n="457231c8-4eb6-4460-aa45-3e9f2c4e8975">
+                           <catDesc xml:lang="en">
+                              <idno>8.4.6.6</idno>
+                              <term>Once</term>
+                              <gloss>Use this domain for words referring to something happening once.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۸،۴،۶،۶</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                           <category xml:id="LeDIIR.taxonomy.8.4.6.6.1"
+                                     n="2351f52a-8822-46ad-99c4-7ef526e94a6f">
+                              <catDesc xml:lang="en">
+                                 <idno>8.4.6.6.1</idno>
+                                 <term>Again</term>
+                                 <gloss>Use this domain for words referring to something happening again or doing something again.</gloss>
+                              </catDesc>
+                              <catDesc xml:lang="fa">
+                                 <idno>۸،۴،۶،۶،۱</idno>
+                                 <term/>
+                                 <gloss/>
+                              </catDesc>
+                           </category>
+                        </category>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.9"
+                         n="349f0278-7998-422a-9c3b-6053989cbb20">
+                  <catDesc xml:lang="en">
+                     <idno>9</idno>
+                     <term>Grammar</term>
+                     <gloss>Use this domain for technical linguistic terms that refer to grammatical words and constructions. Most languages have few if any words in this domain.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>۹</idno>
+                     <term/>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.9.2"
+                            n="af0909a5-928a-4421-baaa-f33b14302714">
+                     <catDesc xml:lang="en">
+                        <idno>9.2</idno>
+                        <term>Part of speech</term>
+                        <gloss>This domain is for organization purposes and should not be used for any words. Use the domains in this section for words that belong to a particular part of speech. It is best not to use these domains, since they are based on grammar and not meaning. But if you have a small group of words that belong to a part of speech and you want to list them all, you can use these domains. You can also classify words in this section if you don't know what they mean yet.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۹،۲</idno>
+                        <term/>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.9.2.5"
+                               n="f950b7cc-fb85-4dbb-b8ca-934d38cae7fc">
+                        <catDesc xml:lang="en">
+                           <idno>9.2.5</idno>
+                           <term>Conjunctions</term>
+                           <gloss>Use this domain to list all conjunctions.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۹،۲،۵</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.9.2.5.1"
+                                  n="a42aa891-e4fd-489e-b573-b9d20dfc5c2a">
+                           <catDesc xml:lang="en">
+                              <idno>9.2.5.1</idno>
+                              <term>Phrase conjunctions</term>
+                              <gloss>Use this domain to list all phrase level conjunctions--conjunctions that join two words within a phrase.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۹،۲،۵،۱</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.9.2.5.2"
+                                  n="2c576c40-17ae-45a7-9ec8-6c16e02ab9c3">
+                           <catDesc xml:lang="en">
+                              <idno>9.2.5.2</idno>
+                              <term>Clause conjunctions</term>
+                              <gloss>Use this domain to list all clause level conjunctions--conjunctions that join two clauses.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۹،۲،۵،۲</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.9.2.5.3"
+                                  n="ae04020a-3bb2-4672-ad75-71ce72d461ea">
+                           <catDesc xml:lang="en">
+                              <idno>9.2.5.3</idno>
+                              <term>Sentence conjunctions</term>
+                              <gloss>Use this domain to list all sentence level conjunctions--conjunctions that join two sentences.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۹،۲،۵،۳</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.9.6"
+                            n="7f7fc197-5064-43c0-af51-2919fb7355c9">
+                     <catDesc xml:lang="en">
+                        <idno>9.6</idno>
+                        <term>Connected with, related</term>
+                        <gloss>Use the domains in this section for words that indicate a logical relation between two or more words or sentences. Use this domain for words that indicate an unspecified logical relation between people, things, or situations.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۹،۶</idno>
+                        <term/>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.9.6.2"
+                               n="b2fd2d29-1389-4114-91a8-15b8d9742794">
+                        <catDesc xml:lang="en">
+                           <idno>9.6.2</idno>
+                           <term>Dependency relations</term>
+                           <gloss>Use this domain for words indicating that something is dependent on another thing.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۹،۶،۲</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.9.6.2.6"
+                                  n="48d3de9f-3619-4785-b50b-6921ba7eecd6">
+                           <catDesc xml:lang="en">
+                              <idno>9.6.2.6</idno>
+                              <term>Result</term>
+                              <gloss>Use this domain for words indicating that something is the result of another thing.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۹،۶،۲،۶</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                           <category xml:id="LeDIIR.taxonomy.9.6.2.6.1"
+                                     n="139409c3-7860-4586-897f-85ba3226046c">
+                              <catDesc xml:lang="en">
+                                 <idno>9.6.2.6.1</idno>
+                                 <term>Without result</term>
+                                 <gloss>Use this domain for words indicating that something had no result.</gloss>
+                              </catDesc>
+                              <catDesc xml:lang="fa">
+                                 <idno>۹،۶،۲،۶،۱</idno>
+                                 <term/>
+                                 <gloss/>
+                              </catDesc>
+                           </category>
+                        </category>
+                        <category xml:id="LeDIIR.taxonomy.9.6.2.7"
+                                  n="18bf6c79-6399-4977-be3d-93135302d8c4">
+                           <catDesc xml:lang="en">
+                              <idno>9.6.2.7</idno>
+                              <term>Purpose</term>
+                              <gloss>Use this domain for words indicating that something was done for the purpose of another thing happening.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۹،۶،۲،۷</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                           <category xml:id="LeDIIR.taxonomy.9.6.2.7.1"
+                                     n="4fdf3cf1-0808-4f11-acdd-9db71550baab">
+                              <catDesc xml:lang="en">
+                                 <idno>9.6.2.7.1</idno>
+                                 <term>Without purpose</term>
+                                 <gloss>Use this domain for words indicating that something had no purpose.</gloss>
+                              </catDesc>
+                              <catDesc xml:lang="fa">
+                                 <idno>۹،۶،۲،۷،۱</idno>
+                                 <term/>
+                                 <gloss/>
+                              </catDesc>
+                           </category>
+                        </category>
+                     </category>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.9.7"
+                            n="5b7666bd-c6c1-45e7-aa2e-1799fcb16d97">
+                     <catDesc xml:lang="en">
+                        <idno>9.7</idno>
+                        <term>Name</term>
+                        <gloss>Use this domain for general words referring to proper nouns--the name given to a particular person or thing to distinguish it from other things like it. Proper nouns are often not included in a dictionary, or are included in an appendix at the front or back of a dictionary. This is because there are so many of them, they are sometimes difficult to define, and it saves space in the dictionary. For instance place names can be included in a map. So it might be good to type the proper nouns into a special file.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>۹،۷</idno>
+                        <term/>
+                        <gloss/>
+                     </catDesc>
+                     <category xml:id="LeDIIR.taxonomy.9.7.1"
+                               n="7b513a02-c3ae-4243-9410-16854d911258">
+                        <catDesc xml:lang="en">
+                           <idno>9.7.1</idno>
+                           <term>Name of a person</term>
+                           <gloss>Use this domain for words related to the name of a person. Each culture has a system of personal names to identify individuals and kin groups. The subcategories under this heading should reflect the cultural system. If your language has a special set of names that do not fit any of they domains given here, then set up a special domain.</gloss>
+                        </catDesc>
+                        <catDesc xml:lang="fa">
+                           <idno>۹،۷،۱</idno>
+                           <term/>
+                           <gloss/>
+                        </catDesc>
+                        <category xml:id="LeDIIR.taxonomy.9.7.1.1"
+                                  n="6b921117-47e9-4717-b3b3-4e170d26b6d9">
+                           <catDesc xml:lang="en">
+                              <idno>9.7.1.1</idno>
+                              <term>Personal names</term>
+                              <gloss>Use this domain for those names that are given to people, that people use to call to each other and to talk about each other.</gloss>
+                           </catDesc>
+                           <catDesc xml:lang="fa">
+                              <idno>۹،۷،۱،۱</idno>
+                              <term/>
+                              <gloss/>
+                           </catDesc>
+                        </category>
+                     </category>
+                  </category>
+               </category>
+            </taxonomy>
+            <taxonomy xml:id="LeDIIR.taxonomy.grammar">
+               <bibl>Slovní druhy (Lexikální databáze indoevropských jazyků).</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LeDIIR.taxonomy.meaningType">
+               <bibl>Stylové poznámky (Lexikální databáze indoevropských jazyků).</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LeDIIR.taxonomy.textType">
+               <bibl>Stylistické kvalifikátory (Lexikální databáze indoevropských jazyků).</bibl>
+               <!--LeDIIR.taxonomy. skipped -->
+               <!--LeDIIR.taxonomy. skipped -->
+               <!--LeDIIR.taxonomy. skipped -->
+            </taxonomy>
+            <taxonomy xml:id="LeDIIR.taxonomy.socioCultural">
+               <bibl>Stylové poznámky (Lexikální databáze indoevropských jazyků).</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LeDIIR.taxonomy.complexFormType">
+               <bibl>Komplexní formy (Lexikální databáze indoevropských jazyků).</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="cs-CZ"
+              xml:id="project-about">
+            <head>O projektu</head>
+            <div xml:id="project-head">
+               <head>Elektronická lexikální databáze indoíránských jazyků, persko-český modul</head>
+               <p>Copyright © 2022, Sociologický ústav AV ČR, Filozofická fakulta UK</p>
+               <p>Autorský tým: SOÚ AV ČR: Darina Vystrčilová, Mona Khademi, Radka Taucová,<lb/> FF UK: Zuzana Kříhová, Ľubomír Novák, Bořivoj Nachtmann</p>
+               <p>Jazykové korektury češtiny: Kristýna Přibylová</p>
+               <p>Odborný konzultant: Michal Škrabal</p>
+               <p>Technická spolupráce: Boris Lehečka, Milan Paučula</p>
+               <p>Vytvoření jazykových korpusů <hi rend="italic">Araneum Persicum</hi>: Vladimír Benko</p>
+               <p>Další spolupráce: Peter Fajnor, Martina Hartmannová, Filip Lachmann, Zuzana Řezníčková, Martin Vávra</p>
+               <p>Lexikální databáze je zpracovávána v programu <ref target="https://software.sil.org/fieldworks">FLEx</ref> (FieldWorks Language Explorer) společnosti <ref target="https://www.sil.org/">SIL International</ref>.</p>
+            </div>
+         </div>
+         <div xml:id="project-how-to-cite">
+            <head>Jak citovat</head>
+            <p>Darina Vystrčilová, Mona Khademi, Zuzana Kříhová et al.: Elektronická lexikální databáze indoíránských jazyků, persko-český modul. Praha 2022. Verze dat: 2022-11-01. Dostupné z WWW: <xr>&lt;<ref target="https://eldi.soc.cas.cz">https://eldi.soc.cas.cz</ref>&gt;</xr>
+            </p>
+         </div>
+         <div xml:id="project-help">
+            <head>Nápověda</head>
+            <p>Nápověda k ovládání webové aplikace.</p>
+         </div>
+         <div xml:id="project-news">
+            <head>Aktuality</head>
+            <div>
+               <head>Spuštění beta-verze</head>
+               <p>Beta-verze webového slovníku byla spuštěna na 6. 12. 2021.</p>
+            </div>
+         </div>
+         <div xml:id="project-about-language">
+            <head>O jazyce</head>
+            <p>Informace o perštině a dalších jazycích.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

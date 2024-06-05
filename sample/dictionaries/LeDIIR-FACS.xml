@@ -1,0 +1,3902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?teipublisher template="view.html" odd="lediir.odd" view="div"?>
+<TEI type="lex-0"
+     xml:id="FACS"
+     xml:lang="cs"
+     xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Persko-český slovník</title>
+            <author>
+               <forename>Darina</forename>
+               <surname>Vystrčilová</surname>
+            </author>
+            <author>
+               <forename>Mona</forename>
+               <surname>Khademi</surname>
+            </author>
+            <author>
+               <forename>Radka</forename>
+               <surname>Taucová</surname>
+            </author>
+            <author>
+               <forename>Zuzana</forename>
+               <surname>Kříhová</surname>
+            </author>
+            <author>
+               <forename>Ľubomír</forename>
+               <surname>Novák</surname>
+            </author>
+            <author>
+               <forename>Bořivoj</forename>
+               <surname>Nachtmann</surname>
+            </author>
+            <respStmt>
+               <resp>Připravila</resp>
+               <name>
+                  <forename>Darina</forename>
+                  <surname>Vystrčilová</surname>
+               </name>
+            </respStmt>
+            <respStmt>
+               <resp>Revize</resp>
+               <name>
+                  <forename>Radka</forename>
+                  <surname>Taucová</surname>
+               </name>
+            </respStmt>
+            <respStmt>
+               <resp>Jazyková korektura</resp>
+               <name>
+                  <forename>Kristýna</forename>
+                  <surname>Přibylová</surname>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Sociologický ústav AV ČR</distributor>
+            <distributor>Filozofická fakulta UK</distributor>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Toto dílo podléhá licenci Creative Commons Uveďte původ-Neužívejte komerčně-Nezpracovávejte 4.0 Mezinárodní Licence.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elektronická lexikální databáze indoíránských jazyků: Perština</title>
+                  <imprint>
+                     <distributor>Sociologický ústav AV ČR</distributor>
+                     <distributor>Filozofická fakulta UK</distributor>
+                     <pubPlace>Praha</pubPlace>
+                     <date when="2022">2022</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Data vznikla v rámci projektu podpořeného TA ČR.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Doklady byly upraveny pro potřeby překladového slovníku.</p>
+            <p>Pravopis dokladů byl sjednocen. Pravopisné varianty uvádíme v obvyklých pravopisných podobách.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <catRef scheme="#form"
+                    target="#born-digital"/>
+            <catRef scheme="#genre"
+                    target="#lexicography"/>
+            <catRef scheme="#feature"
+                    target="#rtl"/>
+            <catRef scheme="#period"
+                    target="#modern"/>
+         </textClass>
+         <langUsage>
+            <language ident="fa"
+                      role="objectLanguage"
+                      usage="20">perština</language>
+            <language ident="fa"
+                      role="sourceLanguage"
+                      usage="40">perština</language>
+            <language ident="cs"
+                      role="workingLanguage"
+                      usage="25">čeština</language>
+            <language ident="en"
+                      role="workingLanguage"
+                      usage="5">angličtina</language>
+            <language ident="cs"
+                      role="targetLanguage"
+                      usage="20">čeština</language>
+            <language ident="en"
+                      role="targetLanguage"
+                      usage="10">angličtina</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter"
+              xml:id="FACS.div.00066"
+              n="66">
+            <head type="letter">ب</head>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.e50af0b4-1185-47d3-bcb0-9e0ea270d615"
+                   sortKey="BA!Ac!Ye-BA!AcYe">
+               <form type="lemma">
+                  <orth xml:lang="fa">با آنکه</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">باآنکه</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">با آن که</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="phrase">
+                     <orth xml:lang="fa">با‌آنکه</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">باآنکه</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">با آنکه</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bá-án-ke</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD">TD</usg>
+               <sense xml:id="FACS.e50af0b4-1185-47d3-bcb0-9e0ea270d615.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Connective"
+                           ana="#LeDIIR.taxonomy.conn">conn</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">ačkoli
+<gloss>(v)</gloss>
+                     </seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">ač</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">přestože</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="4">i když</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="5">nehledě na to, že</seg>
+                  </def>
+                  <cit type="example">
+                     <quote xml:lang="fa">با آنکه به مکه نرفته بود ، همه او را حاجی آقا صدا می زدند .</quote>
+                     <cit type="translation"
+                          xml:lang="cs-CZ">
+                        <quote>Ačkoli nevykonal pouť do Mekky, všichni mu říkali Hádží Ághá.</quote>
+                     </cit>
+                  </cit>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.2.5">
+                     <idno>9.2.5</idno>
+                     <term>Conjunctions</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">ač</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">ačkoli(v)</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nehledě, nehledíc</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">přestože</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">although</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.3158fb97-7bd3-4507-a775-8d05a41b8514"
+                       subtype="kolokace"
+                       ana="#LeDIIR.taxonomy.complexFormType.kolokace">با</ref>
+                  <ref type="entry"
+                       target="#FACS.2950ba6b-7b32-448a-9c7b-fbd2f5fb0168"
+                       subtype="kolokace"
+                       ana="#LeDIIR.taxonomy.complexFormType.kolokace">آنکه</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.bfa90f45-50ab-4503-b9de-8cfedd99649e"
+                   sortKey="BA!dFdJ">
+               <form type="lemma">
+                  <orth xml:lang="fa">با وجود</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bá vodžúd(-e)</pron>
+               </form>
+               <usg type="frequency"
+                    value="TB">TB</usg>
+               <sense xml:id="FACS.bfa90f45-50ab-4503-b9de-8cfedd99649e.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Preposition"
+                           ana="#LeDIIR.taxonomy.prep">prep</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">přes, přese</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">navzdory</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">bez ohledu na</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="4">nehledě 
+<gloss>(nehledíc, nehledíce)</gloss> na</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.6.1.5">
+                     <idno>9.6.1.5</idno>
+                     <term>But</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.2.4">
+                     <idno>9.2.4</idno>
+                     <term>Prepositions, postpositions</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">navzdory</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nehledě na</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">ohled</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">přes, přese</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">despite</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.3158fb97-7bd3-4507-a775-8d05a41b8514"
+                       subtype="kolokace"
+                       ana="#LeDIIR.taxonomy.complexFormType.kolokace">با</ref>
+               </xr>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kolokace"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.3381d035-3454-4469-8b8d-15bffbe5e266"
+                      xml:id="FACS.3381d035-3454-4469-8b8d-15bffbe5e266.CF.kolokace.FACS.bfa90f45-50ab-4503-b9de-8cfedd99649e"
+                      xml:lang="fa"
+                      sortKey="BA!dFdJ!Afc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">با وجود این</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bá vodžúd-e-ín</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TC">TC</usg>
+                  <sense xml:id="FACS.3381d035-3454-4469-8b8d-15bffbe5e266.CF.kolokace.FACS.bfa90f45-50ab-4503-b9de-8cfedd99649e.FACS.3381d035-3454-4469-8b8d-15bffbe5e266.sense.1"
+                         copyOf="#FACS.3381d035-3454-4469-8b8d-15bffbe5e266.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Connective"
+                              ana="#LeDIIR.taxonomy.conn">conn</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">přesto</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">stejně</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">tak jako tak</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="4">i tak</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="5">nicméně</seg>
+                     </def>
+                  </sense>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.db9825c6-ae47-4069-b9c4-08212bbef8b3"
+                   sortKey="BAALMP-BA!ALMP">
+               <form type="lemma">
+                  <orth xml:lang="fa">با ارزش</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">باارزش</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">با ارزشی</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">باارزشی</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bá arzeš(í)</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC">TC</usg>
+               <sense xml:id="FACS.db9825c6-ae47-4069-b9c4-08212bbef8b3.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">cenný</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">hodnotný</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">vzácný</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.8.3.7.9">
+                     <idno>8.3.7.9</idno>
+                     <term>Value</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">cenný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">hodnotný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">vzácný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">valuable</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.1f3fd4e9-0f26-4c18-9772-b54bd078d127"
+                       subtype="derivace"
+                       ana="#LeDIIR.taxonomy.complexFormType.derivace">ارزش</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.ee83f2cd-1803-44ff-a322-748a999e9a19"
+                   sortKey="BAAPDfAX-BA!APDfAX">
+               <form type="lemma">
+                  <orth xml:lang="fa">با‌ اشتیاق</orth>
+                  <orth type="generated"
+                        subtype="space"
+                        xml:lang="fa">با اشتیاق</orth>
+                  <orth type="generated"
+                        subtype="space"
+                        xml:lang="fa">با  اشتیاق</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">بااشتیاق</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bá eštijágh</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD">TD</usg>
+               <sense xml:id="FACS.ee83f2cd-1803-44ff-a322-748a999e9a19.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adverb"
+                           ana="#LeDIIR.taxonomy.adv">adv</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">dychtivě</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">horlivě</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">vášnivě</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="4">nadšeně</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.4.1.4.2">
+                     <idno>3.4.1.4.2</idno>
+                     <term>Enthusiastic</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.2.7.1">
+                     <idno>3.2.7.1</idno>
+                     <term>Hope</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">dychtivě</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">horlivě</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nadšeně</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">vášnivě</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">eagerly</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.27560ed5-70bb-4c2c-959a-25446ddda8f8"
+                       subtype="derivace"
+                       ana="#LeDIIR.taxonomy.complexFormType.derivace">اشتیاق</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.f6575c3a-7e18-4d68-9fb4-5cdd155075cc"
+                   sortKey="BAAfbAc-BA!AfbAc">
+               <form type="lemma">
+                  <orth xml:lang="fa">با ایمان</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">باایمان</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bá ímán</pron>
+               </form>
+               <usg type="frequency"
+                    value="MD">MD</usg>
+               <sense xml:id="FACS.f6575c3a-7e18-4d68-9fb4-5cdd155075cc.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">věřící</seg>
+                  </def>
+                  <xr type="synonymy">
+                     <ref type="sense"
+                          target="#FACS.131bbc58-50ae-4025-9444-d268e9d55e71.sense.1">ایماندار</ref>
+                  </xr>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.2.5.1">
+                     <idno>3.2.5.1</idno>
+                     <term>Believe</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.9.7.1">
+                     <idno>4.9.7.1</idno>
+                     <term>Religious person</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">věřící</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">believer</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.e8c11582-289b-4ecc-92f4-6e2402994c45"
+                       subtype="derivace"
+                       ana="#LeDIIR.taxonomy.complexFormType.derivace">ایمان</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.a6d63e60-6067-4792-9e19-3a152c4768e7"
+                   sortKey="BAB-JL!BAB">
+               <form type="lemma">
+                  <orth xml:lang="fa">در باب</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">درباب</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">dar báb(-e)</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LR-VX">TC LR VX</usg>
+               <sense xml:id="FACS.a6d63e60-6067-4792-9e19-3a152c4768e7.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Preposition"
+                           ana="#LeDIIR.taxonomy.prep">prep</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">pokud jde o</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">co se týče</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">co do</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="4">ve věci</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="5">o</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="6">k, ke</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="7">na téma</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="8">k tématu</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.6.2.2">
+                     <idno>9.6.2.2</idno>
+                     <term>Limitation of topic</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.5.1.2.9">
+                     <idno>3.5.1.2.9</idno>
+                     <term>Be about, subject</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.2.1.1">
+                     <idno>3.2.1.1</idno>
+                     <term>Think about</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">k, ke</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">o</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">pokud</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">téma</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">týkat se</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">věc</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">About</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">as regards</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">on the topic</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">to the topic</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.e7fa7ea9-69a8-4524-92a0-867adfba1fe2"
+                       subtype="kolokace"
+                       ana="#LeDIIR.taxonomy.complexFormType.kolokace">باب</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.e4218efb-d270-49d6-ab86-34e500284ea9"
+                   sortKey="BABY">
+               <form type="lemma">
+                  <orth xml:lang="fa">بابک</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bábak</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LR-VX">TC LR VX</usg>
+               <sense xml:id="FACS.e4218efb-d270-49d6-ab86-34e500284ea9.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">Bábek 
+<gloss>(jm.m.)</gloss>
+                     </seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.7.1.1">
+                     <idno>9.7.1.1</idno>
+                     <term>Personal names</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">Bábek</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Puppets</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.40bf7bf4-df03-463c-8e3c-81e2bc838a9a"
+                   sortKey="BADFLBe-BA!DFLBe">
+               <form type="lemma">
+                  <orth xml:lang="fa">با تجربه</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">با تجربه ای</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">با تجربه‌ای</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">با تجربهای</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">با تجربه ای</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">با‌تجربه‌ای</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">باتجربهای</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">با تجربه ای</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">با‌تجربه</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">باتجربه</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">با تجربه</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bá tadžrobe</pron>
+               </form>
+               <etym>
+                  <cit type="etymon">
+                     <form>
+                        <orth xml:lang="fa">جرب</orth>
+                     </form>
+                     <lang>ar</lang>
+                  </cit>
+               </etym>
+               <usg type="frequency"
+                    value="TD-LR-VR">TD LR VR</usg>
+               <sense xml:id="FACS.40bf7bf4-df03-463c-8e3c-81e2bc838a9a.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">zkušený</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">ostřílený</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.1.8">
+                     <idno>6.1.8</idno>
+                     <term>Experienced</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.1.1.1">
+                     <idno>6.1.1.1</idno>
+                     <term>Expert</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">ostřílený</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">zkušený</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">experienced</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.1996a7b0-5e3a-48cd-9106-d3fafdf42ddb"
+                       subtype="derivace"
+                       ana="#LeDIIR.taxonomy.complexFormType.derivace">تجربه</ref>
+               </xr>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.analytický-predikát"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.analytický-predikát"
+                      copyOf="#FACS.834fe6a7-1b4d-4dd7-abc2-3eac59fcb40c"
+                      xml:id="FACS.834fe6a7-1b4d-4dd7-abc2-3eac59fcb40c.CF.analytický-predikát.FACS.40bf7bf4-df03-463c-8e3c-81e2bc838a9a"
+                      xml:lang="fa"
+                      sortKey="DFLBe!BdJc-BA!DFLBe!BdJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">با تجربه بودن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bá tadžrobe búdan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.834fe6a7-1b4d-4dd7-abc2-3eac59fcb40c.CF.analytický-predikát.FACS.40bf7bf4-df03-463c-8e3c-81e2bc838a9a.FACS.834fe6a7-1b4d-4dd7-abc2-3eac59fcb40c.sense.1"
+                         copyOf="#FACS.834fe6a7-1b4d-4dd7-abc2-3eac59fcb40c.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Verb"
+                              ana="#LeDIIR.taxonomy.v">v</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">být zkušený</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">vyznat se</seg>
+                     </def>
+                  </sense>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16"
+                   sortKey="BAF">
+               <form type="lemma">
+                  <orth xml:lang="fa">باج</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">باجی</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bádž</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD-LD-VR">TD LD VR</usg>
+               <sense xml:id="FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16.sense.1"
+                      n="1.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">poplatek</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">dávka</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">daň</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.8.4.3">
+                     <idno>6.8.4.3</idno>
+                     <term>Price</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">daň</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">dávka</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">poplatek</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">charge</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">tax</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">toll</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">tribute</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16.sense.2"
+                      n="2.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">úplatek</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">výpalné</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">výkupné</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.8.9.5">
+                     <idno>6.8.9.5</idno>
+                     <term>Bribe</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">úplatek</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">výkupné</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">výpalné</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">bribe</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">ransom</ref>
+                  </xr>
+               </sense>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kolokace"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.9a067df3-554c-4490-8dfb-79cdbc8f5b93"
+                      xml:id="FACS.9a067df3-554c-4490-8dfb-79cdbc8f5b93.CF.kolokace.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16"
+                      xml:lang="fa"
+                      sortKey="BAF-BAF!OBfa">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باج سبیل</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bádž-sabíl</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.9a067df3-554c-4490-8dfb-79cdbc8f5b93.CF.kolokace.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16.FACS.9a067df3-554c-4490-8dfb-79cdbc8f5b93.sense.1"
+                         copyOf="#FACS.9a067df3-554c-4490-8dfb-79cdbc8f5b93.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">výkupné</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">výpalné</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.e43dea62-d5b1-4652-8ca1-7bbff4992067"
+                      xml:id="FACS.e43dea62-d5b1-4652-8ca1-7bbff4992067.CF.kolokace.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16"
+                      xml:lang="fa"
+                      sortKey="BAFLAe-BAF!LAe">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باج راه</orth>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">باجراه</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bádž-ráh</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+               </entry>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.analytický-predikát"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.analytický-predikát"
+                      copyOf="#FACS.05cd5df4-09d7-477f-8a60-6c85dc68fcc3"
+                      xml:id="FACS.05cd5df4-09d7-477f-8a60-6c85dc68fcc3.CF.analytický-predikát.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16"
+                      xml:lang="fa"
+                      sortKey="BAF!JAJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باج دادن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bádž dádan (be)</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TD">TD</usg>
+                  <sense xml:id="FACS.05cd5df4-09d7-477f-8a60-6c85dc68fcc3.CF.analytický-predikát.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16.FACS.05cd5df4-09d7-477f-8a60-6c85dc68fcc3.sense.1"
+                         copyOf="#FACS.05cd5df4-09d7-477f-8a60-6c85dc68fcc3.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Verb"
+                              ana="#LeDIIR.taxonomy.v">v</gram>
+                     </gramGrp>
+                     <gramGrp>
+                        <gram type="collocate"
+                              xml:lang="fa">به</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">zaplatit úplatek, výpalné, výkupné</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">platit tribut</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">odvádět daně 
+<gloss>(komu)</gloss>
+                        </seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="4">vyplatit se</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="5">nechat se vydírat 
+<gloss>(od)</gloss>
+                        </seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.analytický-predikát"
+                      copyOf="#FACS.9c5143f3-8681-40fd-8089-9160b15b6589"
+                      xml:id="FACS.9c5143f3-8681-40fd-8089-9160b15b6589.CF.analytický-predikát.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16"
+                      xml:lang="fa"
+                      sortKey="BAF!ZLWDc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باج گرفتن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bádž gereftan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.9c5143f3-8681-40fd-8089-9160b15b6589.CF.analytický-predikát.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16.FACS.9c5143f3-8681-40fd-8089-9160b15b6589.sense.1"
+                         copyOf="#FACS.9c5143f3-8681-40fd-8089-9160b15b6589.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Verb"
+                              ana="#LeDIIR.taxonomy.v">v</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">vymáhat výpalné</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">vydírat</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">vytáhnout 
+<gloss>(peníze)</gloss>
+                        </seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="4">brát úplatky</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kompozitum"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.972b39eb-7f2e-4cd5-abf0-ff02a0f7daa9"
+                      xml:id="FACS.972b39eb-7f2e-4cd5-abf0-ff02a0f7daa9.CF.kompozitum.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16"
+                      xml:lang="fa"
+                      sortKey="BAFAWMAL">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باج‌افزار</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">باجافزار</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">باج افزار</orth>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">باج‌افزارها</orth>
+                        <orth type="generated"
+                              subtype="space"
+                              xml:lang="fa">باجافزارها</orth>
+                        <orth type="generated"
+                              subtype="space"
+                              xml:lang="fa">باج افزارها</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bádž-afzár</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="MD">MD</usg>
+                  <sense xml:id="FACS.972b39eb-7f2e-4cd5-abf0-ff02a0f7daa9.CF.kompozitum.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16.FACS.972b39eb-7f2e-4cd5-abf0-ff02a0f7daa9.sense.1"
+                         copyOf="#FACS.972b39eb-7f2e-4cd5-abf0-ff02a0f7daa9.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">ransomware</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.32a3fcfd-67b3-4e11-849a-c1792c5aa677"
+                      xml:id="FACS.32a3fcfd-67b3-4e11-849a-c1792c5aa677.CF.kompozitum.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16"
+                      xml:lang="fa"
+                      sortKey="BAFIdAef-BAFIdAef">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باج‌خواهی</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">باجخواهی</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">باج خواهی</orth>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">باجخواهی</orth>
+                     </form>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">باج خواهی</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bádž-cháhí</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TD">TD</usg>
+                  <sense xml:id="FACS.32a3fcfd-67b3-4e11-849a-c1792c5aa677.CF.kompozitum.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16.FACS.32a3fcfd-67b3-4e11-849a-c1792c5aa677.sense.1"
+                         copyOf="#FACS.32a3fcfd-67b3-4e11-849a-c1792c5aa677.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">vydírání</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.424e7ee0-c401-4b39-9d06-3116ec4b4130"
+                      xml:id="FACS.424e7ee0-c401-4b39-9d06-3116ec4b4130.CF.kompozitum.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16"
+                      xml:lang="fa"
+                      sortKey="BAF-BAF!d!ILAF">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باج و خراج</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bádž(-o-charádž)</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.424e7ee0-c401-4b39-9d06-3116ec4b4130.CF.kompozitum.FACS.254fc5af-5d44-4f34-a1ce-5210c7cd4e16.FACS.424e7ee0-c401-4b39-9d06-3116ec4b4130.sense.1"
+                         copyOf="#FACS.424e7ee0-c401-4b39-9d06-3116ec4b4130.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">odváděná peněžitá dávka</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">poplatek</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">tribut</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="4">daň</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="5">mýto</seg>
+                     </def>
+                  </sense>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.076bdb0a-87ab-46dc-b0b2-5505c9968282"
+                   sortKey="BAID">
+               <form type="lemma">
+                  <orth xml:lang="fa">باخت</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bácht</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LD-VD">TC LD VD</usg>
+               <sense xml:id="FACS.076bdb0a-87ab-46dc-b0b2-5505c9968282.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">prohra</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">porážka</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">ztráta 
+<gloss>(ve hře)</gloss>
+                     </seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.2.6.1">
+                     <idno>4.2.6.1</idno>
+                     <term>Game</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.7.6.3">
+                     <idno>7.6.3</idno>
+                     <term>Lose, misplace</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">porážka</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">prohra</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">ztráta</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">loss</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.8e9d941d-d9a3-4148-977f-3f9e77e47582"
+                   sortKey="BAIDLf">
+               <form type="lemma">
+                  <orth xml:lang="fa">باختری</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">باختري</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">báchtarí</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LX-VR">TC LX VR</usg>
+               <sense xml:id="FACS.8e9d941d-d9a3-4148-977f-3f9e77e47582.sense.1"
+                      n="1.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">západní</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.8.5.2.8">
+                     <idno>8.5.2.8</idno>
+                     <term>North, south, east, west</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">baktrijský</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">západní</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">west</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Western</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.8e9d941d-d9a3-4148-977f-3f9e77e47582.sense.2"
+                      n="2.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <ref target="https://cs.wikipedia.org/wiki/Baktrie"
+                          type="external">baktrijský</ref>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.8.5.2.8">
+                     <idno>8.5.2.8</idno>
+                     <term>North, south, east, west</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.3.9">
+                     <idno>4.3.9</idno>
+                     <term>Culture</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">baktrijský</ref>
+                  </xr>
+               </sense>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kolokace"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.ab1e5c47-5ad7-4bf3-b3bd-4b5b5059a710"
+                      xml:id="FACS.ab1e5c47-5ad7-4bf3-b3bd-4b5b5059a710.CF.kolokace.FACS.8e9d941d-d9a3-4148-977f-3f9e77e47582"
+                      xml:lang="fa"
+                      sortKey="BAIDLf-YLAce!BAIDLf!LdJ!ALJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">کرانه باختری رود اردن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">keráne-je báchtarí-je rúd-e ordon</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.ab1e5c47-5ad7-4bf3-b3bd-4b5b5059a710.CF.kolokace.FACS.8e9d941d-d9a3-4148-977f-3f9e77e47582.FACS.ab1e5c47-5ad7-4bf3-b3bd-4b5b5059a710.sense.1"
+                         copyOf="#FACS.ab1e5c47-5ad7-4bf3-b3bd-4b5b5059a710.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">západní břeh Jordánu</seg>
+                     </def>
+                  </sense>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                   sortKey="BAJ">
+               <form type="lemma">
+                  <orth xml:lang="fa">باد</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bád</pron>
+               </form>
+               <usg type="frequency"
+                    value="MC-LB-VC">MC LB VC</usg>
+               <sense xml:id="FACS.338f305b-41bb-4026-9737-46d09b1d30e5.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">vítr</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.1.1.3.1">
+                     <idno>1.1.3.1</idno>
+                     <term>Wind</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">vítr</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">wind</ref>
+                  </xr>
+               </sense>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kolokace"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.52304f80-d899-4815-b1c1-40ee2bc83c0c"
+                      xml:id="FACS.52304f80-d899-4815-b1c1-40ee2bc83c0c.CF.kolokace.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJ!CLdAM!YLJc-Ldf!BAJ!CLdAM!YLJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">روی باد پرواز کردن</orth>
+                     <form type="variant"
+                           subtype="phrase">
+                        <orth xml:lang="fa">پرواز کردن</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">rú-je bád parváz kardan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TX">TX</usg>
+                  <sense xml:id="FACS.52304f80-d899-4815-b1c1-40ee2bc83c0c.CF.kolokace.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.52304f80-d899-4815-b1c1-40ee2bc83c0c.sense.1"
+                         copyOf="#FACS.52304f80-d899-4815-b1c1-40ee2bc83c0c.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Verb"
+                              ana="#LeDIIR.taxonomy.v">v</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">plachtit</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">vznášet se</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.analytický-predikát"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.analytický-predikát"
+                      copyOf="#FACS.011b7a42-f1d6-44f4-832d-15e10bcc9d8a"
+                      xml:id="FACS.011b7a42-f1d6-44f4-832d-15e10bcc9d8a.CF.analytický-predikát.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJ!MJc-BAJ!Zad!MJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باد گلو زدن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-e golú zadan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+                  <sense xml:id="FACS.011b7a42-f1d6-44f4-832d-15e10bcc9d8a.CF.analytický-predikát.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.011b7a42-f1d6-44f4-832d-15e10bcc9d8a.sense.1"
+                         copyOf="#FACS.011b7a42-f1d6-44f4-832d-15e10bcc9d8a.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Verb"
+                              ana="#LeDIIR.taxonomy.v">v</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">říhat</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">krkat</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kompozitum"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.f7485940-f6e6-4c55-aa61-67505c4b393f"
+                      xml:id="FACS.f7485940-f6e6-4c55-aa61-67505c4b393f.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJBAJY">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادبادک</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-bádak</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TD-LX-VR">TD LX VR</usg>
+                  <sense xml:id="FACS.f7485940-f6e6-4c55-aa61-67505c4b393f.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.f7485940-f6e6-4c55-aa61-67505c4b393f.sense.1"
+                         copyOf="#FACS.f7485940-f6e6-4c55-aa61-67505c4b393f.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">drak 
+<gloss>(papírový)</gloss>
+                        </seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.d67b5f28-7bd3-4e97-bba6-298bbe399e7f"
+                      xml:id="FACS.d67b5f28-7bd3-4e97-bba6-298bbe399e7f.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJZfL">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادگیر</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-gír</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TD-LR-VX">TD LR VX</usg>
+                  <sense xml:id="FACS.d67b5f28-7bd3-4e97-bba6-298bbe399e7f.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.d67b5f28-7bd3-4e97-bba6-298bbe399e7f.sense.1"
+                         copyOf="#FACS.d67b5f28-7bd3-4e97-bba6-298bbe399e7f.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <ref target="https://www.iranicaonline.org/articles/badgir-traditional-structure-for-passive-air-conditioning"
+                             type="external">bádgír</ref>
+                        <seg type="equivalent"
+                             n="1">(</seg>
+                        <ref target="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1"
+                             type="external">tradiční větrací komín pouštních staveb</ref>
+                        <seg type="equivalent"
+                             n="2">)</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">větrací komín</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="4">větrací šachta</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.fbb61ad9-6664-475a-8265-9a89958c2283"
+                      xml:id="FACS.fbb61ad9-6664-475a-8265-9a89958c2283.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJBAc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادبان</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-bán</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE-LX-VD">TE LX VD</usg>
+                  <sense xml:id="FACS.fbb61ad9-6664-475a-8265-9a89958c2283.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.fbb61ad9-6664-475a-8265-9a89958c2283.sense.1"
+                         copyOf="#FACS.fbb61ad9-6664-475a-8265-9a89958c2283.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">plachta 
+<gloss>(lodi)</gloss>
+                        </seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.cca883b1-e5f1-4654-a7e6-f9f794e26859"
+                      xml:id="FACS.cca883b1-e5f1-4654-a7e6-f9f794e26859.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJBMc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادبزن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-bezan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.d2f5c78d-cb77-4133-ae7a-caf846c81f58"
+                      xml:id="FACS.d2f5c78d-cb77-4133-ae7a-caf846c81f58.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJPYc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادشکن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-šekan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.d2f5c78d-cb77-4133-ae7a-caf846c81f58.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.d2f5c78d-cb77-4133-ae7a-caf846c81f58.sense.1"
+                         copyOf="#FACS.d2f5c78d-cb77-4133-ae7a-caf846c81f58.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">větrolam</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.4967cd6d-99a9-4c8b-acc6-60adcd7f40ba"
+                      xml:id="FACS.4967cd6d-99a9-4c8b-acc6-60adcd7f40ba.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJIdLY">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادخورک</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-chorak</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+                  <sense xml:id="FACS.4967cd6d-99a9-4c8b-acc6-60adcd7f40ba.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.4967cd6d-99a9-4c8b-acc6-60adcd7f40ba.sense.1"
+                         copyOf="#FACS.4967cd6d-99a9-4c8b-acc6-60adcd7f40ba.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">rorýs 
+<gloss>(zool., Apus sp.)</gloss>
+                        </seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.ba987539-66c1-4bba-9760-7352b69f4d15"
+                      xml:id="FACS.ba987539-66c1-4bba-9760-7352b69f4d15.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJIfM">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادخیز</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-chíz</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.1e69c60f-c65e-4043-b7cb-91ee72ded32c"
+                      xml:id="FACS.1e69c60f-c65e-4043-b7cb-91ee72ded32c.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJMc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادزن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-zan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+                  <sense xml:id="FACS.1e69c60f-c65e-4043-b7cb-91ee72ded32c.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.1e69c60f-c65e-4043-b7cb-91ee72ded32c.sense.1"
+                         copyOf="#FACS.1e69c60f-c65e-4043-b7cb-91ee72ded32c.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">vějíř</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.60693b6b-d53f-46c4-a1ed-2884da62615d"
+                      xml:id="FACS.60693b6b-d53f-46c4-a1ed-2884da62615d.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJOcF">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادسنج</orth>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">باد سنج</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-sandž</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.ccbe093a-0559-488d-9fe7-68f54784108b"
+                      xml:id="FACS.ccbe093a-0559-488d-9fe7-68f54784108b.CF.kompozitum.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJOdALf">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بادسواری</orth>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">باد سواری</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád-savárí</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+               </entry>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.derivace"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.derivace"
+                      copyOf="#FACS.74c7c97c-681c-4af5-b916-2cfa885b8df7"
+                      xml:id="FACS.74c7c97c-681c-4af5-b916-2cfa885b8df7.CF.derivace.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="CLBAJ">
+                  <form type="lemma">
+                     <orth xml:lang="fa">پرباد</orth>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">پر باد</orth>
+                     </form>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">پربادی</orth>
+                     </form>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">پر بادی</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">por-bád</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="ME">ME</usg>
+                  <sense xml:id="FACS.74c7c97c-681c-4af5-b916-2cfa885b8df7.CF.derivace.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.74c7c97c-681c-4af5-b916-2cfa885b8df7.sense.1"
+                         n="1."
+                         copyOf="#FACS.74c7c97c-681c-4af5-b916-2cfa885b8df7.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Adjective"
+                              ana="#LeDIIR.taxonomy.adj">adj</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">nafouklý</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">nahuštěný</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.derivace"
+                      copyOf="#FACS.2febc739-9377-4a1d-8018-b80b549e7da0"
+                      xml:id="FACS.2febc739-9377-4a1d-8018-b80b549e7da0.CF.derivace.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BfBAJ">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بیباد</orth>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">بى باد</orth>
+                     </form>
+                     <form type="variant"
+                           subtype="stem">
+                        <orth xml:lang="fa">بىباد</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bí-bád</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+                  <sense xml:id="FACS.2febc739-9377-4a1d-8018-b80b549e7da0.CF.derivace.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.2febc739-9377-4a1d-8018-b80b549e7da0.sense.1"
+                         copyOf="#FACS.2febc739-9377-4a1d-8018-b80b549e7da0.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Adjective"
+                              ana="#LeDIIR.taxonomy.adj">adj</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">vyfouknutý</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">splasklý</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.idiom"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.idiom"
+                      copyOf="#FACS.4eb485f4-f8ae-40de-a5a1-adbcbf944960"
+                      xml:id="FACS.4eb485f4-f8ae-40de-a5a1-adbcbf944960.CF.idiom.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJ!JAJc-Be!BAJ!JAJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">به باد دادن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">be bád dádan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TD">TD</usg>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.idiom"
+                      copyOf="#FACS.feeb7ff5-e068-42ee-b45d-4e6872fed4ad"
+                      xml:id="FACS.feeb7ff5-e068-42ee-b45d-4e6872fed4ad.CF.idiom.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="BAJ!BLJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باد بردن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bád bordan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="ME">ME</usg>
+                  <sense xml:id="FACS.feeb7ff5-e068-42ee-b45d-4e6872fed4ad.CF.idiom.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.feeb7ff5-e068-42ee-b45d-4e6872fed4ad.sense.1"
+                         n="1."
+                         copyOf="#FACS.feeb7ff5-e068-42ee-b45d-4e6872fed4ad.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Verb"
+                              ana="#LeDIIR.taxonomy.v">v</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">odfouknout</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">odnést</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">sebrat</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="4">vzít</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="5">rozfoukat 
+<gloss>(o větru)</gloss>
+                        </seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.idiom"
+                      copyOf="#FACS.3ad277b5-7893-43d9-91f9-16e28f5dee56"
+                      xml:id="FACS.3ad277b5-7893-43d9-91f9-16e28f5dee56.CF.idiom.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="JbAV!BAJ!BLJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">دماغ باد بردن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">damágh bád bordan</pron>
+                  </form>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.idiom"
+                      copyOf="#FACS.2252b5ba-8453-4e8f-9c04-f40397034d66"
+                      xml:id="FACS.2252b5ba-8453-4e8f-9c04-f40397034d66.CF.idiom.FACS.338f305b-41bb-4026-9737-46d09b1d30e5"
+                      xml:lang="fa"
+                      sortKey="JbAV!BAJ!JAPDc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">دماغ باد داشتن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">damágh bád dáštan</pron>
+                  </form>
+                  <sense xml:id="FACS.2252b5ba-8453-4e8f-9c04-f40397034d66.CF.idiom.FACS.338f305b-41bb-4026-9737-46d09b1d30e5.FACS.2252b5ba-8453-4e8f-9c04-f40397034d66.sense.1"
+                         copyOf="#FACS.2252b5ba-8453-4e8f-9c04-f40397034d66.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Verb"
+                              ana="#LeDIIR.taxonomy.v">v</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">být nafoukaný</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">ohrnovat nos</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">nosit nos nahoru</seg>
+                     </def>
+                  </sense>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.c1cded68-591d-496e-8ac5-9d33db2c561a"
+                   sortKey="BAJfZALJ-BAJfZALJ">
+               <form type="lemma">
+                  <orth xml:lang="fa">بادی‌گارد</orth>
+                  <orth type="generated"
+                        subtype="space"
+                        xml:lang="fa">بادیگارد</orth>
+                  <orth type="generated"
+                        subtype="space"
+                        xml:lang="fa">بادی گارد</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">بادیگارد</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">بادی گارد</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bádí-gárd</pron>
+               </form>
+               <usg type="frequency"
+                    value="TX-LX-VR">TX LX VR</usg>
+               <sense xml:id="FACS.c1cded68-591d-496e-8ac5-9d33db2c561a.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">bodyguard</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.4.4.5">
+                     <idno>4.4.4.5</idno>
+                     <term>Protect</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">bodyguard</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">bodyguard</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.3feed8a4-2558-4348-90aa-6f564d991646"
+                   sortKey="BAL!AdLJc-Be!BAL!AdLJc">
+               <form type="lemma">
+                  <orth xml:lang="fa">به بار آوردن</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">(be) bár ávardan</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD-LR-VX">TD LR VX</usg>
+               <sense xml:id="FACS.3feed8a4-2558-4348-90aa-6f564d991646.sense.1"
+                      n="1.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Verb"
+                           ana="#LeDIIR.taxonomy.v">v</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">nést plody</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">přinášet ovoce</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">plodit</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="4">dávat 
+<gloss>(ovoce)</gloss>
+                     </seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.1.5">
+                     <idno>1.5</idno>
+                     <term>Plant</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.2.5">
+                     <idno>6.2.5</idno>
+                     <term>Harvest</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.1.5.6">
+                     <idno>1.5.6</idno>
+                     <term>Growth of plants</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">dávat</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nést</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">plodit</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">bear fruit</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">breed</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.3feed8a4-2558-4348-90aa-6f564d991646.sense.2"
+                      n="2.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Verb"
+                           ana="#LeDIIR.taxonomy.v">v</gram>
+                  </gramGrp>
+                  <usg type="meaningType"
+                       value="přeneseně"
+                       expand="figurative"
+                       ana="#LeDIIR.taxonomy.fig">fig</usg>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">přinášet 
+<gloss>(neštěstí)</gloss>
+                     </seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">přivodit 
+<gloss>(ztráty)</gloss>
+                     </seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">vyvolávat 
+<gloss>(vzpomínky)</gloss>
+                     </seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="4">způsobit 
+<gloss>(nepříjemnosti)</gloss>
+                     </seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.6.2.5">
+                     <idno>9.6.2.5</idno>
+                     <term>Cause</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.2.6.4">
+                     <idno>3.2.6.4</idno>
+                     <term>Remind</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.5.8.4">
+                     <idno>3.5.8.4</idno>
+                     <term>Show, indicate</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.4.2.6">
+                     <idno>4.4.2.6</idno>
+                     <term>Suffer</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">přinášet</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">přivodit</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">vyvolávat</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">způsobit</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">bear</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Bring</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">evoke</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.265585e7-059f-4b63-b825-02571386d663"
+                       subtype="analytický-predikát"
+                       ana="#LeDIIR.taxonomy.complexFormType.analytický-predikát">بار</ref>
+                  <ref type="entry"
+                       target="#FACS.653dbcf5-73ff-4d2d-b782-dbdef42ae315"
+                       subtype="analytický-predikát"
+                       ana="#LeDIIR.taxonomy.complexFormType.analytický-predikát">آوردن</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.6a135731-9e0e-4c11-89a4-302ae0338dcf"
+                   sortKey="BAL-BAL!OcZfc">
+               <form type="lemma">
+                  <orth xml:lang="fa">بار سنگین</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">بارسنگین</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bár-e sangín</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD">TD</usg>
+               <sense xml:id="FACS.6a135731-9e0e-4c11-89a4-302ae0338dcf.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">zátěž</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">zatížení</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.7.5.9.1">
+                     <idno>7.5.9.1</idno>
+                     <term>Load, pile</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">zátěž</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">zatížení</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">heavy load</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.265585e7-059f-4b63-b825-02571386d663"
+                       subtype="kolokace"
+                       ana="#LeDIIR.taxonomy.complexFormType.kolokace">بار</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.668ccb35-7840-4f11-af91-42cbb45147d8"
+                   sortKey="BAL-BALeA">
+               <form type="lemma">
+                  <orth xml:lang="fa">بارها</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bárhá</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LC-VC">TC LC VC</usg>
+               <sense xml:id="FACS.668ccb35-7840-4f11-af91-42cbb45147d8.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Numeral"
+                           ana="#LeDIIR.taxonomy.num">num</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">mnohokrát</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">mockrát</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">často</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="4">zhusta</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.5.1.2.6">
+                     <idno>3.5.1.2.6</idno>
+                     <term>Repeat</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.8.4.6.6.1">
+                     <idno>8.4.6.6.1</idno>
+                     <term>Again</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.8.1.1.3">
+                     <idno>8.1.1.3</idno>
+                     <term>Number of times</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">často</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">mnohokrát</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">mockrát</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">zhusta</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">many times</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Several time</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.80032b84-698b-4e42-b32d-9a347dffd132"
+                       subtype="derivace"
+                       ana="#LeDIIR.taxonomy.complexFormType.derivace">بار</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.1c001539-6a68-416d-a69f-4e90faedd9da"
+                   sortKey="BALAY">
+               <form type="lemma">
+                  <orth xml:lang="fa">باراک</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">barak</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LC-VR">TC LC VR</usg>
+               <sense xml:id="FACS.1c001539-6a68-416d-a69f-4e90faedd9da.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">Barack 
+<gloss>(jm.m.)</gloss>
+                     </seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.7.1.1">
+                     <idno>9.7.1.1</idno>
+                     <term>Personal names</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">Barack</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Barack</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                   sortKey="BALAc">
+               <form type="lemma">
+                  <orth xml:lang="fa">باران</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bárán</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LC-VC">TC LC VC</usg>
+               <sense xml:id="FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">déšť</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.1.1.3.3">
+                     <idno>1.1.3.3</idno>
+                     <term>Rain</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">déšť</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">rain</ref>
+                  </xr>
+               </sense>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kolokace"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.6c8b44cb-df89-497d-9e61-836c6c00376a"
+                      xml:id="FACS.6c8b44cb-df89-497d-9e61-836c6c00376a.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="BALAc-BALAc!AOfJf">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باران اسیدی</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bárán-e asídí</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TC">TC</usg>
+                  <sense xml:id="FACS.6c8b44cb-df89-497d-9e61-836c6c00376a.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.6c8b44cb-df89-497d-9e61-836c6c00376a.sense.1"
+                         copyOf="#FACS.6c8b44cb-df89-497d-9e61-836c6c00376a.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">kyselý déšť</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.c479a67b-56ea-4483-a72d-a37ec08016a1"
+                      xml:id="FACS.c479a67b-56ea-4483-a72d-a37ec08016a1.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="AB-AB!BALAc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">آب باران</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">áb-e bárán</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="MD">MD</usg>
+                  <sense xml:id="FACS.c479a67b-56ea-4483-a72d-a37ec08016a1.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.c479a67b-56ea-4483-a72d-a37ec08016a1.sense.1"
+                         copyOf="#FACS.c479a67b-56ea-4483-a72d-a37ec08016a1.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">dešťová voda</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">dešťové srážky</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.e8d17060-010e-499a-b55e-ae735c4ca2b5"
+                      xml:id="FACS.e8d17060-010e-499a-b55e-ae735c4ca2b5.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="BALP-BALP!BALAc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بارش‌ باران</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">بارش باران</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">بارش  باران</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">báreš-e bárán</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TD">TD</usg>
+                  <sense xml:id="FACS.e8d17060-010e-499a-b55e-ae735c4ca2b5.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.e8d17060-010e-499a-b55e-ae735c4ca2b5.sense.1"
+                         copyOf="#FACS.e8d17060-010e-499a-b55e-ae735c4ca2b5.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">déšť</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">dešťové přeháňky</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">dešťové srážky</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.492d1f1d-2eda-490f-810a-761799661558"
+                      xml:id="FACS.492d1f1d-2eda-490f-810a-761799661558.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="LfMP-LfMP!BALAc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">ریزش باران</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">rízeš-e bárán</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TD">TD</usg>
+                  <sense xml:id="FACS.492d1f1d-2eda-490f-810a-761799661558.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.492d1f1d-2eda-490f-810a-761799661558.sense.1"
+                         copyOf="#FACS.492d1f1d-2eda-490f-810a-761799661558.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">dešťové srážky</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.1081a7fe-e2dd-4ed7-99e5-33695fa4e402"
+                      xml:id="FACS.1081a7fe-e2dd-4ed7-99e5-33695fa4e402.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="BALAc-BALAc!Ofa!AOA">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باران سیل آسا</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bárán-e sejl-ásá</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.1081a7fe-e2dd-4ed7-99e5-33695fa4e402.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.1081a7fe-e2dd-4ed7-99e5-33695fa4e402.sense.1"
+                         copyOf="#FACS.1081a7fe-e2dd-4ed7-99e5-33695fa4e402.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">průtrž mračen</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">přívalový déšť</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">příval</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.bd858ea8-bf79-44d5-8a44-86be8ce9c05d"
+                      xml:id="FACS.bd858ea8-bf79-44d5-8a44-86be8ce9c05d.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="BALAc-BALAc!PJfJ">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باران شدید</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bárán-e šadíd</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.bd858ea8-bf79-44d5-8a44-86be8ce9c05d.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.bd858ea8-bf79-44d5-8a44-86be8ce9c05d.sense.1"
+                         copyOf="#FACS.bd858ea8-bf79-44d5-8a44-86be8ce9c05d.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">hustý déšť</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">liják</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.839806a9-d755-44db-9d2d-30403aa72951"
+                      xml:id="FACS.839806a9-d755-44db-9d2d-30403aa72951.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="BALAc-BALAc!IWfW">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باران خفیف</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bárán-e chafíf</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+                  <sense xml:id="FACS.839806a9-d755-44db-9d2d-30403aa72951.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.839806a9-d755-44db-9d2d-30403aa72951.sense.1"
+                         copyOf="#FACS.839806a9-d755-44db-9d2d-30403aa72951.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">poprchávání</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.c4e8d4e0-bb0e-4758-accd-59c3e8b22b31"
+                      xml:id="FACS.c4e8d4e0-bb0e-4758-accd-59c3e8b22b31.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="BALAc-BALAc!WLAdAc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">باران فراوان</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bárán-e faráván</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.e788a566-b93f-47da-a889-f9c35db1bcab"
+                      xml:id="FACS.e788a566-b93f-47da-a889-f9c35db1bcab.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="PeABBALAc-PeAB!BALAc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">شهاب باران</orth>
+                     <form type="variant"
+                           subtype="phrase">
+                        <orth xml:lang="fa">شهاب‌باران</orth>
+                        <orth type="generated"
+                              subtype="space"
+                              xml:lang="fa">شهابباران</orth>
+                        <orth type="generated"
+                              subtype="space"
+                              xml:lang="fa">شهاب باران</orth>
+                     </form>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">šeháb-bárán</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="MR">MR</usg>
+                  <sense xml:id="FACS.e788a566-b93f-47da-a889-f9c35db1bcab.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.e788a566-b93f-47da-a889-f9c35db1bcab.sense.1"
+                         copyOf="#FACS.e788a566-b93f-47da-a889-f9c35db1bcab.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">meteorický roj</seg>
+                     </def>
+                  </sense>
+               </entry>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.74be1e1c-184b-45fd-aac0-ba907a161025"
+                      xml:id="FACS.74be1e1c-184b-45fd-aac0-ba907a161025.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="WLd!LWDc-WLd!LWDc!cb!BALAc!Be!Mbfc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">فرو رفتن نم باران به زمین</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">forú-raftan nam-e bárán be zamín</pron>
+                  </form>
+                  <sense xml:id="FACS.74be1e1c-184b-45fd-aac0-ba907a161025.CF.kolokace.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.74be1e1c-184b-45fd-aac0-ba907a161025.sense.1"
+                         copyOf="#FACS.74be1e1c-184b-45fd-aac0-ba907a161025.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">vsakování 
+<gloss>(dešťových srážek)</gloss>
+                        </seg>
+                     </def>
+                  </sense>
+               </entry>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kompozitum"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kompozitum"
+                      copyOf="#FACS.265f6985-477f-41d1-a063-c1d118625084"
+                      xml:id="FACS.265f6985-477f-41d1-a063-c1d118625084.CF.kompozitum.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1"
+                      xml:lang="fa"
+                      sortKey="DfLBALAc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">تیرباران</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">tír-bárán</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="MD">MD</usg>
+                  <sense xml:id="FACS.265f6985-477f-41d1-a063-c1d118625084.CF.kompozitum.FACS.a7dc1e74-4788-4674-8754-20cffc6db6c1.FACS.265f6985-477f-41d1-a063-c1d118625084.sense.1"
+                         copyOf="#FACS.265f6985-477f-41d1-a063-c1d118625084.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Noun"
+                              ana="#LeDIIR.taxonomy.subst">subst</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">poprava 
+<gloss>(zastřelením)</gloss>
+                        </seg>
+                     </def>
+                  </sense>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.1a0812c5-8ee2-46e5-b0c1-763170a2dc8e"
+                   sortKey="BALAdL">
+               <form type="lemma">
+                  <orth xml:lang="fa">بارآور</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bár-ávar</pron>
+               </form>
+               <usg type="frequency"
+                    value="TE">TE</usg>
+               <sense xml:id="FACS.1a0812c5-8ee2-46e5-b0c1-763170a2dc8e.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">plodný 
+<gloss>(nesoucí plody)</gloss>
+                     </seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">úrodný</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">produktivní</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="4">rentabilní</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.4.1">
+                     <idno>4.4.1</idno>
+                     <term>Prosperity</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.1.5.6">
+                     <idno>1.5.6</idno>
+                     <term>Growth of plants</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">plodný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">produktivní</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">rentabilní</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">úrodný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">fruitful</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.265585e7-059f-4b63-b825-02571386d663"
+                       subtype="derivace"
+                       ana="#LeDIIR.taxonomy.complexFormType.derivace">بار</ref>
+                  <ref type="entry"
+                       target="#FACS.48a5ebbf-4d71-4e23-8346-dcb485a1a296"
+                       subtype="derivace"
+                       ana="#LeDIIR.taxonomy.complexFormType.derivace">آور</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.6e4c1312-41a7-4e30-aa05-9d07de1d93e0"
+                   sortKey="BALBL">
+               <form type="lemma">
+                  <orth xml:lang="fa">باربر</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bár-bar</pron>
+               </form>
+               <usg type="frequency"
+                    value="TE-LX-VR">TE LX VR</usg>
+               <sense xml:id="FACS.6e4c1312-41a7-4e30-aa05-9d07de1d93e0.sense.1"
+                      n="1.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">nosič</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">portýr</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.7.3.1">
+                     <idno>7.3.1</idno>
+                     <term>Carry</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.6">
+                     <idno>6.6</idno>
+                     <term>Occupation</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nosič</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nosný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">portýr</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">tažný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Bearer</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">carrier</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.6e4c1312-41a7-4e30-aa05-9d07de1d93e0.sense.2"
+                      n="2.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">tažný</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">nosný 
+<gloss>(např. o zdi)</gloss>
+                     </seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.7.3.4.6">
+                     <idno>7.3.4.6</idno>
+                     <term>Support</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nosný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">tažný</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.6e4c1312-41a7-4e30-aa05-9d07de1d93e0.sense.3"
+                      n="3.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">tažné zvíře</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.3.1.7">
+                     <idno>6.3.1.7</idno>
+                     <term>Beast of burden</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">tažný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">zvíře</ref>
+                  </xr>
+               </sense>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kolokace"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.a5691cee-bcd8-4ae1-9d8a-aab97c639052"
+                      xml:id="FACS.a5691cee-bcd8-4ae1-9d8a-aab97c639052.CF.kolokace.FACS.6e4c1312-41a7-4e30-aa05-9d07de1d93e0"
+                      xml:lang="fa"
+                      sortKey="BALBL-JfdAL!BALBL">
+                  <form type="lemma">
+                     <orth xml:lang="fa">دیوار باربر</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">dívár-e bár-bar</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TR">TR</usg>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.a6a9d4bc-7e23-411d-988d-326b585e05bd"
+                   sortKey="BALBLf">
+               <form type="lemma">
+                  <orth xml:lang="fa">باربری</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bár-barí</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD-LR-VR">TD LR VR</usg>
+               <sense xml:id="FACS.a6a9d4bc-7e23-411d-988d-326b585e05bd.sense.1"
+                      n="1.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">nákladní</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">přepravní</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">vlečný</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.7.2.4.1.2">
+                     <idno>7.2.4.1.2</idno>
+                     <term>Railroad</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.8.1.3.3">
+                     <idno>8.1.3.3</idno>
+                     <term>Group of things</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nákladní</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">přepravní</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">vlečný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Bearing</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">freight</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.a6a9d4bc-7e23-411d-988d-326b585e05bd.sense.2"
+                      n="2.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">přeprava</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">transport</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.7.3.8">
+                     <idno>7.3.8</idno>
+                     <term>Transport</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">přeprava</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">transport</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">transport</ref>
+                  </xr>
+               </sense>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.kolokace"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.kolokace"
+                      copyOf="#FACS.278404ac-0ea6-4e59-ad45-79d663e32fb6"
+                      xml:id="FACS.278404ac-0ea6-4e59-ad45-79d663e32fb6.CF.kolokace.FACS.a6a9d4bc-7e23-411d-988d-326b585e05bd"
+                      xml:lang="fa"
+                      sortKey="FA-FAf!BALBLf">
+                  <form type="lemma">
+                     <orth xml:lang="fa">جای باربری</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">džá-je bár-barí</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="MX">MX</usg>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.273ab879-2181-4a17-8e28-4b3774a35b9a"
+                   sortKey="BALBf">
+               <form type="lemma">
+                  <orth xml:lang="fa">باربی</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">باربي</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bárbí</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD-LX-VD">TD LX VD</usg>
+               <sense xml:id="FACS.273ab879-2181-4a17-8e28-4b3774a35b9a.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">
+                        <gloss>(panenka)</gloss> Barbie</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.2.7">
+                     <idno>4.2.7</idno>
+                     <term>Play, fun</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">Barbie</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">(doll) Barbie</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.4e45fe89-b002-45cb-afc1-8729bf7624ef"
+                   sortKey="BALJAL">
+               <form type="lemma">
+                  <orth xml:lang="fa">باردار</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bár-dár</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LD-VD">TC LD VD</usg>
+               <sense xml:id="FACS.4e45fe89-b002-45cb-afc1-8729bf7624ef.sense.1"
+                      n="1.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">těhotná</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">v jiném stavu</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.6.3.1">
+                     <idno>2.6.3.1</idno>
+                     <term>Pregnancy</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">jiný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">stav</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">těhotná</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Pregnant</ref>
+                  </xr>
+                  <xr type="related"
+                      subtype="_component-lexeme">
+                     <lbl type="cross-rerefence"
+                          subtype="complex-forms"/>
+                     <ref type="entry"
+                          target="#FACS.62f399f0-5e2a-4bd2-ba74-99fb0de55598"
+                          subtype="nespecifikovaný-komplexní-tvar"
+                          ana="#LeDIIR.taxonomy.complexFormType.nespecifikovaný-komplexní-tvar">باردار بودن</ref>
+                     <ref type="entry"
+                          target="#FACS.11cee601-eca0-41e6-bf5a-5a4f3a998060"
+                          subtype="nespecifikovaný-komplexní-tvar"
+                          ana="#LeDIIR.taxonomy.complexFormType.nespecifikovaný-komplexní-tvar">باردار شدن</ref>
+                     <ref type="entry"
+                          target="#FACS.e6c456c5-5317-4636-8ae8-d31e90ead7e2"
+                          subtype="nespecifikovaný-komplexní-tvar"
+                          ana="#LeDIIR.taxonomy.complexFormType.nespecifikovaný-komplexní-tvar">باردار کردن</ref>
+                     <ref type="entry"
+                          target="#FACS.107636c2-f6cd-4e7c-b054-5e6f40009c2b"
+                          subtype="derivace"
+                          ana="#LeDIIR.taxonomy.complexFormType.derivace">بارداری</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.4e45fe89-b002-45cb-afc1-8729bf7624ef.sense.2"
+                      n="2.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">nabitý 
+<gloss>(o částici)</gloss>
+                     </seg>
+                  </def>
+                  <cit type="example">
+                     <quote xml:lang="fa">ذره باردار</quote>
+                     <cit type="translation"
+                          xml:lang="cs-CZ">
+                        <quote>nabitá částice</quote>
+                     </cit>
+                  </cit>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.7.3.1">
+                     <idno>7.3.1</idno>
+                     <term>Carry</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.8.1.8">
+                     <idno>8.1.8</idno>
+                     <term>Full</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">nabitý</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">loaded</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.4e45fe89-b002-45cb-afc1-8729bf7624ef.sense.3"
+                      n="3.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">potažený 
+<gloss>(jazyk, při nemoci)</gloss>
+                     </seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.8.3.2.2">
+                     <idno>8.3.2.2</idno>
+                     <term>Rough</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">potažený</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">coated</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.265585e7-059f-4b63-b825-02571386d663"
+                       subtype="derivace"
+                       ana="#LeDIIR.taxonomy.complexFormType.derivace">بار</ref>
+               </xr>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.f523619e-59c3-413b-8946-07f76e5f3274"
+                   sortKey="BfdDYcdadNf">
+               <form type="lemma">
+                  <orth xml:lang="fa">بیوتکنولوژی</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bijo-teknoloží</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD-LR-VX">TD LR VX</usg>
+               <sense xml:id="FACS.f523619e-59c3-413b-8946-07f76e5f3274.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">biotechnologie</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.6.6">
+                     <idno>3.6.6</idno>
+                     <term>Science</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.1.4">
+                     <idno>1.4</idno>
+                     <term>Living things</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.1.2">
+                     <idno>6.1.2</idno>
+                     <term>Method</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">biotechnologie</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">biotechnology</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.1ed15c6d-2bfc-40c8-8ba6-6eced9912d5d"
+                   sortKey="BfdPfbf">
+               <form type="lemma">
+                  <orth xml:lang="fa">بیوشیمی</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bijo-šímí</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD-LR-VX">TD LR VX</usg>
+               <sense xml:id="FACS.1ed15c6d-2bfc-40c8-8ba6-6eced9912d5d.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">biochemie</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.6.6">
+                     <idno>3.6.6</idno>
+                     <term>Science</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.6.6.2.9">
+                     <idno>6.6.2.9</idno>
+                     <term>Working with chemicals</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.1.2.2">
+                     <idno>1.2.2</idno>
+                     <term>Substance, matter</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">biochemie</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">biochemistry</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.2aa5bdaf-17cd-4ed3-a5de-aea75d98bcdb"
+                   sortKey="BfdadNfY">
+               <form type="lemma">
+                  <orth xml:lang="fa">بیولوژیک</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">بیولوژیکی</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bijooložík</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD-LR-VX">TD LR VX</usg>
+               <sense xml:id="FACS.2aa5bdaf-17cd-4ed3-a5de-aea75d98bcdb.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">biologický</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.6.6">
+                     <idno>3.6.6</idno>
+                     <term>Science</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.1.4">
+                     <idno>1.4</idno>
+                     <term>Living things</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">biologický</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Biologic</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">biological</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Biologically</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.36d46e44-e3be-4c9b-b78e-33cf566b3d15"
+                   sortKey="Bfde">
+               <form type="lemma">
+                  <orth xml:lang="fa">بیوه</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bíve</pron>
+               </form>
+               <usg type="frequency"
+                    value="TD-LC-VD">TD LC VD</usg>
+               <sense xml:id="FACS.36d46e44-e3be-4c9b-b78e-33cf566b3d15.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">vdova</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.1.9.3">
+                     <idno>4.1.9.3</idno>
+                     <term>Widow, widower</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.6.5">
+                     <idno>2.6.5</idno>
+                     <term>Male, female</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">vdova</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">widow</ref>
+                  </xr>
+               </sense>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.4138f43b-d71a-450e-aed8-4558c2d87738"
+                   sortKey="BfedJe">
+               <form type="lemma">
+                  <orth xml:lang="fa">بیهوده</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">بی‌هوده</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">بیهوده</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">بی هوده</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bí-húde</pron>
+               </form>
+               <usg type="frequency"
+                    value="TC-LC-VD">TC LC VD</usg>
+               <sense xml:id="FACS.4138f43b-d71a-450e-aed8-4558c2d87738.sense.1"
+                      n="1.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adverb"
+                           ana="#LeDIIR.taxonomy.adv">adv</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">zbytečně</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">marně</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.6.2.6.1">
+                     <idno>9.6.2.6.1</idno>
+                     <term>Without result</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.6.2.7.1">
+                     <idno>9.6.2.7.1</idno>
+                     <term>Without purpose</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">zbytečně</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">In vain</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">unnecessarily</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.4138f43b-d71a-450e-aed8-4558c2d87738.sense.2"
+                      n="2.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">marný</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">bezvýsledný</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">zbytečný</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.6.2.6.1">
+                     <idno>9.6.2.6.1</idno>
+                     <term>Without result</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.9.6.2.7.1">
+                     <idno>9.6.2.7.1</idno>
+                     <term>Without purpose</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">bezvýsledný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">marný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">zbytečný</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">vain</ref>
+                  </xr>
+               </sense>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.nespecifikovaný-komplexní-tvar"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.nespecifikovaný-komplexní-tvar"
+                      copyOf="#FACS.bd6e1113-26ab-4e27-b900-d4f8aceab48c"
+                      xml:id="FACS.bd6e1113-26ab-4e27-b900-d4f8aceab48c.CF.nespecifikovaný-komplexní-tvar.FACS.4138f43b-d71a-450e-aed8-4558c2d87738"
+                      xml:lang="fa"
+                      sortKey="BfedJe!AWDAJc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">بیهوده افتادن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">bí-húde oftádan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="MR">MR</usg>
+                  <sense xml:id="FACS.bd6e1113-26ab-4e27-b900-d4f8aceab48c.CF.nespecifikovaný-komplexní-tvar.FACS.4138f43b-d71a-450e-aed8-4558c2d87738.FACS.bd6e1113-26ab-4e27-b900-d4f8aceab48c.sense.1"
+                         copyOf="#FACS.bd6e1113-26ab-4e27-b900-d4f8aceab48c.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Pasive voice"
+                              ana="#LeDIIR.taxonomy.pas">pas</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">přijít nazmar</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">být zmařen</seg>
+                     </def>
+                  </sense>
+               </entry>
+            </entry>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.779265d5-f03f-4353-b40a-2d1d9ff2ccae"
+                   sortKey="BfedPf">
+               <form type="lemma">
+                  <orth xml:lang="fa">بیهوشی</orth>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">بی‌هوشی</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">بیهوشی</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">بی هوشی</orth>
+                  </form>
+                  <form type="variant"
+                        subtype="stem">
+                     <orth xml:lang="fa">یهوشی‌های</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">یهوشیهای</orth>
+                     <orth type="generated"
+                           subtype="space"
+                           xml:lang="fa">یهوشی های</orth>
+                  </form>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">bí-húší</pron>
+               </form>
+               <usg type="frequency"
+                    value="MC-LR-VC">MC LR VC</usg>
+               <sense xml:id="FACS.779265d5-f03f-4353-b40a-2d1d9ff2ccae.sense.1"
+                      n="1.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">narkóza</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">anestezie</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.5.7">
+                     <idno>2.5.7</idno>
+                     <term>Treat disease</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.5.6.4">
+                     <idno>2.5.6.4</idno>
+                     <term>Lose consciousness</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">anestezie</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">narkóza</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">Anesthesia</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">narcosis</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.779265d5-f03f-4353-b40a-2d1d9ff2ccae.sense.2"
+                      n="2.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">bezvědomí</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">kóma</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.5.6.4">
+                     <idno>2.5.6.4</idno>
+                     <term>Lose consciousness</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">bezvědomí</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">kóma</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">unconsciousness</ref>
+                  </xr>
+               </sense>
+               <sense xml:id="FACS.779265d5-f03f-4353-b40a-2d1d9ff2ccae.sense.3"
+                      n="3.">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Adjective"
+                           ana="#LeDIIR.taxonomy.adj">adj</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">anestetický</seg>
+                  </def>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.5.7">
+                     <idno>2.5.7</idno>
+                     <term>Treat disease</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.3.5">
+                     <idno>2.3.5</idno>
+                     <term>Sense of touch</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.5.6.1">
+                     <idno>2.5.6.1</idno>
+                     <term>Pain</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.2.5.6.4">
+                     <idno>2.5.6.4</idno>
+                     <term>Lose consciousness</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">anestetický</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">anesthetic</ref>
+                  </xr>
+               </sense>
+            </entry>
+         </div>
+         <div type="letter"
+              xml:id="FACS.div.00098"
+              n="98">
+            <head type="letter">م</head>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.6da34c8c-a321-461b-b23b-91df44a93d9f"
+                   sortKey="bHAWTD!AM!abO!ADWAXf!ZdPf">
+               <form type="lemma">
+                  <orth xml:lang="fa">محافظت از لمس اتفاقی گوشی</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">moháfezat az lams-e ettefághí-je gúší</pron>
+               </form>
+               <usg type="frequency"
+                    value="MR">MR</usg>
+               <sense xml:id="FACS.6da34c8c-a321-461b-b23b-91df44a93d9f.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Noun"
+                           ana="#LeDIIR.taxonomy.subst">subst</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">dotyková ochrana mobilního telefonu</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">zámek displeje</seg>
+                  </def>
+                  <cit type="example">
+                     <quote xml:lang="fa">چگونه محافظت از لمس اتفاقی گوشی سامسونگ را خاموش کنیم</quote>
+                     <cit type="translation"
+                          xml:lang="cs-CZ">
+                        <quote>Jak lze vypnout dotykovou ochranu  mobilu Samsung?</quote>
+                     </cit>
+                  </cit>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.4.4.5">
+                     <idno>4.4.4.5</idno>
+                     <term>Protect</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.3.5.9.2">
+                     <idno>3.5.9.2</idno>
+                     <term>Telephone</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">dotyk</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">mobil</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">ochrana</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">telefon</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">accidental touch protection</ref>
+                  </xr>
+               </sense>
+               <xr type="related">
+                  <lbl type="cross-rerefence"
+                       subtype="complex-forms"/>
+                  <ref type="entry"
+                       target="#FACS.f9ff296c-2b77-4d2d-ab66-2486409a4e3c"
+                       subtype="kolokace"
+                       ana="#LeDIIR.taxonomy.complexFormType.kolokace">اتفاقی</ref>
+               </xr>
+            </entry>
+         </div>
+         <div type="letter"
+              xml:id="FACS.div.00099"
+              n="99">
+            <head type="letter">ن</head>
+            <entry xml:lang="fa"
+                   type="mainEntry"
+                   xml:id="FACS.2b7f8714-be49-4e9c-b78f-f62b929f13a9"
+                   sortKey="cbAM!BL!CA!JAPDc">
+               <form type="lemma">
+                  <orth xml:lang="fa">نماز بر پا داشتن</orth>
+                  <pron xml:lang="cs-CZ"
+                        notation="czech">namáz bar pá dáštan</pron>
+               </form>
+               <lbl xml:lang="en"
+                    type="variant"
+                    ana="#LeDIIR.taxonomy.zaměnitelná-předložka"/>
+               <form type="variant"
+                     subtype="zaměnitelná-předložka"
+                     ana="#LeDIIR.taxonomy.zaměnitelná-předložka"
+                     corresp="#FACS.e1cff0f4-78ee-4d3c-8861-850b82d461b4">
+                  <orth xml:lang="fa">نماز به پا داشتن</orth>
+               </form>
+               <usg type="frequency"
+                    value="MR">MR</usg>
+               <sense xml:id="FACS.2b7f8714-be49-4e9c-b78f-f62b929f13a9.sense.1">
+                  <gramGrp>
+                     <gram type="pos"
+                           xml:lang="en"
+                           expand="Verb"
+                           ana="#LeDIIR.taxonomy.v">v</gram>
+                  </gramGrp>
+                  <def xml:lang="cs-CZ">
+                     <seg type="equivalent"
+                          n="1">modlit se</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="2">pomodlit se</seg>
+                     <metamark function="equivalentDelimiter">;</metamark>
+                     <seg type="equivalent"
+                          n="3">vykonat modlitbu</seg>
+                  </def>
+                  <cit type="example">
+                     <quote xml:lang="fa">چند نفر از چهره‌هایی جدید در این صف ها  نماز به پا میدارند .</quote>
+                     <cit type="translation"
+                          xml:lang="cs-CZ">
+                        <quote>V řadách věřících se modlí několik nových tváří.</quote>
+                     </cit>
+                  </cit>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.9.5.2">
+                     <idno>4.9.5.2</idno>
+                     <term>Pray</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.9.5.3">
+                     <idno>4.9.5.3</idno>
+                     <term>Worship</term>
+                  </usg>
+                  <usg type="domain"
+                       ana="#LeDIIR.taxonomy.4.9.5.4">
+                     <idno>4.9.5.4</idno>
+                     <term>Religious ceremony</term>
+                  </usg>
+                  <xr type="related"
+                      subtype="Reversals">
+                     <lbl type="cross-rerefence"
+                          subtype="reversals"
+                          xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">modlit se</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">modlitba</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="cs-CZ"
+                          type="reversal">pomodlit se</ref>
+                     <pc>, </pc>
+                     <ref xml:lang="en"
+                          type="reversal">pray</ref>
+                  </xr>
+               </sense>
+               <lbl type="complexForm"
+                    subtype="LeDIIR.taxonomy.complexFormType.analytický-predikát"/>
+               <entry type="complexForm"
+                      ana="#LeDIIR.taxonomy.complexFormType.analytický-predikát"
+                      copyOf="#FACS.00cc0a7c-9d2a-47a3-84b6-eccef42be68a"
+                      xml:id="FACS.00cc0a7c-9d2a-47a3-84b6-eccef42be68a.CF.analytický-predikát.FACS.2b7f8714-be49-4e9c-b78f-f62b929f13a9"
+                      xml:lang="fa"
+                      sortKey="CA!JAPDc-Be!CA!JAPDc">
+                  <form type="lemma">
+                     <orth xml:lang="fa">به پا داشتن</orth>
+                     <pron xml:lang="cs-CZ"
+                           notation="czech">be pá dáštan</pron>
+                  </form>
+                  <usg type="frequency"
+                       value="TE">TE</usg>
+                  <sense xml:id="FACS.00cc0a7c-9d2a-47a3-84b6-eccef42be68a.CF.analytický-predikát.FACS.2b7f8714-be49-4e9c-b78f-f62b929f13a9.FACS.00cc0a7c-9d2a-47a3-84b6-eccef42be68a.sense.1"
+                         copyOf="#FACS.00cc0a7c-9d2a-47a3-84b6-eccef42be68a.sense.1">
+                     <gramGrp>
+                        <gram type="pos"
+                              xml:lang="en"
+                              expand="Verb"
+                              ana="#LeDIIR.taxonomy.v">v</gram>
+                     </gramGrp>
+                     <def xml:lang="cs-CZ">
+                        <seg type="equivalent"
+                             n="1">vykonat</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="2">konat</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="3">uskutečnit</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="4">uspořádat</seg>
+                        <metamark function="equivalentDelimiter">;</metamark>
+                        <seg type="equivalent"
+                             n="5">udělat</seg>
+                     </def>
+                  </sense>
+               </entry>
+            </entry>
+         </div>
+      </body>
+   </text>
+</TEI>
