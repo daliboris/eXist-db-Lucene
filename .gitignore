@@ -1,0 +1,10 @@
+build
+transform
+/node_modules/
+local.build.properties
+local.*
+*.code-workspace
+*.xstrc
+tests/**
+.vscode/**
+.vs/**
