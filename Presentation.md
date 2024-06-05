@@ -20,26 +20,66 @@
   - stored in the </db/system/config/db/apps> collection
     - synchronization in VS Code doesn't work (doesn't store in the </db/system/config/db/apps> collection)
     - you can use `xst`: `xst upload --include "*.xconf" --verbose --apply-xconf ./data/dictionaries/ /db/apps/exist-db-lucene/data/dictionaries --config admin.xstrc`
-  - indexing while
-    - uploading/inserting, removing data
-    - [updating data](https://exist-db.org/exist/apps/doc/update_ext.xml)
-      - `update insert | delete | replace | delete | rename` modifying data
-      - problems if the `<text>` element contains XPath with pradicate, like `//list[@type='index']`
-    - manually
-      - `xst execute "xmldb:reindex('/db/apps/exist-db-lucene/data/dictionaries')" --config admin.xstrc` (doesn't always work)
-      - from eXide (always works)
-        - be logged in as an `admin`
-        - saving `collection.xconf` file (with/out modification)
-        - clicking on `OK` button in dialog
+
+### Getting value
+
+- XPath
+  - `@expression="tei:form[@type=('lemma', 'variant')]/tei:pron"`
+- XQuery
+  - `@expression="nav:get-metadata(., 'pronunciation')"`
+  - /index.xql
+    - ​module namespace idx="http://teipublisher.com/index";
+  - /data/dictionaries/collexction.xconf
+    - `<module uri="http://teipublisher.com/index" prefix="nav" at="../../index.xql"/>`
+
+### Indexing while
+
+- uploading/inserting, removing data
+- [updating data](https://exist-db.org/exist/apps/doc/update_ext.xml)
+  - `update insert | delete | replace | delete | rename` modifying data
+  - problems if the `<text>` element contains XPath with pradicate, like `//list[@type='index']`
+- manually
+  - `xst execute "xmldb:reindex('/db/apps/exist-db-lucene/data/dictionaries')" --config admin.xstrc` (doesn't always work)
+  - from eXide (always works)
+    - be logged in as an `admin`
+    - saving `collection.xconf` file (with/out modification)
+    - clicking on `OK` button in dialog
+
+### Indexing using eXide
+
+![Confirmation dialog](/resources/images/indexing-exide-confirmation.png)
+
+![Infoboxes](/resources/images/indexing-exide-messages.png)
 
 ## Fields
+
+```xml
+<field name="domain" expression="nav:get-metadata(., 'domain')" />
+```
 
 - used for full-text searching
 - like properties of the parent node
 - not only text (dates, date times), i.e. atomic types (`xs:date`, `xs:dateTime`, `xs:time`, `xs:integer`, `xs:decimal`...)
 - can be computed (values can be computed or taken from different document or part of the document)
 
+```xquery
+ft:field($item, "domain")
+```
+
+## Binary fields
+
+`<field name="sortKey" expression="nav:get-metadata(., 'sortKey')" binary="yes" />`
+
+- used for sorting or filtering
+- content can be retrieved, but not queried
+
+```xquery
+ ft:binary-field($entry, "sortKey", "xs:string")
+ ```
+
 ## Facets
+
+`<facet dimension="domain" expression="nav:get-metadata(., 'domain')" />`
 
 - used for filtering (existing values in the search result)
 - field and facets can use the same expression (and thus the values)
@@ -48,21 +88,96 @@
 
 ## Search
 
-- whole text of the field is indexed, but separate words are searched
-- whole text of the facet is indexed and exact match is used
-- you can search for combination using quotes `""`
-- you can search using regular expression if you use `//`
+```xml
+<ref xml:lang="en" type="reversal">many times</ref>
+```
 
-```xpath
-//db:article[ft:query(., "title:(xquery AND language) AND xml")]
+- whole text is indexed, but separate words are searched
+  - //tei:entry[ft:query(., " reversal: **many** ")]
+- search for combination of words using double quotes ""
+  - //tei:entry[ft:query(., ' reversal: **"many times"** ')]
+- search with regular expression using slashes //
+  - //tei:entry[ft:query(., " reversal: **/[Bb]iologic.*/** ")]
+- search parts of words using wildcards (* and ?)
+  - //tei:entry[ft:query(., ' reversal: " **time*** " ')]
+
+## Using fields
+
+- return fields (for futher processing)
+  - //db:entry[ft:query(., (), map { **"fields": ("sortKey")** })]
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[
+  ft:query(., "reversal:although", map { "fields" : "sortKey" } )
+  ]
+for $hit in $hits
+   order by ft:field($hit, "sortKey")
+   return $hit
+```
+
+## Highlighting
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+declare namespace exist = "http://exist.sourceforge.net/NS/exist";
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., "reversal:although")]
+for $hit in $hits
+  let $expanded := util:expand($hit)
+  return $expanded
+```
+
+```xml
+<ref xml:lang="en" type="reversal">
+   <exist:match>although</exist:match>
+</ref>
+```
+
+## Filtering (facets)
+
+```xml
+<gram type="pos" expand="Adjective">adj</gram>
+```
+
+- can be used only on the result of full-text search (ft:query())
+
+```xqeury
+let $options := map {
+    "facets": map {
+        "pos": ("subst", "adj"),
+    }
+}
+```
+
+```xqpth
+//tei:entry[ft:query(., (), $options)]
 ```
 
 ## What is indexed
 
-- Monex
-- `report.xqm` [module](https://github.com/daliboris/exist-db-lucene/blob/main/modules/report.xql)
+### Monex
 
-### Debug
+![Monex, step 1](/resources/images/index-monex-step-01.png)
+
+![Monex, step 2](/resources/images/index-monex-step-02.png)
+
+![Monex, step 3](/resources/images/index-monex-step-03.png)
+
+![Monex, step 4](/resources/images/index-monex-step-04.png)
+
+### Report
+
+- see `report.xqm` [module](https://github.com/daliboris/exist-db-lucene/blob/main/modules/report.xql)
+
+![Report, step 1](/resources/images/rest-api-statistics-01.png)
+
+![Report, step 1](/resources/images/rest-api-statistics-02.png)
+
+### Debuging
 
 - edit `collection.xconf` or `index.xql`
 - if `collection.xconf` is modified
