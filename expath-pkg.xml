@@ -1,4 +1,4 @@
-<package xmlns="http://expath.org/ns/pkg" spec="1.0" version="0.1.0" name="http://www.daliboris.cz/apps/exist-db-lucene" abbrev="exist-db-lucene">
+<package xmlns="http://expath.org/ns/pkg" spec="1.0" version="0.2.0" name="http://www.daliboris.cz/apps/exist-db-lucene" abbrev="exist-db-lucene">
  <title>eXist-db Lucene sample (eXist-db Users Meetup, XML Prague 2024)</title>
  <home>https://github.com/daliboris/eXist-db-Lucene</home>
  <dependency processor="http://exist-db.org" semver-min="6.2.0"/>

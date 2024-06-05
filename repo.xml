@@ -12,6 +12,11 @@
     <target>exist-db-lucene</target>
     <permissions user="xml" password="prague" group="tei" mode="rw-r--r--"/>
     <changelog>
+        <change version="0.2.0">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>aligning text with slides for XML Prague 2024</li>
+            </ul>
+        </change>
         <change version="0.1.0">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <h3>eXist-db package for lexicographic data</h3>
