@@ -12,6 +12,12 @@
     <target>exist-db-lucene</target>
     <permissions user="xml" password="prague" group="tei" mode="rw-r--r--"/>
     <changelog>
+        <change version="0.4.0">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li><i>How to use it</i> section in the README</li>
+                <li>sample queries as separate XQuery modules</li>
+            </ul>
+        </change>
         <change version="0.3.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
                 <li>adding lost taxonomies back</li>
