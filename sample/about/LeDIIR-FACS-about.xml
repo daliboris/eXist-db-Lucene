@@ -41,8 +41,7 @@
          <classDecl>
             <taxonomy xml:id="LeDIIR.taxonomy">
                <bibl>Taxonomie Lexikální databáze indoevropských jazyků.</bibl>
-               <category xml:id="LeDIIR.taxonomy.1"
-                         n="63403699-07c1-43f3-a47c-069d6e4316e5">
+               <category xml:id="LeDIIR.taxonomy.1" n="63403699-07c1-43f3-a47c-069d6e4316e5">
                   <catDesc xml:lang="en">
                      <idno>1</idno>
                      <term>Universe, creation</term>
@@ -53,8 +52,7 @@
                      <term>خلقت، هستی</term>
                      <gloss/>
                   </catDesc>
-                  <category xml:id="LeDIIR.taxonomy.1.1"
-                            n="999581c4-1611-4acb-ae1b-5e6c1dfe6f0c">
+                  <category xml:id="LeDIIR.taxonomy.1.1" n="999581c4-1611-4acb-ae1b-5e6c1dfe6f0c">
                      <catDesc xml:lang="en">
                         <idno>1.1</idno>
                         <term>Sky</term>
@@ -65,8 +63,7 @@
                         <term>آسمان</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.1.1.3"
-                               n="b4aa4bbd-8abf-4503-96e4-05c75efd23d5">
+                     <category xml:id="LeDIIR.taxonomy.1.1.3" n="b4aa4bbd-8abf-4503-96e4-05c75efd23d5">
                         <catDesc xml:lang="en">
                            <idno>1.1.3</idno>
                            <term>Weather</term>
@@ -77,8 +74,7 @@
                            <term>آب و هوا</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.1.1.3.1"
-                                  n="93b8bd61-137a-4ebc-b12f-52fa5d2b3ea4">
+                        <category xml:id="LeDIIR.taxonomy.1.1.3.1" n="93b8bd61-137a-4ebc-b12f-52fa5d2b3ea4">
                            <catDesc xml:lang="en">
                               <idno>1.1.3.1</idno>
                               <term>Wind</term>
@@ -90,8 +86,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.1.1.3.3"
-                                  n="bfa3be74-0390-4e2e-bdb7-ed41eb67e4f1">
+                        <category xml:id="LeDIIR.taxonomy.1.1.3.3" n="bfa3be74-0390-4e2e-bdb7-ed41eb67e4f1">
                            <catDesc xml:lang="en">
                               <idno>1.1.3.3</idno>
                               <term>Rain</term>
@@ -105,8 +100,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.1.2"
-                            n="b47d2604-8b23-41e9-9158-01526dd83894">
+                  <category xml:id="LeDIIR.taxonomy.1.2" n="b47d2604-8b23-41e9-9158-01526dd83894">
                      <catDesc xml:lang="en">
                         <idno>1.2</idno>
                         <term>World</term>
@@ -117,8 +111,7 @@
                         <term>جهان</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.1.2.2"
-                               n="f899802d-bd32-427f-a101-c84219f7e14e">
+                     <category xml:id="LeDIIR.taxonomy.1.2.2" n="f899802d-bd32-427f-a101-c84219f7e14e">
                         <catDesc xml:lang="en">
                            <idno>1.2.2</idno>
                            <term>Substance, matter</term>
@@ -129,8 +122,7 @@
                            <term>جسم، ماده</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.1.2.2.1"
-                                  n="180a2220-942c-4e17-96ee-cd4f63a4c715">
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.1" n="180a2220-942c-4e17-96ee-cd4f63a4c715">
                            <catDesc xml:lang="en">
                               <idno>1.2.2.1</idno>
                               <term>Soil, dirt</term>
@@ -142,8 +134,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.1.2.2.2"
-                                  n="0f07adb7-4387-4723-9800-8362e825ad45">
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.2" n="0f07adb7-4387-4723-9800-8362e825ad45">
                            <catDesc xml:lang="en">
                               <idno>1.2.2.2</idno>
                               <term>Rock</term>
@@ -155,8 +146,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.1.2.2.3"
-                                  n="3df7d174-83d1-4e17-890e-1272e171ca41">
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.3" n="3df7d174-83d1-4e17-890e-1272e171ca41">
                            <catDesc xml:lang="en">
                               <idno>1.2.2.3</idno>
                               <term>Metal</term>
@@ -168,8 +158,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.1.2.2.4"
-                                  n="56c9c38c-728a-42fe-b93c-6ca67fdf2a9a">
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.4" n="56c9c38c-728a-42fe-b93c-6ca67fdf2a9a">
                            <catDesc xml:lang="en">
                               <idno>1.2.2.4</idno>
                               <term>Mineral</term>
@@ -181,8 +170,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.1.2.2.5"
-                                  n="21bcc306-13cb-4162-98b3-2ba319ba14ea">
+                        <category xml:id="LeDIIR.taxonomy.1.2.2.5" n="21bcc306-13cb-4162-98b3-2ba319ba14ea">
                            <catDesc xml:lang="en">
                               <idno>1.2.2.5</idno>
                               <term>Jewel</term>
@@ -196,8 +184,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.1.4"
-                            n="8d47c9ec-80c4-4309-9848-c453dcd71182">
+                  <category xml:id="LeDIIR.taxonomy.1.4" n="8d47c9ec-80c4-4309-9848-c453dcd71182">
                      <catDesc xml:lang="en">
                         <idno>1.4</idno>
                         <term>Living things</term>
@@ -208,8 +195,7 @@
                         <term>موجودات زنده</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.1.4.1"
-                               n="06a89652-70e0-40ac-b929-ed42f011c9fc">
+                     <category xml:id="LeDIIR.taxonomy.1.4.1" n="06a89652-70e0-40ac-b929-ed42f011c9fc">
                         <catDesc xml:lang="en">
                            <idno>1.4.1</idno>
                            <term>Dead things</term>
@@ -221,8 +207,7 @@
                            <gloss/>
                         </catDesc>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.1.4.2"
-                               n="1c512719-6ecb-48cb-980e-4ff20e8b5f9b">
+                     <category xml:id="LeDIIR.taxonomy.1.4.2" n="1c512719-6ecb-48cb-980e-4ff20e8b5f9b">
                         <catDesc xml:lang="en">
                            <idno>1.4.2</idno>
                            <term>Spirits of things</term>
@@ -235,8 +220,7 @@
                         </catDesc>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.1.5"
-                            n="025da6f4-b1b6-423a-8c0f-b324f531a6f1">
+                  <category xml:id="LeDIIR.taxonomy.1.5" n="025da6f4-b1b6-423a-8c0f-b324f531a6f1">
                      <catDesc xml:lang="en">
                         <idno>1.5</idno>
                         <term>Plant</term>
@@ -247,8 +231,7 @@
                         <term>گیاه</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.1.5.1"
-                               n="0ee5b933-f1ab-485f-894a-51fe239cb726">
+                     <category xml:id="LeDIIR.taxonomy.1.5.1" n="0ee5b933-f1ab-485f-894a-51fe239cb726">
                         <catDesc xml:lang="en">
                            <idno>1.5.1</idno>
                            <term>Tree</term>
@@ -260,8 +243,7 @@
                            <gloss/>
                         </catDesc>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.1.5.2"
-                               n="531af868-b5fb-41c2-ba50-764458f9102f">
+                     <category xml:id="LeDIIR.taxonomy.1.5.2" n="531af868-b5fb-41c2-ba50-764458f9102f">
                         <catDesc xml:lang="en">
                            <idno>1.5.2</idno>
                            <term>Bush, shrub</term>
@@ -273,8 +255,7 @@
                            <gloss/>
                         </catDesc>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.1.5.3"
-                               n="c345f278-91ff-463d-b9a6-8abac8a267eb">
+                     <category xml:id="LeDIIR.taxonomy.1.5.3" n="c345f278-91ff-463d-b9a6-8abac8a267eb">
                         <catDesc xml:lang="en">
                            <idno>1.5.3</idno>
                            <term>Grass, herb, vine</term>
@@ -286,8 +267,7 @@
                            <gloss/>
                         </catDesc>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.1.5.4"
-                               n="d06dae77-134a-403f-ba88-52ecd66c0522">
+                     <category xml:id="LeDIIR.taxonomy.1.5.4" n="d06dae77-134a-403f-ba88-52ecd66c0522">
                         <catDesc xml:lang="en">
                            <idno>1.5.4</idno>
                            <term>Moss, fungus, algae</term>
@@ -299,8 +279,7 @@
                            <gloss/>
                         </catDesc>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.1.5.5"
-                               n="d117aa22-3f18-47c4-9683-51ecf1dc7134">
+                     <category xml:id="LeDIIR.taxonomy.1.5.5" n="d117aa22-3f18-47c4-9683-51ecf1dc7134">
                         <catDesc xml:lang="en">
                            <idno>1.5.5</idno>
                            <term>Parts of a plant</term>
@@ -312,8 +291,7 @@
                            <gloss/>
                         </catDesc>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.1.5.6"
-                               n="d2ca3194-e393-480e-ae1d-dd67bed55227">
+                     <category xml:id="LeDIIR.taxonomy.1.5.6" n="d2ca3194-e393-480e-ae1d-dd67bed55227">
                         <catDesc xml:lang="en">
                            <idno>1.5.6</idno>
                            <term>Growth of plants</term>
@@ -325,8 +303,7 @@
                            <gloss/>
                         </catDesc>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.1.5.7"
-                               n="f7b7eb3c-b784-4ba5-8dac-a68fd27ce0ea">
+                     <category xml:id="LeDIIR.taxonomy.1.5.7" n="f7b7eb3c-b784-4ba5-8dac-a68fd27ce0ea">
                         <catDesc xml:lang="en">
                            <idno>1.5.7</idno>
                            <term>Plant diseases</term>
@@ -340,8 +317,7 @@
                      </category>
                   </category>
                </category>
-               <category xml:id="LeDIIR.taxonomy.2"
-                         n="ba06de9e-63e1-43e6-ae94-77bea498379a">
+               <category xml:id="LeDIIR.taxonomy.2" n="ba06de9e-63e1-43e6-ae94-77bea498379a">
                   <catDesc xml:lang="en">
                      <idno>2</idno>
                      <term>Person</term>
@@ -352,8 +328,7 @@
                      <term>شخص</term>
                      <gloss/>
                   </catDesc>
-                  <category xml:id="LeDIIR.taxonomy.2.5"
-                            n="32bebe7e-bdcc-4e40-8f0a-894cd6b26f25">
+                  <category xml:id="LeDIIR.taxonomy.2.5" n="32bebe7e-bdcc-4e40-8f0a-894cd6b26f25">
                      <catDesc xml:lang="en">
                         <idno>2.5</idno>
                         <term>Healthy</term>
@@ -364,8 +339,7 @@
                         <term>سالم، تندرست</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.2.5.6"
-                               n="a894d991-d5da-45a6-9c62-009133257f36">
+                     <category xml:id="LeDIIR.taxonomy.2.5.6" n="a894d991-d5da-45a6-9c62-009133257f36">
                         <catDesc xml:lang="en">
                            <idno>2.5.6</idno>
                            <term>Symptom of disease</term>
@@ -376,8 +350,7 @@
                            <term>نشانه مرض، علائم امراض</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.2.5.6.4"
-                                  n="d83ebe2c-c1d6-49ec-a4a9-1cdced843387">
+                        <category xml:id="LeDIIR.taxonomy.2.5.6.4" n="d83ebe2c-c1d6-49ec-a4a9-1cdced843387">
                            <catDesc xml:lang="en">
                               <idno>2.5.6.4</idno>
                               <term>Lose consciousness</term>
@@ -390,8 +363,7 @@
                            </catDesc>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.2.5.7"
-                               n="101c16f8-ec76-4ec7-895a-fd814fef51dd">
+                     <category xml:id="LeDIIR.taxonomy.2.5.7" n="101c16f8-ec76-4ec7-895a-fd814fef51dd">
                         <catDesc xml:lang="en">
                            <idno>2.5.7</idno>
                            <term>Treat disease</term>
@@ -402,8 +374,7 @@
                            <term>درمان امراض</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.2.5.7.1"
-                                  n="c01bbcef-7d89-4753-bafd-3a7f23648982">
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.1" n="c01bbcef-7d89-4753-bafd-3a7f23648982">
                            <catDesc xml:lang="en">
                               <idno>2.5.7.1</idno>
                               <term>Doctor, nurse</term>
@@ -415,8 +386,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.5.7.2"
-                                  n="b82c7ba0-9f4e-44da-bcd0-d30f5b224de5">
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.2" n="b82c7ba0-9f4e-44da-bcd0-d30f5b224de5">
                            <catDesc xml:lang="en">
                               <idno>2.5.7.2</idno>
                               <term>Medicine</term>
@@ -428,8 +398,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.5.7.3"
-                                  n="f3627c41-5daf-4f73-ac42-8a0522035e0b">
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.3" n="f3627c41-5daf-4f73-ac42-8a0522035e0b">
                            <catDesc xml:lang="en">
                               <idno>2.5.7.3</idno>
                               <term>Medicinal plants</term>
@@ -441,8 +410,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.5.7.4"
-                                  n="250a52e4-ede0-427d-8382-46a5742d4f96">
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.4" n="250a52e4-ede0-427d-8382-46a5742d4f96">
                            <catDesc xml:lang="en">
                               <idno>2.5.7.4</idno>
                               <term>Hospital</term>
@@ -454,8 +422,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.5.7.5"
-                                  n="8e88ed6a-000d-400a-8cd8-7b3cc7f1818c">
+                        <category xml:id="LeDIIR.taxonomy.2.5.7.5" n="8e88ed6a-000d-400a-8cd8-7b3cc7f1818c">
                            <catDesc xml:lang="en">
                               <idno>2.5.7.5</idno>
                               <term>Traditional medicine</term>
@@ -469,8 +436,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.2.6"
-                            n="50db27b5-89eb-4ffb-af82-566f51c8ec0b">
+                  <category xml:id="LeDIIR.taxonomy.2.6" n="50db27b5-89eb-4ffb-af82-566f51c8ec0b">
                      <catDesc xml:lang="en">
                         <idno>2.6</idno>
                         <term>Life</term>
@@ -481,8 +447,7 @@
                         <term>حیات/زندگی</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.2.6.3"
-                               n="35e61ec4-0542-4583-b5da-0aa5e31a35aa">
+                     <category xml:id="LeDIIR.taxonomy.2.6.3" n="35e61ec4-0542-4583-b5da-0aa5e31a35aa">
                         <catDesc xml:lang="en">
                            <idno>2.6.3</idno>
                            <term>Birth</term>
@@ -493,8 +458,7 @@
                            <term>تولد</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.2.6.3.1"
-                                  n="3cb4c07c-8760-4ff9-8d45-1c0bed80ffb3">
+                        <category xml:id="LeDIIR.taxonomy.2.6.3.1" n="3cb4c07c-8760-4ff9-8d45-1c0bed80ffb3">
                            <catDesc xml:lang="en">
                               <idno>2.6.3.1</idno>
                               <term>Pregnancy</term>
@@ -507,8 +471,7 @@
                            </catDesc>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.2.6.5"
-                               n="0db5817e-05bf-4703-a6b9-e239ac44f857">
+                     <category xml:id="LeDIIR.taxonomy.2.6.5" n="0db5817e-05bf-4703-a6b9-e239ac44f857">
                         <catDesc xml:lang="en">
                            <idno>2.6.5</idno>
                            <term>Male, female</term>
@@ -519,8 +482,7 @@
                            <term>مذکر، مونث</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.2.6.5.1"
-                                  n="04582a28-b94a-4e7f-8cc4-5cdefa8a39f0">
+                        <category xml:id="LeDIIR.taxonomy.2.6.5.1" n="04582a28-b94a-4e7f-8cc4-5cdefa8a39f0">
                            <catDesc xml:lang="en">
                               <idno>2.6.5.1</idno>
                               <term>Man</term>
@@ -532,8 +494,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.6.5.2"
-                                  n="ae6f73ab-432d-42e8-aa1a-c848652a13f0">
+                        <category xml:id="LeDIIR.taxonomy.2.6.5.2" n="ae6f73ab-432d-42e8-aa1a-c848652a13f0">
                            <catDesc xml:lang="en">
                               <idno>2.6.5.2</idno>
                               <term>Woman</term>
@@ -546,8 +507,7 @@
                            </catDesc>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.2.6.6"
-                               n="1c3c8af0-56b9-4617-862e-21f39b388606">
+                     <category xml:id="LeDIIR.taxonomy.2.6.6" n="1c3c8af0-56b9-4617-862e-21f39b388606">
                         <catDesc xml:lang="en">
                            <idno>2.6.6</idno>
                            <term>Die</term>
@@ -558,8 +518,7 @@
                            <term>مردن</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.2.6.6.1"
-                                  n="b8d2fdb9-22ea-4040-8abb-aeeff0399f23">
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.1" n="b8d2fdb9-22ea-4040-8abb-aeeff0399f23">
                            <catDesc xml:lang="en">
                               <idno>2.6.6.1</idno>
                               <term>Kill</term>
@@ -571,8 +530,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.6.6.2"
-                                  n="7e2b6218-0837-4b16-a982-c9535cccdb21">
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.2" n="7e2b6218-0837-4b16-a982-c9535cccdb21">
                            <catDesc xml:lang="en">
                               <idno>2.6.6.2</idno>
                               <term>Corpse</term>
@@ -584,8 +542,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.6.6.3"
-                                  n="08d5e632-0aed-4924-b3bb-d43de3420385">
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.3" n="08d5e632-0aed-4924-b3bb-d43de3420385">
                            <catDesc xml:lang="en">
                               <idno>2.6.6.3</idno>
                               <term>Funeral</term>
@@ -597,8 +554,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.6.6.4"
-                                  n="f2d0f288-5bbe-4fa0-9e8f-ddcc74891701">
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.4" n="f2d0f288-5bbe-4fa0-9e8f-ddcc74891701">
                            <catDesc xml:lang="en">
                               <idno>2.6.6.4</idno>
                               <term>Mourn</term>
@@ -610,8 +566,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.6.6.5"
-                                  n="ca9c215a-e568-4d09-b3a9-b5727cd831d6">
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.5" n="ca9c215a-e568-4d09-b3a9-b5727cd831d6">
                            <catDesc xml:lang="en">
                               <idno>2.6.6.5</idno>
                               <term>Bury</term>
@@ -623,8 +578,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.6.6.6"
-                                  n="32cf3835-bced-4ea1-9c7a-f7ff653e59fe">
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.6" n="32cf3835-bced-4ea1-9c7a-f7ff653e59fe">
                            <catDesc xml:lang="en">
                               <idno>2.6.6.6</idno>
                               <term>Grave</term>
@@ -636,8 +590,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.6.6.7"
-                                  n="1ec85151-eba0-48f4-b56d-4f8040602a4b">
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.7" n="1ec85151-eba0-48f4-b56d-4f8040602a4b">
                            <catDesc xml:lang="en">
                               <idno>2.6.6.7</idno>
                               <term>Inherit</term>
@@ -649,8 +602,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.2.6.6.8"
-                                  n="0281fb1d-ab12-41b9-a3dc-09ef6b1e4733">
+                        <category xml:id="LeDIIR.taxonomy.2.6.6.8" n="0281fb1d-ab12-41b9-a3dc-09ef6b1e4733">
                            <catDesc xml:lang="en">
                               <idno>2.6.6.8</idno>
                               <term>Life after death</term>
@@ -665,8 +617,7 @@
                      </category>
                   </category>
                </category>
-               <category xml:id="LeDIIR.taxonomy.3"
-                         n="f4491f9b-3c5e-42ab-afc0-f22e19d0fff5">
+               <category xml:id="LeDIIR.taxonomy.3" n="f4491f9b-3c5e-42ab-afc0-f22e19d0fff5">
                   <catDesc xml:lang="en">
                      <idno>3</idno>
                      <term>Language and thought</term>
@@ -677,8 +628,7 @@
                      <term>زبان و افکار</term>
                      <gloss/>
                   </catDesc>
-                  <category xml:id="LeDIIR.taxonomy.3.2"
-                            n="df9ee372-e92e-4f73-aac5-d36908497698">
+                  <category xml:id="LeDIIR.taxonomy.3.2" n="df9ee372-e92e-4f73-aac5-d36908497698">
                      <catDesc xml:lang="en">
                         <idno>3.2</idno>
                         <term>Think</term>
@@ -689,8 +639,7 @@
                         <term>فکر کردن</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.3.2.5"
-                               n="541dfa10-bf97-4713-a534-9cbcc7f66bc9">
+                     <category xml:id="LeDIIR.taxonomy.3.2.5" n="541dfa10-bf97-4713-a534-9cbcc7f66bc9">
                         <catDesc xml:lang="en">
                            <idno>3.2.5</idno>
                            <term>Opinion</term>
@@ -701,8 +650,7 @@
                            <term>نظر، عقیده</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.3.2.5.1"
-                                  n="c0f4715e-55c9-4379-ab6f-ad561a5e7151">
+                        <category xml:id="LeDIIR.taxonomy.3.2.5.1" n="c0f4715e-55c9-4379-ab6f-ad561a5e7151">
                            <catDesc xml:lang="en">
                               <idno>3.2.5.1</idno>
                               <term>Believe</term>
@@ -713,8 +661,7 @@
                               <term>ایمان داشتن، باور داشتن</term>
                               <gloss/>
                            </catDesc>
-                           <category xml:id="LeDIIR.taxonomy.3.2.5.1.1"
-                                     n="691bdba3-c216-4b42-877c-674bbdb517a7">
+                           <category xml:id="LeDIIR.taxonomy.3.2.5.1.1" n="691bdba3-c216-4b42-877c-674bbdb517a7">
                               <catDesc xml:lang="en">
                                  <idno>3.2.5.1.1</idno>
                                  <term>Trust</term>
@@ -728,8 +675,7 @@
                            </category>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.3.2.7"
-                               n="5e3bb9e5-fd70-4c5a-95a0-938bc4876a47">
+                     <category xml:id="LeDIIR.taxonomy.3.2.7" n="5e3bb9e5-fd70-4c5a-95a0-938bc4876a47">
                         <catDesc xml:lang="en">
                            <idno>3.2.7</idno>
                            <term>Expect</term>
@@ -740,8 +686,7 @@
                            <term>انتظار داشتن، چشم داشتن</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.3.2.7.1"
-                                  n="aaf63abd-c8a5-4546-8fc1-a51c6e607683">
+                        <category xml:id="LeDIIR.taxonomy.3.2.7.1" n="aaf63abd-c8a5-4546-8fc1-a51c6e607683">
                            <catDesc xml:lang="en">
                               <idno>3.2.7.1</idno>
                               <term>Hope</term>
@@ -755,8 +700,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.3.4"
-                            n="cb95189c-8c74-465b-af07-48e08dbf7c39">
+                  <category xml:id="LeDIIR.taxonomy.3.4" n="cb95189c-8c74-465b-af07-48e08dbf7c39">
                      <catDesc xml:lang="en">
                         <idno>3.4</idno>
                         <term>Emotion</term>
@@ -767,8 +711,7 @@
                         <term>احساسات</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.3.4.1"
-                               n="474aa982-8350-47e2-a983-e1e2bce9d928">
+                     <category xml:id="LeDIIR.taxonomy.3.4.1" n="474aa982-8350-47e2-a983-e1e2bce9d928">
                         <catDesc xml:lang="en">
                            <idno>3.4.1</idno>
                            <term>Feel good</term>
@@ -779,8 +722,7 @@
                            <term>احساس خوب</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.3.4.1.4"
-                                  n="f9d020d6-b129-4bb8-9509-3b4a6c27482e">
+                        <category xml:id="LeDIIR.taxonomy.3.4.1.4" n="f9d020d6-b129-4bb8-9509-3b4a6c27482e">
                            <catDesc xml:lang="en">
                               <idno>3.4.1.4</idno>
                               <term>Interested</term>
@@ -791,8 +733,7 @@
                               <term>علاقه مند</term>
                               <gloss/>
                            </catDesc>
-                           <category xml:id="LeDIIR.taxonomy.3.4.1.4.2"
-                                     n="85912845-21b0-41eb-8b8c-1f5c3d53df08">
+                           <category xml:id="LeDIIR.taxonomy.3.4.1.4.2" n="85912845-21b0-41eb-8b8c-1f5c3d53df08">
                               <catDesc xml:lang="en">
                                  <idno>3.4.1.4.2</idno>
                                  <term>Enthusiastic</term>
@@ -807,8 +748,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.3.5"
-                            n="c9aee4df-ac3e-4159-bd1a-060db1a5f070">
+                  <category xml:id="LeDIIR.taxonomy.3.5" n="c9aee4df-ac3e-4159-bd1a-060db1a5f070">
                      <catDesc xml:lang="en">
                         <idno>3.5</idno>
                         <term>Communication</term>
@@ -819,8 +759,7 @@
                         <term>ارتباط</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.3.5.1"
-                               n="9efa7949-de15-499a-b382-4560e06c4fb4">
+                     <category xml:id="LeDIIR.taxonomy.3.5.1" n="9efa7949-de15-499a-b382-4560e06c4fb4">
                         <catDesc xml:lang="en">
                            <idno>3.5.1</idno>
                            <term>Say</term>
@@ -831,8 +770,7 @@
                            <term>گفتن</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.3.5.1.2"
-                                  n="e45b8bac-9623-4f84-a113-9dec13a8db64">
+                        <category xml:id="LeDIIR.taxonomy.3.5.1.2" n="e45b8bac-9623-4f84-a113-9dec13a8db64">
                            <catDesc xml:lang="en">
                               <idno>3.5.1.2</idno>
                               <term>Talk about a subject</term>
@@ -843,8 +781,7 @@
                               <term>در مورد موضوعی صحبت کردن</term>
                               <gloss/>
                            </catDesc>
-                           <category xml:id="LeDIIR.taxonomy.3.5.1.2.6"
-                                     n="0539de86-f407-4b3d-b1b8-028822fb9f26">
+                           <category xml:id="LeDIIR.taxonomy.3.5.1.2.6" n="0539de86-f407-4b3d-b1b8-028822fb9f26">
                               <catDesc xml:lang="en">
                                  <idno>3.5.1.2.6</idno>
                                  <term>Repeat</term>
@@ -858,8 +795,7 @@
                            </category>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.3.5.9"
-                               n="cac1d7a8-7382-466e-ba4a-ba2bfe50f13b">
+                     <category xml:id="LeDIIR.taxonomy.3.5.9" n="cac1d7a8-7382-466e-ba4a-ba2bfe50f13b">
                         <catDesc xml:lang="en">
                            <idno>3.5.9</idno>
                            <term>Mass communication</term>
@@ -870,8 +806,7 @@
                            <term>ارتباطات جمعی</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.3.5.9.2"
-                                  n="32bf055a-d666-4d6e-a3c6-6c984e2c9868">
+                        <category xml:id="LeDIIR.taxonomy.3.5.9.2" n="32bf055a-d666-4d6e-a3c6-6c984e2c9868">
                            <catDesc xml:lang="en">
                               <idno>3.5.9.2</idno>
                               <term>Telephone</term>
@@ -885,8 +820,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.3.6"
-                            n="6137239a-b469-46be-b7cb-b9ac22fcc195">
+                  <category xml:id="LeDIIR.taxonomy.3.6" n="6137239a-b469-46be-b7cb-b9ac22fcc195">
                      <catDesc xml:lang="en">
                         <idno>3.6</idno>
                         <term>Teach</term>
@@ -897,8 +831,7 @@
                         <term>یاد دادن، تعلیم دادن</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.3.6.6"
-                               n="1886ffc9-0a18-41ea-b2f6-c17c297f1681">
+                     <category xml:id="LeDIIR.taxonomy.3.6.6" n="1886ffc9-0a18-41ea-b2f6-c17c297f1681">
                         <catDesc xml:lang="en">
                            <idno>3.6.6</idno>
                            <term>Science</term>
@@ -912,8 +845,7 @@
                      </category>
                   </category>
                </category>
-               <category xml:id="LeDIIR.taxonomy.4"
-                         n="62b4ae33-f3c2-447a-9ef7-7e41805b6a02">
+               <category xml:id="LeDIIR.taxonomy.4" n="62b4ae33-f3c2-447a-9ef7-7e41805b6a02">
                   <catDesc xml:lang="en">
                      <idno>4</idno>
                      <term>Social behavior</term>
@@ -924,8 +856,7 @@
                      <term>رفتار اجتماعی</term>
                      <gloss/>
                   </catDesc>
-                  <category xml:id="LeDIIR.taxonomy.4.1"
-                            n="0e79435b-f5ff-4061-81ff-49557ba2aed4">
+                  <category xml:id="LeDIIR.taxonomy.4.1" n="0e79435b-f5ff-4061-81ff-49557ba2aed4">
                      <catDesc xml:lang="en">
                         <idno>4.1</idno>
                         <term>Relationships</term>
@@ -936,8 +867,7 @@
                         <term>روابط</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.4.1.9"
-                               n="e7c58c11-2911-446a-96b0-2113247f3792">
+                     <category xml:id="LeDIIR.taxonomy.4.1.9" n="e7c58c11-2911-446a-96b0-2113247f3792">
                         <catDesc xml:lang="en">
                            <idno>4.1.9</idno>
                            <term>Kinship</term>
@@ -948,8 +878,7 @@
                            <term>خویشاوندی</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.4.1.9.3"
-                                  n="04370e1f-25aa-4d9e-97c5-de9b59156666">
+                        <category xml:id="LeDIIR.taxonomy.4.1.9.3" n="04370e1f-25aa-4d9e-97c5-de9b59156666">
                            <catDesc xml:lang="en">
                               <idno>4.1.9.3</idno>
                               <term>Widow, widower</term>
@@ -963,8 +892,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.4.2"
-                            n="57225f57-ba51-45d7-b6d2-b22052877ea4">
+                  <category xml:id="LeDIIR.taxonomy.4.2" n="57225f57-ba51-45d7-b6d2-b22052877ea4">
                      <catDesc xml:lang="en">
                         <idno>4.2</idno>
                         <term>Social activity</term>
@@ -975,8 +903,7 @@
                         <term>فعالیت اجتماعی</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.4.2.7"
-                               n="a3d95c6a-4b0b-4af0-aca8-addd042becd2">
+                     <category xml:id="LeDIIR.taxonomy.4.2.7" n="a3d95c6a-4b0b-4af0-aca8-addd042becd2">
                         <catDesc xml:lang="en">
                            <idno>4.2.7</idno>
                            <term>Play, fun</term>
@@ -989,8 +916,7 @@
                         </catDesc>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.4.4"
-                            n="9bb173c6-cf38-47cd-803f-ebdf964ca2fc">
+                  <category xml:id="LeDIIR.taxonomy.4.4" n="9bb173c6-cf38-47cd-803f-ebdf964ca2fc">
                      <catDesc xml:lang="en">
                         <idno>4.4</idno>
                         <term>Prosperity, trouble</term>
@@ -1001,8 +927,7 @@
                         <term>سعادت و خوشبختی ، زحمت و  سختی</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.4.4.1"
-                               n="c1144a6e-3fce-4084-93d6-6f305eda8b1f">
+                     <category xml:id="LeDIIR.taxonomy.4.4.1" n="c1144a6e-3fce-4084-93d6-6f305eda8b1f">
                         <catDesc xml:lang="en">
                            <idno>4.4.1</idno>
                            <term>Prosperity</term>
@@ -1014,8 +939,7 @@
                            <gloss/>
                         </catDesc>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.4.4.4"
-                               n="3dd684e6-75d9-41f4-aaa3-fb0cb3c7d400">
+                     <category xml:id="LeDIIR.taxonomy.4.4.4" n="3dd684e6-75d9-41f4-aaa3-fb0cb3c7d400">
                         <catDesc xml:lang="en">
                            <idno>4.4.4</idno>
                            <term>Respond to someone in trouble</term>
@@ -1026,8 +950,7 @@
                            <term>پاسخ دادن/رسیدگی کردن به کسی که در مشکل است</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.4.4.4.5"
-                                  n="0a42fd83-3b30-4c85-bb68-f5132e9ffeee">
+                        <category xml:id="LeDIIR.taxonomy.4.4.4.5" n="0a42fd83-3b30-4c85-bb68-f5132e9ffeee">
                            <catDesc xml:lang="en">
                               <idno>4.4.4.5</idno>
                               <term>Protect</term>
@@ -1041,8 +964,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.4.9"
-                            n="7556a257-3703-40d3-91d3-c891fb250947">
+                  <category xml:id="LeDIIR.taxonomy.4.9" n="7556a257-3703-40d3-91d3-c891fb250947">
                      <catDesc xml:lang="en">
                         <idno>4.9</idno>
                         <term>Religion</term>
@@ -1053,8 +975,7 @@
                         <term>مذهب، دین</term>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.4.9.5"
-                               n="b9c752a4-66be-493c-8955-cfa5324a54c1">
+                     <category xml:id="LeDIIR.taxonomy.4.9.5" n="b9c752a4-66be-493c-8955-cfa5324a54c1">
                         <catDesc xml:lang="en">
                            <idno>4.9.5</idno>
                            <term>Practice religion</term>
@@ -1065,8 +986,7 @@
                            <term>انجام اعمال مذهبی</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.4.9.5.2"
-                                  n="00dde3be-e53d-42c3-b3ff-717e25cbffb6">
+                        <category xml:id="LeDIIR.taxonomy.4.9.5.2" n="00dde3be-e53d-42c3-b3ff-717e25cbffb6">
                            <catDesc xml:lang="en">
                               <idno>4.9.5.2</idno>
                               <term>Pray</term>
@@ -1078,8 +998,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.4.9.5.3"
-                                  n="2ccab97a-fb98-4054-a29b-e5ceac8ca1b4">
+                        <category xml:id="LeDIIR.taxonomy.4.9.5.3" n="2ccab97a-fb98-4054-a29b-e5ceac8ca1b4">
                            <catDesc xml:lang="en">
                               <idno>4.9.5.3</idno>
                               <term>Worship</term>
@@ -1091,8 +1010,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.4.9.5.4"
-                                  n="5a4a8ae5-a209-4946-8fa1-3c3bd5083e0d">
+                        <category xml:id="LeDIIR.taxonomy.4.9.5.4" n="5a4a8ae5-a209-4946-8fa1-3c3bd5083e0d">
                            <catDesc xml:lang="en">
                               <idno>4.9.5.4</idno>
                               <term>Religious ceremony</term>
@@ -1105,8 +1023,7 @@
                            </catDesc>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.4.9.7"
-                               n="2470ad05-636e-4c85-96ab-cd880da58741">
+                     <category xml:id="LeDIIR.taxonomy.4.9.7" n="2470ad05-636e-4c85-96ab-cd880da58741">
                         <catDesc xml:lang="en">
                            <idno>4.9.7</idno>
                            <term>Religious organization</term>
@@ -1117,8 +1034,7 @@
                            <term>سازمان مذهبی</term>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.4.9.7.1"
-                                  n="ef860ee3-a4a5-4a42-b810-fdf41e35d151">
+                        <category xml:id="LeDIIR.taxonomy.4.9.7.1" n="ef860ee3-a4a5-4a42-b810-fdf41e35d151">
                            <catDesc xml:lang="en">
                               <idno>4.9.7.1</idno>
                               <term>Religious person</term>
@@ -1133,8 +1049,7 @@
                      </category>
                   </category>
                </category>
-               <category xml:id="LeDIIR.taxonomy.6"
-                         n="c82fa28f-7e26-489e-a244-4d69cea87b94">
+               <category xml:id="LeDIIR.taxonomy.6" n="c82fa28f-7e26-489e-a244-4d69cea87b94">
                   <catDesc xml:lang="en">
                      <idno>6</idno>
                      <term>Work and occupation</term>
@@ -1145,8 +1060,7 @@
                      <term/>
                      <gloss/>
                   </catDesc>
-                  <category xml:id="LeDIIR.taxonomy.6.1"
-                            n="d68911f6-6507-483a-b015-44726fdf868a">
+                  <category xml:id="LeDIIR.taxonomy.6.1" n="d68911f6-6507-483a-b015-44726fdf868a">
                      <catDesc xml:lang="en">
                         <idno>6.1</idno>
                         <term>Work</term>
@@ -1157,8 +1071,7 @@
                         <term/>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.6.1.1"
-                               n="8be94377-a3cc-4187-a6e2-51523e953503">
+                     <category xml:id="LeDIIR.taxonomy.6.1.1" n="8be94377-a3cc-4187-a6e2-51523e953503">
                         <catDesc xml:lang="en">
                            <idno>6.1.1</idno>
                            <term>Worker</term>
@@ -1169,8 +1082,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.6.1.1.1"
-                                  n="b6ead5e6-dab5-4941-9017-d03452182709">
+                        <category xml:id="LeDIIR.taxonomy.6.1.1.1" n="b6ead5e6-dab5-4941-9017-d03452182709">
                            <catDesc xml:lang="en">
                               <idno>6.1.1.1</idno>
                               <term>Expert</term>
@@ -1183,8 +1095,7 @@
                            </catDesc>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.6.1.8"
-                               n="5d92b4a7-baf7-495e-bb43-4f733cc55935">
+                     <category xml:id="LeDIIR.taxonomy.6.1.8" n="5d92b4a7-baf7-495e-bb43-4f733cc55935">
                         <catDesc xml:lang="en">
                            <idno>6.1.8</idno>
                            <term>Experienced</term>
@@ -1195,8 +1106,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.6.1.8.1"
-                                  n="ea839451-f89e-4432-b361-3086ca4f13fd">
+                        <category xml:id="LeDIIR.taxonomy.6.1.8.1" n="ea839451-f89e-4432-b361-3086ca4f13fd">
                            <catDesc xml:lang="en">
                               <idno>6.1.8.1</idno>
                               <term>Accustomed to</term>
@@ -1210,8 +1120,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.6.6"
-                            n="9bab95c4-9773-4894-9cb9-d7ad39378b45">
+                  <category xml:id="LeDIIR.taxonomy.6.6" n="9bab95c4-9773-4894-9cb9-d7ad39378b45">
                      <catDesc xml:lang="en">
                         <idno>6.6</idno>
                         <term>Occupation</term>
@@ -1222,8 +1131,7 @@
                         <term/>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.6.6.2"
-                               n="34e92ff1-32aa-49c7-b4da-d161bedc5adc">
+                     <category xml:id="LeDIIR.taxonomy.6.6.2" n="34e92ff1-32aa-49c7-b4da-d161bedc5adc">
                         <catDesc xml:lang="en">
                            <idno>6.6.2</idno>
                            <term>Working with minerals</term>
@@ -1234,8 +1142,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.6.6.2.9"
-                                  n="8b76f4a2-9926-4c76-8d4f-563371683219">
+                        <category xml:id="LeDIIR.taxonomy.6.6.2.9" n="8b76f4a2-9926-4c76-8d4f-563371683219">
                            <catDesc xml:lang="en">
                               <idno>6.6.2.9</idno>
                               <term>Working with chemicals</term>
@@ -1246,8 +1153,7 @@
                               <term/>
                               <gloss/>
                            </catDesc>
-                           <category xml:id="LeDIIR.taxonomy.6.6.2.9.1"
-                                     n="1fd8a8d6-6795-4a5b-90e0-342e8b0975a1">
+                           <category xml:id="LeDIIR.taxonomy.6.6.2.9.1" n="1fd8a8d6-6795-4a5b-90e0-342e8b0975a1">
                               <catDesc xml:lang="en">
                                  <idno>6.6.2.9.1</idno>
                                  <term>Explode</term>
@@ -1263,8 +1169,7 @@
                      </category>
                   </category>
                </category>
-               <category xml:id="LeDIIR.taxonomy.7"
-                         n="d60faf11-cc6e-48db-8a13-82f86d78ab00">
+               <category xml:id="LeDIIR.taxonomy.7" n="d60faf11-cc6e-48db-8a13-82f86d78ab00">
                   <catDesc xml:lang="en">
                      <idno>7</idno>
                      <term>Physical actions</term>
@@ -1275,8 +1180,7 @@
                      <term>کنشهای فیزیکی یا جسمی (حرکات جسمی)</term>
                      <gloss>از کلمات این دامنه برای کلمات عمومی برای حرکت جسم- حرکت دادن خود، حرکت اجسام، و تغییر اشیا- استفاده کنید.</gloss>
                   </catDesc>
-                  <category xml:id="LeDIIR.taxonomy.7.3"
-                            n="2810998c-d6cc-47a3-a946-66d0986a2767">
+                  <category xml:id="LeDIIR.taxonomy.7.3" n="2810998c-d6cc-47a3-a946-66d0986a2767">
                      <catDesc xml:lang="en">
                         <idno>7.3</idno>
                         <term>Move something</term>
@@ -1287,8 +1191,7 @@
                         <term>حرکت دادن چیزی</term>
                         <gloss>از این دامنه برای کلمات جامع مربوط به حرکت دادن چیزی یا کسی استفاده کنید.</gloss>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.7.3.1"
-                               n="6430b89c-7077-418a-a558-51f0e3f2c1a6">
+                     <category xml:id="LeDIIR.taxonomy.7.3.1" n="6430b89c-7077-418a-a558-51f0e3f2c1a6">
                         <catDesc xml:lang="en">
                            <idno>7.3.1</idno>
                            <term>Carry</term>
@@ -1299,8 +1202,7 @@
                            <term>بر دوش کشیدن</term>
                            <gloss>از این دامنه برای کلمات مربوط به، بر‌دوش کشیدن چیزی- بلند کردن چیزی و نگهداشتن آن در‌حالیکه خود در حرکت می‌باشید- استفاده کنید.</gloss>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.7.3.1.1"
-                                  n="7831223b-e5ed-4186-a321-94e9ae72a27d">
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.1" n="7831223b-e5ed-4186-a321-94e9ae72a27d">
                            <catDesc xml:lang="en">
                               <idno>7.3.1.1</idno>
                               <term>Throw</term>
@@ -1312,8 +1214,7 @@
                               <gloss>از این دامنه برای کلمات مربوط به پرتاب کردن چیزی استفاده کنید.</gloss>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.7.3.1.2"
-                                  n="ef025cd9-dd92-442b-a8f9-fe7ac944ccec">
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.2" n="ef025cd9-dd92-442b-a8f9-fe7ac944ccec">
                            <catDesc xml:lang="en">
                               <idno>7.3.1.2</idno>
                               <term>Catch</term>
@@ -1325,8 +1226,7 @@
                               <gloss>از این دامنه برای افعال مربوط به گرفتن چیزی که انداخته یا افتاده استفاده کنید.</gloss>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.7.3.1.3"
-                                  n="05371057-2fe4-49ef-b203-f5bd6727645e">
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.3" n="05371057-2fe4-49ef-b203-f5bd6727645e">
                            <catDesc xml:lang="en">
                               <idno>7.3.1.3</idno>
                               <term>Shake</term>
@@ -1338,8 +1238,7 @@
                               <gloss>از این دامنه برای کلمات مربوط به حرکت چیزی به این سو و آن سو استفاده کنید.</gloss>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.7.3.1.4"
-                                  n="06905a7e-47f4-4c86-afea-a4175295b566">
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.4" n="06905a7e-47f4-4c86-afea-a4175295b566">
                            <catDesc xml:lang="en">
                               <idno>7.3.1.4</idno>
                               <term>Knock over</term>
@@ -1351,8 +1250,7 @@
                               <gloss>از این دامن برای کلمات مربوط به چپه کردن چیزی طوری‌که بیافتد، و برای چپه کردن یک محفظه طوری‌که محتویاتش بیرون بریزد، استفاده کنید.</gloss>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.7.3.1.5"
-                                  n="28a37d39-8347-4254-99bf-8e3c37dbf8a8">
+                        <category xml:id="LeDIIR.taxonomy.7.3.1.5" n="28a37d39-8347-4254-99bf-8e3c37dbf8a8">
                            <catDesc xml:lang="en">
                               <idno>7.3.1.5</idno>
                               <term>Set upright</term>
@@ -1367,8 +1265,7 @@
                      </category>
                   </category>
                </category>
-               <category xml:id="LeDIIR.taxonomy.8"
-                         n="c72985cf-b07f-4ed5-873a-a2209929667e">
+               <category xml:id="LeDIIR.taxonomy.8" n="c72985cf-b07f-4ed5-873a-a2209929667e">
                   <catDesc xml:lang="en">
                      <idno>8</idno>
                      <term>States</term>
@@ -1379,8 +1276,7 @@
                      <term>چگونگی و حالت</term>
                      <gloss>این  حیطه را برای واژگان عمومی که به حالت یا موقعیت چیزی برمی‌گردد استفاده می‌شود.</gloss>
                   </catDesc>
-                  <category xml:id="LeDIIR.taxonomy.8.1"
-                            n="c6c772af-7b6b-4393-b0da-5b4a329d3426">
+                  <category xml:id="LeDIIR.taxonomy.8.1" n="c6c772af-7b6b-4393-b0da-5b4a329d3426">
                      <catDesc xml:lang="en">
                         <idno>8.1</idno>
                         <term>Quantity</term>
@@ -1391,8 +1287,7 @@
                         <term>کمیّت</term>
                         <gloss>از این ناحیه برای واژگان عمومی که به مقدار یا کمیت چیزی برمی‌گردند، استفاده کنید.</gloss>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.8.1.1"
-                               n="fb84538a-17a8-4adc-8d50-e2b66f8e4099">
+                     <category xml:id="LeDIIR.taxonomy.8.1.1" n="fb84538a-17a8-4adc-8d50-e2b66f8e4099">
                         <catDesc xml:lang="en">
                            <idno>8.1.1</idno>
                            <term>Number</term>
@@ -1403,8 +1298,7 @@
                            <term>عدد</term>
                            <gloss>این حوزه را برای واژگان منسوب ارقامی استفاده کنید. هر زبانی واژه‌ای برای (یک ۱) دارد، و واژه‌ای برای (دو۲(. این دو عدد اغلب واژگان خاصی دارند. پس ما حوزه‌ی جداگانه‌ای در برگرفته‌ای برای (یک۱) و (دو۲) داریم. بعلاوه شکل اعداد متوالی (یک، دو، سه...). اغلب زبان‌ها بیشتر از یک متوالی اعداد دارند (اولین، دومین، سومین،...). پس ما همچنان حوزه‌ی در برگرفته‌ای برای هر متوالی از اعدادی که اغلب زبان‌ها دارند را داریم. زبان شما ممکن است که متوالی دیگری از اعداد را داشته باشد. آنها را در (متوالی اعداد) حوزه قرار دهید. </gloss>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.8.1.1.3"
-                                  n="d85d0838-a9e4-4787-8fce-7d0466bc24b9">
+                        <category xml:id="LeDIIR.taxonomy.8.1.1.3" n="d85d0838-a9e4-4787-8fce-7d0466bc24b9">
                            <catDesc xml:lang="en">
                               <idno>8.1.1.3</idno>
                               <term>Number of times</term>
@@ -1417,8 +1311,7 @@
                            </catDesc>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.8.1.8"
-                               n="8a81b9bc-9c66-4d57-a2d1-2e592604c4b1">
+                     <category xml:id="LeDIIR.taxonomy.8.1.8" n="8a81b9bc-9c66-4d57-a2d1-2e592604c4b1">
                         <catDesc xml:lang="en">
                            <idno>8.1.8</idno>
                            <term>Full</term>
@@ -1429,8 +1322,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.8.1.8.1"
-                                  n="e9cafabe-f0f7-4142-a6f6-d1c94bdc4b5c">
+                        <category xml:id="LeDIIR.taxonomy.8.1.8.1" n="e9cafabe-f0f7-4142-a6f6-d1c94bdc4b5c">
                            <catDesc xml:lang="en">
                               <idno>8.1.8.1</idno>
                               <term>Empty</term>
@@ -1444,8 +1336,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.8.3"
-                            n="ac9ee84f-f0c7-48b3-8e5a-b4c967112394">
+                  <category xml:id="LeDIIR.taxonomy.8.3" n="ac9ee84f-f0c7-48b3-8e5a-b4c967112394">
                      <catDesc xml:lang="en">
                         <idno>8.3</idno>
                         <term>Quality</term>
@@ -1456,8 +1347,7 @@
                         <term/>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.8.3.4"
-                               n="742996cd-b87f-40a8-bdb3-dba74219bd73">
+                     <category xml:id="LeDIIR.taxonomy.8.3.4" n="742996cd-b87f-40a8-bdb3-dba74219bd73">
                         <catDesc xml:lang="en">
                            <idno>8.3.4</idno>
                            <term>Hot</term>
@@ -1468,8 +1358,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.8.3.2"
-                                  n="2621e605-3ecc-4f3d-b28c-f8c92b3c4584">
+                        <category xml:id="LeDIIR.taxonomy.8.3.2" n="2621e605-3ecc-4f3d-b28c-f8c92b3c4584">
                            <catDesc xml:lang="en">
                               <idno>8.3.2</idno>
                               <term>Texture</term>
@@ -1480,8 +1369,7 @@
                               <term/>
                               <gloss/>
                            </catDesc>
-                           <category xml:id="LeDIIR.taxonomy.8.3.2.2"
-                                     n="2e09535f-f61f-4ff5-8d56-23c2916cbb7f">
+                           <category xml:id="LeDIIR.taxonomy.8.3.2.2" n="2e09535f-f61f-4ff5-8d56-23c2916cbb7f">
                               <catDesc xml:lang="en">
                                  <idno>8.3.2.2</idno>
                                  <term>Rough</term>
@@ -1495,8 +1383,7 @@
                            </category>
                         </category>
                      </category>
-                     <category xml:id="LeDIIR.taxonomy.8.3.7"
-                               n="83adeb9d-c0be-4073-894d-913014420280">
+                     <category xml:id="LeDIIR.taxonomy.8.3.7" n="83adeb9d-c0be-4073-894d-913014420280">
                         <catDesc xml:lang="en">
                            <idno>8.3.7</idno>
                            <term>Good</term>
@@ -1507,8 +1394,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.8.3.7.9"
-                                  n="cd4300c9-265e-4457-8e33-4e0c9a4d4ba8">
+                        <category xml:id="LeDIIR.taxonomy.8.3.7.9" n="cd4300c9-265e-4457-8e33-4e0c9a4d4ba8">
                            <catDesc xml:lang="en">
                               <idno>8.3.7.9</idno>
                               <term>Value</term>
@@ -1522,8 +1408,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.8.4"
-                            n="21167445-f1b1-49b4-b147-bc792616c432">
+                  <category xml:id="LeDIIR.taxonomy.8.4" n="21167445-f1b1-49b4-b147-bc792616c432">
                      <catDesc xml:lang="en">
                         <idno>8.4</idno>
                         <term>Time</term>
@@ -1534,8 +1419,7 @@
                         <term/>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.8.4.6"
-                               n="18a6684f-d324-45ee-855c-44d473916b14">
+                     <category xml:id="LeDIIR.taxonomy.8.4.6" n="18a6684f-d324-45ee-855c-44d473916b14">
                         <catDesc xml:lang="en">
                            <idno>8.4.6</idno>
                            <term>Aspectual time</term>
@@ -1546,8 +1430,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.8.4.6.6"
-                                  n="457231c8-4eb6-4460-aa45-3e9f2c4e8975">
+                        <category xml:id="LeDIIR.taxonomy.8.4.6.6" n="457231c8-4eb6-4460-aa45-3e9f2c4e8975">
                            <catDesc xml:lang="en">
                               <idno>8.4.6.6</idno>
                               <term>Once</term>
@@ -1558,8 +1441,7 @@
                               <term/>
                               <gloss/>
                            </catDesc>
-                           <category xml:id="LeDIIR.taxonomy.8.4.6.6.1"
-                                     n="2351f52a-8822-46ad-99c4-7ef526e94a6f">
+                           <category xml:id="LeDIIR.taxonomy.8.4.6.6.1" n="2351f52a-8822-46ad-99c4-7ef526e94a6f">
                               <catDesc xml:lang="en">
                                  <idno>8.4.6.6.1</idno>
                                  <term>Again</term>
@@ -1575,8 +1457,7 @@
                      </category>
                   </category>
                </category>
-               <category xml:id="LeDIIR.taxonomy.9"
-                         n="349f0278-7998-422a-9c3b-6053989cbb20">
+               <category xml:id="LeDIIR.taxonomy.9" n="349f0278-7998-422a-9c3b-6053989cbb20">
                   <catDesc xml:lang="en">
                      <idno>9</idno>
                      <term>Grammar</term>
@@ -1587,8 +1468,7 @@
                      <term/>
                      <gloss/>
                   </catDesc>
-                  <category xml:id="LeDIIR.taxonomy.9.2"
-                            n="af0909a5-928a-4421-baaa-f33b14302714">
+                  <category xml:id="LeDIIR.taxonomy.9.2" n="af0909a5-928a-4421-baaa-f33b14302714">
                      <catDesc xml:lang="en">
                         <idno>9.2</idno>
                         <term>Part of speech</term>
@@ -1599,8 +1479,7 @@
                         <term/>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.9.2.5"
-                               n="f950b7cc-fb85-4dbb-b8ca-934d38cae7fc">
+                     <category xml:id="LeDIIR.taxonomy.9.2.5" n="f950b7cc-fb85-4dbb-b8ca-934d38cae7fc">
                         <catDesc xml:lang="en">
                            <idno>9.2.5</idno>
                            <term>Conjunctions</term>
@@ -1611,8 +1490,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.9.2.5.1"
-                                  n="a42aa891-e4fd-489e-b573-b9d20dfc5c2a">
+                        <category xml:id="LeDIIR.taxonomy.9.2.5.1" n="a42aa891-e4fd-489e-b573-b9d20dfc5c2a">
                            <catDesc xml:lang="en">
                               <idno>9.2.5.1</idno>
                               <term>Phrase conjunctions</term>
@@ -1624,8 +1502,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.9.2.5.2"
-                                  n="2c576c40-17ae-45a7-9ec8-6c16e02ab9c3">
+                        <category xml:id="LeDIIR.taxonomy.9.2.5.2" n="2c576c40-17ae-45a7-9ec8-6c16e02ab9c3">
                            <catDesc xml:lang="en">
                               <idno>9.2.5.2</idno>
                               <term>Clause conjunctions</term>
@@ -1637,8 +1514,7 @@
                               <gloss/>
                            </catDesc>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.9.2.5.3"
-                                  n="ae04020a-3bb2-4672-ad75-71ce72d461ea">
+                        <category xml:id="LeDIIR.taxonomy.9.2.5.3" n="ae04020a-3bb2-4672-ad75-71ce72d461ea">
                            <catDesc xml:lang="en">
                               <idno>9.2.5.3</idno>
                               <term>Sentence conjunctions</term>
@@ -1652,8 +1528,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.9.6"
-                            n="7f7fc197-5064-43c0-af51-2919fb7355c9">
+                  <category xml:id="LeDIIR.taxonomy.9.6" n="7f7fc197-5064-43c0-af51-2919fb7355c9">
                      <catDesc xml:lang="en">
                         <idno>9.6</idno>
                         <term>Connected with, related</term>
@@ -1664,8 +1539,7 @@
                         <term/>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.9.6.2"
-                               n="b2fd2d29-1389-4114-91a8-15b8d9742794">
+                     <category xml:id="LeDIIR.taxonomy.9.6.2" n="b2fd2d29-1389-4114-91a8-15b8d9742794">
                         <catDesc xml:lang="en">
                            <idno>9.6.2</idno>
                            <term>Dependency relations</term>
@@ -1676,8 +1550,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.9.6.2.6"
-                                  n="48d3de9f-3619-4785-b50b-6921ba7eecd6">
+                        <category xml:id="LeDIIR.taxonomy.9.6.2.6" n="48d3de9f-3619-4785-b50b-6921ba7eecd6">
                            <catDesc xml:lang="en">
                               <idno>9.6.2.6</idno>
                               <term>Result</term>
@@ -1688,8 +1561,7 @@
                               <term/>
                               <gloss/>
                            </catDesc>
-                           <category xml:id="LeDIIR.taxonomy.9.6.2.6.1"
-                                     n="139409c3-7860-4586-897f-85ba3226046c">
+                           <category xml:id="LeDIIR.taxonomy.9.6.2.6.1" n="139409c3-7860-4586-897f-85ba3226046c">
                               <catDesc xml:lang="en">
                                  <idno>9.6.2.6.1</idno>
                                  <term>Without result</term>
@@ -1702,8 +1574,7 @@
                               </catDesc>
                            </category>
                         </category>
-                        <category xml:id="LeDIIR.taxonomy.9.6.2.7"
-                                  n="18bf6c79-6399-4977-be3d-93135302d8c4">
+                        <category xml:id="LeDIIR.taxonomy.9.6.2.7" n="18bf6c79-6399-4977-be3d-93135302d8c4">
                            <catDesc xml:lang="en">
                               <idno>9.6.2.7</idno>
                               <term>Purpose</term>
@@ -1714,8 +1585,7 @@
                               <term/>
                               <gloss/>
                            </catDesc>
-                           <category xml:id="LeDIIR.taxonomy.9.6.2.7.1"
-                                     n="4fdf3cf1-0808-4f11-acdd-9db71550baab">
+                           <category xml:id="LeDIIR.taxonomy.9.6.2.7.1" n="4fdf3cf1-0808-4f11-acdd-9db71550baab">
                               <catDesc xml:lang="en">
                                  <idno>9.6.2.7.1</idno>
                                  <term>Without purpose</term>
@@ -1730,8 +1600,7 @@
                         </category>
                      </category>
                   </category>
-                  <category xml:id="LeDIIR.taxonomy.9.7"
-                            n="5b7666bd-c6c1-45e7-aa2e-1799fcb16d97">
+                  <category xml:id="LeDIIR.taxonomy.9.7" n="5b7666bd-c6c1-45e7-aa2e-1799fcb16d97">
                      <catDesc xml:lang="en">
                         <idno>9.7</idno>
                         <term>Name</term>
@@ -1742,8 +1611,7 @@
                         <term/>
                         <gloss/>
                      </catDesc>
-                     <category xml:id="LeDIIR.taxonomy.9.7.1"
-                               n="7b513a02-c3ae-4243-9410-16854d911258">
+                     <category xml:id="LeDIIR.taxonomy.9.7.1" n="7b513a02-c3ae-4243-9410-16854d911258">
                         <catDesc xml:lang="en">
                            <idno>9.7.1</idno>
                            <term>Name of a person</term>
@@ -1754,8 +1622,7 @@
                            <term/>
                            <gloss/>
                         </catDesc>
-                        <category xml:id="LeDIIR.taxonomy.9.7.1.1"
-                                  n="6b921117-47e9-4717-b3b3-4e170d26b6d9">
+                        <category xml:id="LeDIIR.taxonomy.9.7.1.1" n="6b921117-47e9-4717-b3b3-4e170d26b6d9">
                            <catDesc xml:lang="en">
                               <idno>9.7.1.1</idno>
                               <term>Personal names</term>
@@ -1773,21 +1640,1344 @@
             </taxonomy>
             <taxonomy xml:id="LeDIIR.taxonomy.grammar">
                <bibl>Slovní druhy (Lexikální databáze indoevropských jazyků).</bibl>
+               <category xml:id="LeDIIR.taxonomy.adv"
+                         n="46e4fe08-ffa0-4c8b-bf98-2c56f38904d9">
+                  <catDesc xml:lang="en">
+                     <idno>adv</idno>
+                     <term>Adverb</term>
+                     <gloss>An adverb, narrowly defined, is a part of speech whose members modify verbs for such categories as time, manner, place, or direction. An adverb, broadly defined, is a part of speech whose members modify any constituent class of words other than nouns, such as verbs, adjectives, adverbs, phrases, clauses, or sentences. Under this definition, the possible type of modification depends on the class of the constituent being modified.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>adv</idno>
+                     <term>adverbium</term>
+                     <gloss>Adverbium (příslovce). Jelikož i zde slovní druh charakterizuje významovou funkci českého ekvivalentu, řadíme do této kategorie i adverbializované skupiny tvořené pomocí předložek, příslovečné spřežky, např. [be-sádegí] (snadno), [baráje abad] (navěky), [az (rú-je) ettefágh] (náhodou), [tá hálá] (doposud). Jinak jsou typickými slovotvornými příponami adverbií např. z arabštiny přejatá přípona [-an], resp. přípona [-áne], která vzniklé odvozenině dává současně význam adverbia pro neživotné subjekty.  O tvorbě adverbií v perštině viz t. <ref target="https://www.jahanshiri.ir/fa/en/adverb-formation"
+                             type="external">Jahanshiri (2004–2022c). </ref>
+                     </gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>قید</idno>
+                     <term>قید</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.subst"
+                         n="a8e41fd3-e343-4c7c-aa05-01ea3dd5cfb5">
+                  <catDesc xml:lang="en">
+                     <idno>subst</idno>
+                     <term>Noun</term>
+                     <gloss>A noun is a broad classification of parts of speech which include substantives and nominals.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>subst</idno>
+                     <term>substantivum</term>
+                     <gloss>Substantiva (podstatná jména). Na rozdíl od češtiny jsou v perštině neohebná a genderově neutrální, více např. <ref target="https://www.jahanshiri.ir/fa/en/toc-grammar"
+                             type="external">Jahanshiri (2004–2022b)</ref>. V této databázi jsme se rozhodli přiřazovat kategorii substantiv i významům některých víceslovných hesel s funkcí nominální skupiny, neboť jednotlivá slova a skupiny se v obou jazycích nemusí nutně překrývat. Rovněž u některých infinitivů sloves jsou jako zvláštní význam oddělena i z nich odvozená podstatná jména slovesná.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>اسم</idno>
+                     <term>اسم</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.pl"
+                            n="b0c356b3-c0e1-4a2c-bcc1-58948c82be7f">
+                     <catDesc xml:lang="en">
+                        <idno>pl</idno>
+                        <term>Plural</term>
+                        <gloss/>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>pl</idno>
+                        <term>plurál</term>
+                        <gloss>Plurál (množné číslo). Více o plurálech substantiv v perštině <ref target="https://www.jahanshiri.ir/fa/en/toc-grammar"
+                                type="external">Jahanshiri (2004–2022b).</ref> Kde se u výpůjček z arabštiny v perštině užívají i arabské plurály nebo duály, jsou v databázi uvedeny jako samostatná hesla – varianty. V některých případech jsou jako samostatná hesla uvedeny i pravidelné perské plurály, zvláště nabývají-li nový význam. </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>جمع</idno>
+                        <term>جمع</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.sg"
+                            n="a481938d-4a50-40bb-b569-4064c387b606">
+                     <catDesc xml:lang="en">
+                        <idno>sg</idno>
+                        <term>Singular</term>
+                        <gloss/>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>sg</idno>
+                        <term>singulár</term>
+                        <gloss>Singulár (jednotné číslo). Tato kategorie je v databázi využita jen výjimečně, např. pokud je plurál substantiva užíván častěji než singulár, a tedy podrobněji popsán; singulár je pak k tomuto heslu přiřazen jako varianta. Jinak jsou tvary jednotného čísla vesměs zařazeny do kategorie substantivum.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>مفرد</idno>
+                        <term>مفرد</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.clit"
+                         n="0f443ba8-bb3d-43c6-a37b-0959a569b7d3">
+                  <catDesc xml:lang="en">
+                     <idno>clit</idno>
+                     <term>Clitic</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>clit</idno>
+                     <term>klitika</term>
+                     <gloss>Klitika. Termín se v české lingvistice objevuje ve dvou podobách: vedle sg. klitikon, pl. klitika, taky v podobě sg. klitika, pl. klitiky; pochází z řec. klitikos ‚ohebný, opírající se‘. Podle definice z 19. stol., historicky nejčastěji spojované s indoevropeistou J. Wackernagelem, standardně tradované v průběhu 20. stol., jsou k. slova, která se „vyskytují vždy pouze v podobě nepřízvučné“, a proto tvoří jedno fonetické slovo neboli jeden přízvukový celek buď s přízvučným slovem bezprostředně předcházejícím (tzv. enklitika, příklonky), anebo s přízvučným slovem následujícím. <ref target="https://www.czechency.org/slovnik/KLITIKON"
+                             type="external">(Uhlířová, Kosta &amp; Veselovská 2017)</ref>.</gloss>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.enclit"
+                            n="cc0b26ef-f6ee-434a-834e-4ad36d602e04">
+                     <catDesc xml:lang="en">
+                        <idno>enclit</idno>
+                        <term>Enclitics</term>
+                        <gloss/>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>enklit</idno>
+                        <term>příklonka</term>
+                        <gloss>Enklitická částice (příklonka). Krátké nepřízvučné slovo, které tvoří jeden fonetický celek se slovem předcházejícím (<ref target="https://www.czechency.org/slovnik/KLITIKON"
+                                type="external">Uhlířová, Kosta &amp; Veselovská 2017</ref>, <ref target="https://www.czechency.org/slovnik/ENKLITICK%C3%81%20%C4%8C%C3%81STICE"
+                                type="external">Nekula 2017b</ref>). V přehledu enklitických částic v perštině publikovaném autory <ref target="http://www.academypublication.com/issues2/tpls/vol10/10/17.pdf"
+                                type="external">Shafiei &amp; Kazemi (2020)</ref> jsou jako enklitické částice charakterizovány: A) Jednoduchá klitika: 1) [-am] jako zkrácená forma příslovce ham (rovněž), 2) [-ó] jako zkrácená forma postpozice [rá], 3) [-o] jako zkrácená forma spojky [va] (a), 4) enklitická slovesa jako zkrácené formy slovesa [búdan] (být), B) Speciální klitika 1) přivlasťňovací zájmena a zájmena ve funkci akuzativu, C) Závislá klitika A) [-í] vyjadřující neurčitost, 2) [-í]  - enklitická částice uvozující vztažné věty, 3) kasra, či nověji znak [je], vyjadřující genitivní částici (ezáfet), 4) enklitická částice [-á] (ó, hej) u vokativu.  </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>و.بست</idno>
+                        <term>واژه‌بَست</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.pro-form"
+                         n="a4fc78d6-7591-4fb3-8edd-82f10ae3739d">
+                  <catDesc xml:lang="en">
+                     <idno>pro-form</idno>
+                     <term>Pro-form</term>
+                     <gloss>A pro-form is a part of speech whose members usually substitute for other constituents, including phrases, clauses, or sentences, and whose meaning is recoverable from the linguistic or extralinguistic context.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>pro-form</idno>
+                     <term>proforma</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>تابع</idno>
+                     <term>شکل تابع</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.pro"
+                            n="a3274cfd-225f-45fd-8851-a7b1a1e1037a">
+                     <catDesc xml:lang="en">
+                        <idno>pro</idno>
+                        <term>Pronoun</term>
+                        <gloss>A pronoun is a pro-form which functions like a noun and substitutes for a noun or noun phrase.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>pro</idno>
+                        <term>zájmeno</term>
+                        <gloss>Zájmeno (pronomen). Slovo bez popisného (pojmového) významu, tj. které objekt přímo nepojmenovává, nýbrž označuje ho „jazykovým ukázáním“ <ref target="https://www.czechency.org/slovnik/Z%C3%81JMENO"
+                                type="external">(Karlík &amp; Osolsobě 2017).</ref>  V perštině je genderově neutrální, k vyjádření úcty lze osobní zájmena opsat řadou frází, přivlastňovací zájmena či zájmena v akuzativu mohou nabývat formu příklonky <ref target="http://www.academypublication.com/issues2/tpls/vol10/10/17.pdf"
+                                type="external">(Shafiei &amp; Kazemi 2020).</ref> Více o perských zájmenech viz The <ref target="https://sites.la.utexas.edu/persian_online_resources/pronouns/"
+                                type="external">University of Texas at Austin (n.d.).</ref>
+                        </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>ضمیر</idno>
+                        <term>ضمیر</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.pro-adv"
+                            n="d599dd69-b445-4627-a7f3-b9647abdb905">
+                     <catDesc xml:lang="en">
+                        <idno>pro-adv</idno>
+                        <term>Pronominal adverb</term>
+                        <gloss>A pro-adverb is a pro-form that substitutes for an adverb or other expression having an adverbial function.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>pro-adv</idno>
+                        <term>pronominální adverbium</term>
+                        <gloss>Zájmenné příslovce (pronominální adverbium). Zájmenná příslovce mohou být ukazovací (např. tady(hle), onde), tázací (dokdy, jak), vztažná, neurčitá (jakkoli), totalitní (vždy) <ref target="https://www.czechency.org/slovnik/Z%C3%81JMENN%C3%89%20P%C5%98%C3%8DSLOVCE"
+                                type="external">(Osolsobě 2017a).</ref> Jelikož přiřazení tohoto slovního druhu se řídí identifikovanou významovou funkcí českého ekvivalentu, i do této kategorie se dostala řada hesel, která jsou v perštině tvořena více samostatnými slovy, zatímco v češtině již často splynula v jedno slovo, např. [az án taraf] (odtamtud), nebo vedle sebe existují kolokace a kompozitum téměř rovnocenně, n. [án-tour /án tour] (tak, takhle).</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>ق.ضم.</idno>
+                        <term>قید ضمیری</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.v"
+                         n="86ff66f6-0774-407a-a0dc-3eeaf873daf7">
+                  <catDesc xml:lang="en">
+                     <idno>v</idno>
+                     <term>Verb</term>
+                     <gloss>A verb is a part of speech whose members typically signal events and actions; constitute, singly or in a phrase, a minimal predicate in a clause; govern the number and types of other constituents which may occur in the clause; and, in inflectional languages, may be inflected for tense, aspect, voice, modality, or agreement with other constituents in person, number, or grammatical gender.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>v</idno>
+                     <term>sloveso</term>
+                     <gloss>Sloveso (verbum). Označení dynamických (v čase probíhajících) příznaků (<ref target="https://www.czechency.org/slovnik/SLOVESO"
+                             type="external">Osolsobě 2017d)</ref>. V perštině, zvláště v moderním jazyce, je drtivá většina lexikálních jednotek s funkcí slovesa tvořena jmennou částí a sémanticky vyprázdněným kategoriálním či sponovým slovesem. Někteří autoři je interpretují jako „složená slovesa“ (compound verbs) (<ref target="https://core.ac.uk/download/pdf/4820825.pdf"
+                             type="external">Dabir-Moghaddam 1977</ref>, <ref target="https://sites.la.utexas.edu/persian_online_resources/verbs/"
+                             type="external">The University of Texas at Austin n.d.</ref>), v jiných pracech jsou popisovány jako „komplexní predikáty“ (complex predicates) (<ref target="https://halshs.archives-ouvertes.fr/halshs-01136825/document"
+                             type="external">Samvelian &amp; Faghiri 2014</ref>, <ref target="https://www.swarthmore.edu/sites/default/files/assets/documents/linguistics/2011_Ershadi.pdf"
+                             type="external">Ershadi 2011</ref>). Jedná se o lexikální jednotky odpovídající analytickým predikátům s kategoriálním či sponovým slovesem, jak je popisuje <ref target="https://www.czechency.org/slovnik/%20ANALYTICK%C3%9D%20PREDIK%C3%81T%20S%20KATEGORI%C3%81LN%C3%8DM%20SLOVESEM"
+                             type="external">Radimský (2017a)</ref>. U nepravidelných jednoduchých sloves je formou varianty vyznačen přítomný kmen (např. [chástan / cháh] (chtít)). K morfologii perských sloves viz např. <ref target="https://www.jahanshiri.ir/pvc/en/"
+                             type="external">Jahanshiri (2004–2022a)</ref>.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>فعل</idno>
+                     <term>فعل</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.vi"
+                            n="fa2a2adf-2408-4379-99d2-019f513ee7ba">
+                     <catDesc xml:lang="en">
+                        <idno>vi</idno>
+                        <term>Intransitive verb</term>
+                        <gloss/>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>vi</idno>
+                        <term>intranzitivum</term>
+                        <gloss>intranzitivum (intranzitivní sloveso)</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>ف.لا.</idno>
+                        <term>فعل لازم</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.cop"
+                            n="55f2a00e-5f07-4ace-8a44-8794ed1a38a8">
+                     <catDesc xml:lang="en">
+                        <idno>cop</idno>
+                        <term>Copulative verb</term>
+                        <gloss/>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>cop</idno>
+                        <term>spona</term>
+                        <gloss>Spona (copula, kopula). <ref target="https://www.czechency.org/slovnik/SPONA"
+                                type="external">(Karlík 2017b)</ref>.  V perštině může být sponové sloveso [búdan] (být) součástí analytických predikátů s významem pasiva.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>ف.ربطی</idno>
+                        <term>فعل ربطی</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.vt"
+                            n="54712931-442f-42d5-8634-f12bd2e310ce">
+                     <catDesc xml:lang="en">
+                        <idno>vt</idno>
+                        <term>Transitive verb</term>
+                        <gloss>A transitive verb is a verb that takes a direct object, and describes a relation between two participants. </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>vt</idno>
+                        <term>tranzitivum</term>
+                        <gloss>Přechodové (tranzitivní) sloveso (tranzitivum) je sloveso, které se váže s přímým předmětem, tedy sloveso s akuzativní vazbou <ref target="https://www.czechency.org/slovnik/TRANZITIVN%C3%8D%20SLOVESO"
+                                type="external">(Dvořák 2017)</ref>. V perštině je přímý předmět vyjádřen pomocí postpozice [rá] anebo – zejména v hovorovém jazyce – příklonkou ve tvaru přivlastňovacího zájmena.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>ف.متع</idno>
+                        <term>فعل متعدی</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.pas"
+                            n="25018fb0-7bf1-4bc4-892b-d62e0c3bafc9">
+                     <catDesc xml:lang="en">
+                        <idno>pas</idno>
+                        <term>Pasive voice</term>
+                        <gloss>In a clause with passive voice, the grammatical subject expresses the theme or patient of the main verb – that is, the person or thing that undergoes the action or has its state changed.<ref target="https://en.wikipedia.org/wiki/Passive_voice"
+                                type="external"> (Wikipedia n.d.)</ref>
+                        </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>pas</idno>
+                        <term>pasivum</term>
+                        <gloss>Pasivum (sloveso rodu trpného). Tuto kategorii v naší databázi využíváme k popisu sloves a analytických predikátů, jimž lze jako české ekvivalenty přiřadit slovesa rodu trpného či zvratná slovesa. Více k pasivu viz <ref target="https://www.czechency.org/slovnik/PASIVUM"
+                                type="external">Karlík (2017d)</ref>.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>مجهول</idno>
+                        <term>فعل مجهول</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.lv"
+                            n="9aada318-54b2-4463-adac-c7ffca10fb4c">
+                     <catDesc xml:lang="en">
+                        <idno>lv</idno>
+                        <term>Light Verb / Vector</term>
+                        <gloss>Light verb is a verb that has little semantic content of its own and forms a predicate with some additional expression, which is usually a noun. <ref target="https://en.wikipedia.org/wiki/Light_verb"
+                                type="external">Wikipedia. (n.d.)</ref>
+                        </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>v kat</idno>
+                        <term>kategoriální sloveso</term>
+                        <gloss>Kategoriální (funkční, podpůrné) sloveso je sémanticky oslabené sloveso, které je komponentou složených sloves, resp. analytických predikátů, tvořících většinu verbálních výrazů moderní perštiny (<ref target="https://halshs.archives-ouvertes.fr/halshs-01136825/document"
+                                type="external">Samvelian &amp; Faghiri 2014</ref>, <ref target="https://core.ac.uk/download/pdf/4820825.pdf"
+                                type="external">Dabir-Moghaddam 1997</ref>). V nich je nositelem gramatických kategorií (zejména způsob, čas, aspektové kategorie) a zpravidla má i svůj rodový protějšek, pomocí něhož jsou tvořena složená slovesa opačného rodu, např. [kardan-šodan, zadan-chordan, ávardan-ámadan, bordan-raftan]. K definici v české ligvistice viz <ref target="https://www.czechency.org/slovnik/KATEGORI%C3%81LN%C3%8D%20SLOVESO"
+                                type="external">Radimský (2017b)</ref>. </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>همکرد</idno>
+                        <term>فعل سبک | همکرد</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.v-cp"
+                            n="143c6f5e-1521-4110-be95-d19c101d549c">
+                     <catDesc xml:lang="en">
+                        <idno>v cp</idno>
+                        <term>Complex predicate</term>
+                        <gloss>Persian complex predicates are two-part verbal constructions comprised of a non-verbal element and a semantically bleached light verb.A heavy verb such as Persian xordæn means ‘to ingest’ (as in food or drink), whereas its light verb counterpart has abstract or bleached semantics; in this case, light verb xordæn denotes collision, negative encounters, and other involuntary reception or involvement of an object to a subject. (Julie Ershadi, Persian Complex Predicates, Swarthmore and Bryn Mawr CollegesLinguistics Department, https://www.swarthmore.edu/sites/default/files/assets/documents/linguistics/2011_Ershadi.pdf)</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>v cp</idno>
+                        <term>Analytický predikát s kategoriálním slovesem</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.adj"
+                         n="4464cf4b-3345-4093-a992-4b17122c2e08">
+                  <catDesc xml:lang="en">
+                     <idno>adj</idno>
+                     <term>Adjective</term>
+                     <gloss>An adjective is a part of speech whose members modify nouns. An adjective specifies the attributes of a noun referent. Note: this is one case among many. Adjectives are a class of modifiers.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>adj</idno>
+                     <term>adjektivum</term>
+                     <gloss>Přídavné jméno (adjektivum). Jelikož přiřazený slovní druh odpovídá významové funkci českého ekvivalentu, mezi adjektiva jsou zde řazena i perská sousloví, v nichž je existence či absence určité vlastnosti vyjádřena pomocí předložek [bá] (s, se), [bí] (bez), [zír-e], [taht-e] (pod (vlivem), pomocných adjektiv [ghábel-e] (schopný, možný) [por (az)] (plný) nebo gramatických tvarů kategoriálních sloves [-šode] (kdo, co se stane nějakým), [-konande] (kdo je aktérem něčeho), [-kardaní] (-itelný). Podobně nabývají v řadě kompozit funkci slovotvorných přípon tvary přítomného slovesného kmene typu [-ávar] (přinášející) [-pazír] (přijímající) [-dár] (mající). Více k perským adjektivům viz např. <ref target="https://sites.la.utexas.edu/persian_online_resources/adjectives/"
+                             type="external">The University of Texas at Austin (n.d.).</ref>
+                     </gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>صفت</idno>
+                     <term>صفت</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.interj"
+                         n="42b2b811-cc47-4d09-8bb3-e140e7a4deab">
+                  <catDesc xml:lang="en">
+                     <idno>interj</idno>
+                     <term>Interjection</term>
+                     <gloss>An interjection is a part of speech, typically brief in form, such as one syllable or word, whose members are used most often as exclamations or parts of an exclamation. An interjection, typically expressing an emotional reaction, often with respect to an accompanying sentence, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>interj</idno>
+                     <term>citoslovce</term>
+                     <gloss>Citoslovce (interjekce) tvoří samostatné rudimentální výpovědi nevětné povahy, tzv. větné ekvivalenty <ref target="https://www.czechency.org/slovnik/CITOSLOVCE"
+                             type="external">(Osolsobě 2017c).</ref> I zde ke klasifikaci přistupujeme z hlediska významové funkce a mezi citoslovce tak řadíme i některá sousloví, která v perštině nesplynula v jednoslovný výraz, např. [panáh bar chodá], [to rá (be) chodá] (proboha!).</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ندا</idno>
+                     <term>حرف ندا</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.ii"
+                         n="864751ed-05af-4322-a976-e3b2b88f3283">
+                  <catDesc xml:lang="en">
+                     <idno>ii</idno>
+                     <term>NOT IDENTIFIED</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>ii</idno>
+                     <term>NEURČENO</term>
+                     <gloss>Neurčené slovní druhy. Takto označené významy nebudou zpřístupněny na webu a v mobilní aplikaci</gloss>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.conn"
+                         n="6e0682a7-efd4-43c9-b083-22c4ce245419">
+                  <catDesc xml:lang="en">
+                     <idno>conn</idno>
+                     <term>Connective</term>
+                     <gloss>Also known as a conjunction, a connective is a class of parts of speech whose members syntactically link words or larger constituents, and expresses a semantic relationship between them. A conjunction is positionally fixed relative to one or more of the elements related by it, thus distinguishing it from constituents such as English conjunctive adverbs.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>konj</idno>
+                     <term>spojka</term>
+                     <gloss>Spojka (někdy t. konjunkce). Slovní druh spojující slova, syntaktické slovní skupiny a věty. Jelikož přiřazení slovního druhu se řídí významovou funkcí českého ekvivalentu, mezi spojky je tu zařazena i řada slovních hesel, která mají v perštině tvar kolokací, např. [az án-džá(jí-)ke] (jelikož), [(va) ín-gúne búd ke] (a tak), [bá vodžúd-e ín-ke] (přestože).</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ح.ربط</idno>
+                     <term>حرف ربط</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.prt"
+                         n="6e758bbc-2b40-427d-b79f-bf14a7c96c6a">
+                  <catDesc xml:lang="en">
+                     <idno>prt</idno>
+                     <term>Particle</term>
+                     <gloss>A particle is a part of speech whose members do not belong to one of the main classes of words, is invariable, and typically has grammatical or pragmatic meaning.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>prt</idno>
+                     <term>částice</term>
+                     <gloss>Částice (partikule). Neplnovýznamová neohebná funkční slova bez větněčlenské platnosti. V zahraniční lingvistice lze pod ně zahrnout i spojky, předložky, citoslovce a spojovací adverbia, k rozlišení v češtině viz <ref target="https://www.czechency.org/slovnik/%C4%8C%C3%81STICE"
+                             type="external">Nekula 2017a,</ref>
+                        <ref target="http://nase-rec.ujc.cas.cz/archiv.php?art=7419"
+                             type="external">Vondráček 1998</ref>, <ref target="http://nase-rec.ujc.cas.cz/archiv.php?art=7499"
+                             type="external">Vondráček 1999</ref>. Vyjadřují převážně postoj mluvčího (epistémické/modální, intenzifikační, odpověďové, negační…) Epistémické částice jsou v perštině vyjádřeny např. tvary 3. osoby sg. modálních sloves nebo bohatou škálou kolokací.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>حرف </idno>
+                     <term>حرف </term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.xxx"
+                         n="504ebb9f-658a-4be1-9276-db3b3d7bf809">
+                  <catDesc xml:lang="en">
+                     <idno>xxx</idno>
+                     <term>Unspecified complex forms</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>xxx</idno>
+                     <term>kompozita, neurčené formy</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.adp"
+                         n="ae115ea8-2cd7-4501-8ae7-dc638e4f17c5">
+                  <catDesc xml:lang="en">
+                     <idno>adp</idno>
+                     <term>Adposition</term>
+                     <gloss>An adposition is a part of speech whose members are of a closed set and occur before or after a complement composed of a noun phrase, noun, pronoun, or clause that functions as a noun phrase and forms a single structure with the complement to express its grammatical and semantic relation to another unit within a clause.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>adp</idno>
+                     <term>Adpozice</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.prep"
+                            n="923e5aed-d84a-48b0-9b7a-331c1336864a">
+                     <catDesc xml:lang="en">
+                        <idno>prep</idno>
+                        <term>Preposition</term>
+                        <gloss>A preposition is an adposition that occurs before its complement.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>prep</idno>
+                        <term>předložka</term>
+                        <gloss>Předložka (prepozice). Takto charakterizujeme jak jednoslovné perské předložky, např. [az] (z, ze), tak i sousloví, jejichž český ekvivalent významově odpovídá předložkám, např. [az bejn-e] (mezi), [az bará-je] (kvůli), [be džá-je] (namísto), [pas az] (po).</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>ح.اض.</idno>
+                        <term>حرف اضافه</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.post"
+                            n="18f1b2b8-0ce3-4889-90e9-003fed6a969f">
+                     <catDesc xml:lang="en">
+                        <idno>post</idno>
+                        <term>Postposition</term>
+                        <gloss>A postposition is an adposition that occurs after its complement.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>post</idno>
+                        <term>postpozice</term>
+                        <gloss>Postpozice [rá] charakterizuje v perštině akuzativ, v němž má zároveň funkci členu určitého. V hovorovém jazyce se vyslovuje [ró], případně může být nahrazena příklonkou [-ó], např. [Áre, (án) fílm-rá (/film-ó) díde-am] (Ano, viděl jsem ten film). U neurčitých předmětů chybí nebo je nahrazena příklonkou [-í] s funkcí neurčitého členu. [Achíran fílm-e chúb-í dídíd?] (Viděli jste v poslední době nějaký pěkný film?). K obecné definici postpozice viz <ref target="https://www.czechency.org/slovnik/ANTEPOZICE#postpozice"
+                                type="external">Uhlířová (2017).</ref>
+                        </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>ح.نش. مف.</idno>
+                        <term>حرف نشانه مفعول</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.quant"
+                         n="a4a759b4-5a10-4d7a-80a3-accf5bd840b1">
+                  <catDesc xml:lang="en">
+                     <idno>quant</idno>
+                     <term>Quantifier</term>
+                     <gloss>A quantifier is a determiner that expresses a referent's definite or indefinite number or amount. A quantifier functions as a modifier of a noun, or a pronoun.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ح.اند</idno>
+                     <term>حرف اندازه</term>
+                     <gloss/>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.num"
+                            n="38e33005-92fa-4c24-a980-67c344731dc4">
+                     <catDesc xml:lang="en">
+                        <idno>num</idno>
+                        <term>Numeral</term>
+                        <gloss>A numeral is a part of speech whose members function most typically as adjectives or pronouns and express a number, or relation to the number, such as one of the following: quantity, sequence, frequency, fraction. More about Persian Numerals The University of Texas at Austin. (n.d.).</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>num</idno>
+                        <term>číslovka</term>
+                        <gloss>Číslovky (numerale). Množina výrazů, které spojuje to, že lexikálně vyjadřují kvantitativnost <ref target="https://www.czechency.org/slovnik/%C4%8C%C3%8DSLOVKA"
+                                type="external">(Karlík 2017c)</ref>. Více o perských číslovkách  <ref target="https://sites.la.utexas.edu/persian_online_resources/numbers-1/"
+                                type="external">The University of Texas at Austin (n.d.).</ref>
+                        </gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>عدد</idno>
+                        <term>عدد</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.clf"
+                         n="31616603-aadd-47af-a710-cb565fbbbd57">
+                  <catDesc xml:lang="en">
+                     <idno>clf</idno>
+                     <term>Classifier</term>
+                     <gloss>A (numeral) classifier (a Measure Word) is a part of speech whose members express the classification of a noun.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>jedn</idno>
+                     <term>klasifikátor</term>
+                     <gloss>
+                        <ref target="https://www.jahanshiri.ir/fa/en/noun-classifier"
+                             type="external">Jahanshiri (2004–2022d)</ref>
+                     </gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>واحد ش.</idno>
+                     <term>واحد شمارش</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.det"
+                         n="6df1c8ee-5530-4180-99e8-be2afab0f60d">
+                  <catDesc xml:lang="en">
+                     <idno>det</idno>
+                     <term>Determiner</term>
+                     <gloss>A determiner is a part of speech whose members belong to a class of noun modifiers and express the reference, including quantity, of a noun.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>det</idno>
+                     <term>determinátor</term>
+                     <gloss>Determinátor. V perštině se stejně jako v češtině nevyskytují člen určitý a neurčitý jako samostatné kategorie, funkci neurčitého členu má však často enklitická částice [-í] nebo číslovka [jek] (jeden). Určitý člen může být nahrazen ukazovacími zájmeny [ín] (tenhle), [án] (tamten), [hamín] (týž), v hovorovém jazyce t. příklonkou [-e], např. [pesar-e emrúz úmad chúne-je má] (Ten chlapec dnes přišel k nám). V akuzativu se vyjadřuje též postpozicí [rá] nebo jejími hovorovými tvary [ró, -ó]. Tvary s příklonkou [-í], jsou v této databázi často skryty na pozadí tak, aby uživatel našel příslušný lexém i v případě, že jej zadá do vyhledávače i v takto rozšířeném tvaru.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>وا.اسم</idno>
+                     <term>وابستۀ اسمی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.Affix"
+                         n="8d29feba-d12a-40ed-9c91-bf8ccf1f9284">
+                  <catDesc xml:lang="en">
+                     <idno>Affix</idno>
+                     <term>Affix</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>afix</idno>
+                     <term>afix</term>
+                     <gloss>Afix. Typ morfu plnící různé funkce (slovotvorné, tvarotvorné); připojuje se ke kořenovému morfu, n. ke kmeni <ref target="https://www.czechency.org/slovnik/AFIX"
+                             type="external">(Osolsobě 2017d)</ref>.</gloss>
+                  </catDesc>
+                  <category xml:id="LeDIIR.taxonomy.prefix"
+                            n="ed4ef1ee-45b5-4771-a3ba-bfcfb8db5c0f">
+                     <catDesc xml:lang="en">
+                        <idno>prefix</idno>
+                        <term>Prefix</term>
+                        <gloss/>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>prefix</idno>
+                        <term>prefix</term>
+                        <gloss>Prefix (předpona). Typ afixu, který se ve slově nachází nalevo od kořene <ref target="https://www.czechency.org/slovnik/PREFIX"
+                                type="external">(Ziková &amp; Biskup 2017)</ref>. Může být příbuzný s předložkou, v perštině je to často obtížné odlišit. V naší databázi interpretujeme původní předložky, např. [bá] (s, se), [bí] (bez, beze), jako předpony zpravidla tehdy, slouží-li k vytvoření adjektiva přisouzením nějaké vlastnosti. Podobnou funkci mohou mít některá pomocná přídavná jména, např. [ghábel-e] (schopný), [por (az)] (plný). Podobně i předložku [be] v některých adverbiích posuzujeme jako slovotvorný afix.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>پیشو.</idno>
+                        <term>پیشوند</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+                  <category xml:id="LeDIIR.taxonomy.suffix"
+                            n="a8a3f987-a845-46c4-8525-cadcfbe4da79">
+                     <catDesc xml:lang="en">
+                        <idno>suffix</idno>
+                        <term>Suffix</term>
+                        <gloss/>
+                     </catDesc>
+                     <catDesc xml:lang="cs-CZ">
+                        <idno>sufix</idno>
+                        <term>sufix</term>
+                        <gloss>Sufix (přípona). Slovotvorný formant, část odvozeného slova, která následuje za kmenem. Derivační sufix mění význam, flektivní sufix, který je nositelem gramatických rysů, se tradičně nazývá koncovka. <ref target="https://www.czechency.org/slovnik/SUFIX"
+                                type="external">(Rusínová, Z. (2017)</ref>). U perských adjektiv interpretujeme jako sufixy i některé slovesné tvary (např. [-dár, -ávar, -pazír]), je-li jejich významová funkce oslabená a slouží-li pouze k přiřazení určité vlastnosti.</gloss>
+                     </catDesc>
+                     <catDesc xml:lang="fa">
+                        <idno>پسو.</idno>
+                        <term>پسوند</term>
+                        <gloss/>
+                     </catDesc>
+                  </category>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.abbrev"
+                         n="b67618b4-651b-4c9d-a7d2-5ad9e7cc331f">
+                  <catDesc xml:lang="en">
+                     <idno>abbrev</idno>
+                     <term>Abrevviation</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>abrev</idno>
+                     <term>zkratka</term>
+                     <gloss>Zkratka (abreviace). Výsledek zkrácení slova nebo víceslovného pojmenování.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>مخفف</idno>
+                     <term>مخفف</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.component"
+                         n="a9ac357a-19d6-49d9-8ff4-5eeb5368ad06">
+                  <catDesc xml:lang="en">
+                     <idno>component</idno>
+                     <term>component</term>
+                     <gloss>word-forming component</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>(ve slož.)</idno>
+                     <term>komponenta</term>
+                     <gloss>slovotvorná komponenta</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>جزء</idno>
+                     <term>جزء</term>
+                     <gloss>جزء کلمه‌ساز</gloss>
+                  </catDesc>
+               </category>
             </taxonomy>
             <taxonomy xml:id="LeDIIR.taxonomy.meaningType">
                <bibl>Stylové poznámky (Lexikální databáze indoevropských jazyků).</bibl>
+               <category xml:id="LeDIIR.taxonomy.fig"
+                         n="af3eaef8-ea5e-11de-80fd-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>fig</idno>
+                     <term>figurative</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>přen.</idno>
+                     <term>přeneseně</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.prim"
+                         n="af48384c-ea5e-11de-9aef-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>prim</idno>
+                     <term>primary</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
             </taxonomy>
             <taxonomy xml:id="LeDIIR.taxonomy.textType">
                <bibl>Stylistické kvalifikátory (Lexikální databáze indoevropských jazyků).</bibl>
+               <category xml:id="LeDIIR.taxonomy.ar"
+                         n="f81dd500-970b-4885-b8e1-4fbb529764c5">
+                  <catDesc xml:lang="en">
+                     <idno>ar</idno>
+                     <term>arabic</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>ar</idno>
+                     <term>arabismus</term>
+                     <gloss>Arabismus. Výpůjčka z arabštiny užívaná jen ve formálním či odborném jazyce.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>عر.</idno>
+                     <term>عربی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.dari"
+                         n="7a0d27c6-9d48-4eff-803f-d78babccd39c">
+                  <catDesc xml:lang="en">
+                     <idno>dari</idno>
+                     <term>dari</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>darí</idno>
+                     <term>darí</term>
+                     <gloss>Výraz užívaný jen v afghánské perštině darí.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>دری</idno>
+                     <term>دری</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.anml"
+                         n="b012df34-ea5e-11de-833e-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>anml</idno>
+                     <term>animal</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>جانو.</idno>
+                     <term>جانور</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.hum"
+                         n="b01c6892-ea5e-11de-9e52-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>hum</idno>
+                     <term>human</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>انس.</idno>
+                     <term>انسان</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.f"
+                         n="b0285440-ea5e-11de-894b-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>f</idno>
+                     <term>female</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>مو.</idno>
+                     <term>مونث</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.m"
+                         n="b0343ff8-ea5e-11de-9132-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>m</idno>
+                     <term>male</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>مذ.</idno>
+                     <term>مذکر</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.sib"
+                         n="b03dc94c-ea5e-11de-87b4-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>sib</idno>
+                     <term>same sex sibling</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>همانند.</idno>
+                     <term>جنس همانند</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy."
+                         n="d44ee315-f6db-4354-a5b4-3eee8dc1d4ac">
+                  <catDesc xml:lang="en">
+                     <idno/>
+                     <term/>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>inanimate</idno>
+                     <term>inanimate</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.inform"
+                         n="af96e582-ea5e-11de-910f-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>inform</idno>
+                     <term>informal</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>غی.رسم.</idno>
+                     <term>غیررسمی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.non-std"
+                         n="afa2d13a-ea5e-11de-94da-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>non std</idno>
+                     <term>non-standard</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>نا.هنج.</idno>
+                     <term>ناهنجار</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
                <!--LeDIIR.taxonomy. skipped -->
+               <category xml:id="LeDIIR.taxonomy.oldfash"
+                         n="afb84646-ea5e-11de-94e6-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>oldfash</idno>
+                     <term>old-fashioned</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>غیر. مد.</idno>
+                     <term>غیر مدرن</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.reg"
+                         n="afd01dac-ea5e-11de-9787-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>reg</idno>
+                     <term>register</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ثبت.کر.</idno>
+                     <term>ثبت کردن</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.bas-reg"
+                         n="afd9a70a-ea5e-11de-9e37-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>bas reg</idno>
+                     <term>basic</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ثبت.پای.</idno>
+                     <term>پایه</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.hi-reg"
+                         n="afe592c2-ea5e-11de-9d77-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>hi reg</idno>
+                     <term>high</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ثبت.بال.</idno>
+                     <term>بالا</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.low-reg"
+                         n="aff17e70-ea5e-11de-94be-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>low reg</idno>
+                     <term>low</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ثبت.پایی.</idno>
+                     <term>پایین</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.arch"
+                         n="af600fb2-ea5e-11de-82b5-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>arch</idno>
+                     <term>archaic</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>قد.</idno>
+                     <term>قدیمی و باستانی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.mid-reg"
+                         n="affb07ce-ea5e-11de-997d-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>mid reg</idno>
+                     <term>mid</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ثبت.متو.</idno>
+                     <term>متوسط</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.slg"
+                         n="b06b15c8-ea5e-11de-8d8b-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>slg</idno>
+                     <term>slang</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>slg</idno>
+                     <term>slang</term>
+                     <gloss>slangový výraz</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>اصط.عام.</idno>
+                     <term>اصطلاح عامیانه</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.trad"
+                         n="b0770176-ea5e-11de-88f6-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>trad</idno>
+                     <term>traditional</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>سنت.</idno>
+                     <term>سنتی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.off"
+                         n="b055a0b2-ea5e-11de-9b16-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>off</idno>
+                     <term>offensive</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>توه.آمیز</idno>
+                     <term>توهین‌آمیز</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.col"
+                         n="af699910-ea5e-11de-8d20-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>col</idno>
+                     <term>colloquial</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>hov</idno>
+                     <term>hovorový výraz</term>
+                     <gloss>Hovorový styl je styl běžné každodenní komunikace s potřebou se dorozumět. Vyznačuje se běžnou slovní zásobou, jednoduchou větnou stavbou a kompozicí. Podává informace a citové, hodnoticí postoje k nejrůznějším tématům všedního života (<ref target="https://cs.wikipedia.org/wiki/Prost%C4%9Bsd%C4%9Blovac%C3%AD_styl"
+                             type="external">Prostěsdělovací styl in Wikipedie n.d.</ref>, <ref target="https://www.czechency.org/slovnik/PROST%C4%9ASD%C4%9ALOVAC%C3%8D%20STYL"
+                             type="external">Hoffmannová (2017)</ref>). Takto zde označujeme i výrazy teheránského dialektu (teheránské hovorové perštiny), vice např. Osvald (1972).</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>محا.</idno>
+                     <term>محاوره‌ای</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.rel"
+                         n="ff966d66-d857-4ea3-866d-9f5b7400dd78">
+                  <catDesc xml:lang="en">
+                     <idno>rel</idno>
+                     <term>religious</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>náb.</idno>
+                     <term>náboženství</term>
+                     <gloss>Náboženské výrazy obecně.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>دینی</idno>
+                     <term>دینی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.isl"
+                         n="fe4fa790-7d4c-4cf1-baf5-c2dbf0a684fe">
+                  <catDesc xml:lang="en">
+                     <idno>isl</idno>
+                     <term>islamic</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>isl.</idno>
+                     <term>islám</term>
+                     <gloss>Specifické islámské výrazy.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>اسلام</idno>
+                     <term>اسلام</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.rest"
+                         n="b006f37c-ea5e-11de-8cd8-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>rest</idno>
+                     <term>restrictive</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>rest.</idno>
+                     <term>omezené použití</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>مح.کنند.</idno>
+                     <term>محدود کننده</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
                <!--LeDIIR.taxonomy. skipped -->
+               <category xml:id="LeDIIR.taxonomy.ideol"
+                         n="50b2ceb0-b2dd-4ac5-9978-1545d466af69">
+                  <catDesc xml:lang="en">
+                     <idno>ideol</idno>
+                     <term>ideological</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>ideol.</idno>
+                     <term>ideologický či tendenční výraz</term>
+                     <gloss>Jazyk a metafory užívané pouze ve státní ideologii či v tendenčních textech.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>گرا.</idno>
+                     <term>گرایشی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.obsc"
+                         n="b049b504-ea5e-11de-9bb7-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>obsc</idno>
+                     <term>obscene</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>vulg.</idno>
+                     <term>vulgární</term>
+                     <gloss>Neslušné, oplzlé a urážlivé výrazy.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>زش.</idno>
+                     <term>زشت</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.tab"
+                         n="b05f2a10-ea5e-11de-8593-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>tab</idno>
+                     <term>taboo</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>tabu</idno>
+                     <term>tabu</term>
+                     <gloss>Výraz nepřijatelný v běžném jazyce.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>ممنو.</idno>
+                     <term>ممنوع</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
                <!--LeDIIR.taxonomy. skipped -->
+               <category xml:id="LeDIIR.taxonomy.lit"
+                         n="6530d4ec-434d-4a27-a396-70ae0cdefe17">
+                  <catDesc xml:lang="en">
+                     <idno>lit</idno>
+                     <term>literary</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>spis.</idno>
+                     <term>spisovný jazyk</term>
+                     <gloss>Zde míněn spisovný jazyk používaný v psané formě v literatuře, v češtině má tento termín i význam jazykového standardu užívaného na oficiální úrovni.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>کت.</idno>
+                     <term>کتابی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.obso"
+                         n="afaebce8-ea5e-11de-97b5-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>obso</idno>
+                     <term>obsolete</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>zast</idno>
+                     <term>zastaralý</term>
+                     <gloss>Zastaralé a staromódní výrazy, v současné perštině užívané zřídka.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>منس.</idno>
+                     <term>منسوخ</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.hist"
+                         n="af817076-ea5e-11de-9a46-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>hist</idno>
+                     <term>historical</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>hist</idno>
+                     <term>historický výraz</term>
+                     <gloss>Historický výraz vyskytující se jen v historických dílech, v současné perštině již vůbec neužívaný.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>تاریخ.</idno>
+                     <term>تاریخی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.poems"
+                         n="5cf801b0-2b93-4d8b-a64a-816fc1bbfbde">
+                  <catDesc xml:lang="en">
+                     <idno>poems</idno>
+                     <term>poems</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>poe</idno>
+                     <term>poezie</term>
+                     <gloss>Poetické a metaforické výrazy užívané převážně v perské poezii.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>شعر</idno>
+                     <term>شعر</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.pol"
+                         n="72cf2e99-310c-4762-80ba-9df94f0bc90f">
+                  <catDesc xml:lang="en">
+                     <idno>pol</idno>
+                     <term>polite</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>zdv</idno>
+                     <term>zdvořile</term>
+                     <gloss>Běžné zdvořilé výrazy užívané i v kontaktu s blízkými osobami.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>با اد.</idno>
+                     <term>با ادب</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.form"
+                         n="af7584c8-ea5e-11de-82a4-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>form</idno>
+                     <term>formal</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>form. zdv.</idno>
+                     <term>formální zdvořilost</term>
+                     <gloss>Ta´árof - zdvořilé formální chování užívané ve styku s cizím či výše postaveným člověkem.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>تعارف</idno>
+                     <term>تعارف</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.hon"
+                         n="af8af9d4-ea5e-11de-932a-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>hon</idno>
+                     <term>honorific</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>tit.</idno>
+                     <term>čestné tituly</term>
+                     <gloss>Čestné tituly vysoce postavených osob.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>تجلیل.</idno>
+                     <term>تجلیلی</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.cor"
+                         n="70f47f6c-9158-4562-971f-38844dd8d005">
+                  <catDesc xml:lang="en">
+                     <idno>cor</idno>
+                     <term>correspondence</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>cor</idno>
+                     <term>korespondence</term>
+                     <gloss>Frazémy užívané v korespondenčním styku.</gloss>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.rare"
+                         n="afc431fe-ea5e-11de-8921-0013722f8dec">
+                  <catDesc xml:lang="en">
+                     <idno>rare</idno>
+                     <term>rare</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>rare</idno>
+                     <term>vzácně</term>
+                     <gloss>Vzácně se vyskytující výraz.</gloss>
+                  </catDesc>
+                  <catDesc xml:lang="fa">
+                     <idno>کمیا.</idno>
+                     <term>کمیاب</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
             </taxonomy>
             <taxonomy xml:id="LeDIIR.taxonomy.socioCultural">
                <bibl>Stylové poznámky (Lexikální databáze indoevropských jazyků).</bibl>
+               <category xml:id="LeDIIR.taxonomy.socioCultural.form"
+                         n="696ff9d2-d28e-40ee-8ae0-449682180f20">
+                  <catDesc xml:lang="en">
+                     <idno>form</idno>
+                     <term>formal</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>kniž.</idno>
+                     <term>knižní, knižně</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.socioCultural.coll"
+                         n="b11457ab-226b-43b3-8c81-dae9f6dc75dd">
+                  <catDesc xml:lang="en">
+                     <idno>hov.</idno>
+                     <term>hovorový, hovorově</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
             </taxonomy>
             <taxonomy xml:id="LeDIIR.taxonomy.complexFormType">
                <bibl>Komplexní formy (Lexikální databáze indoevropských jazyků).</bibl>
+               <category xml:id="LeDIIR.taxonomy.complexFormType.analytický-predikát">
+                  <catDesc xml:lang="en">
+                     <idno>analytický predikát</idno>
+                     <term>analytický predikát</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>analytický predikát</idno>
+                     <term>analytický predikát</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.complexFormType.arabské-kompozitum">
+                  <catDesc xml:lang="en">
+                     <idno>arabské kompozitum</idno>
+                     <term>arabské kompozitum</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>arabské kompozitumt</idno>
+                     <term>arabské kompozitum</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.complexFormType.derivace">
+                  <catDesc xml:lang="en">
+                     <idno>derivace</idno>
+                     <term>derivace</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>derivace</idno>
+                     <term>derivace</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.complexFormType.idiom">
+                  <catDesc xml:lang="en">
+                     <idno>idiom</idno>
+                     <term>idiom</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>idiom</idno>
+                     <term>idiom</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.complexFormType.kolokace">
+                  <catDesc xml:lang="en">
+                     <idno>kolokace</idno>
+                     <term>kolokace</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>kolokace</idno>
+                     <term>kolokace</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.complexFormType.kompozitum">
+                  <catDesc xml:lang="en">
+                     <idno>kompozitum</idno>
+                     <term>kompozitum</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>kompozitum</idno>
+                     <term>kompozitum</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.complexFormType.nespecifikovaný-komplexní-tvar">
+                  <catDesc xml:lang="en">
+                     <idno>nespecifikovaný komplexní tvar</idno>
+                     <term>nespecifikovaný komplexní tvar</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>nespecifikovaný komplexní tvar</idno>
+                     <term>nespecifikovaný komplexní tvar</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
+               <category xml:id="LeDIIR.taxonomy.complexFormType.rčení-a-přísloví">
+                  <catDesc xml:lang="en">
+                     <idno>rčení a přísloví</idno>
+                     <term>rčení a přísloví</term>
+                     <gloss/>
+                  </catDesc>
+                  <catDesc xml:lang="cs-CZ">
+                     <idno>rčení a přísloví</idno>
+                     <term>rčení a přísloví</term>
+                     <gloss/>
+                  </catDesc>
+               </category>
             </taxonomy>
          </classDecl>
       </encodingDesc>
