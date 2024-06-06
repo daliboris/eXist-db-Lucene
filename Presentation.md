@@ -148,7 +148,7 @@ for $hit in $hits
 ```xqeury
 let $options := map {
     "facets": map {
-        "pos": ("subst", "adj"),
+        "partOfSpeech": ("subst", "v")
     }
 }
 ```
@@ -195,7 +195,86 @@ In function:
 
 - look in the Monex for the content of the field/facet
 
+## Sample XML item
+
+```xml
+<entry xml:lang="fa" type="mainEntry" xml:id="FACS.e50af0b4-1185-47d3-bcb0-9e0ea270d615" sortKey="BA!Ac!Ye-BA!AcYe">
+   <form type="lemma">
+      <orth xml:lang="fa">با آنکه</orth>
+      <form type="variant" subtype="stem">
+         <orth xml:lang="fa">باآنکه</orth>
+      </form>
+      <form type="variant" subtype="stem">
+         <orth xml:lang="fa">با آن که</orth>
+      </form>
+      <form type="variant" subtype="phrase">
+         <orth xml:lang="fa">با‌آنکه</orth>
+         <orth type="generated" subtype="space" xml:lang="fa">باآنکه</orth>
+         <orth type="generated" subtype="space" xml:lang="fa">با آنکه</orth>
+      </form>
+      <pron xml:lang="cs-CZ" notation="czech">bá-án-ke</pron>
+   </form>
+   <usg type="frequency" value="TD">TD</usg>
+   <sense xml:id="FACS.e50af0b4-1185-47d3-bcb0-9e0ea270d615.sense.1">
+      <gramGrp>
+         <gram type="pos" xml:lang="en" expand="Connective" ana="#LeDIIR.taxonomy.conn">conn</gram>
+      </gramGrp>
+      <def xml:lang="cs-CZ">
+         <seg type="equivalent" n="1">ačkoli<gloss>(v)</gloss>
+         </seg>
+         <metamark function="equivalentDelimiter">;</metamark>
+         <seg type="equivalent" n="2">ač</seg>
+         <metamark function="equivalentDelimiter">;</metamark>
+         <seg type="equivalent" n="3">přestože</seg>
+         <metamark function="equivalentDelimiter">;</metamark>
+         <seg type="equivalent" n="4">i když</seg>
+         <metamark function="equivalentDelimiter">;</metamark>
+         <seg type="equivalent" n="5">nehledě na to, že</seg>
+      </def>
+      <cit type="example">
+         <quote xml:lang="fa">با آنکه به مکه نرفته بود ، همه او را حاجی آقا صدا می زدند .</quote>
+         <cit type="translation" xml:lang="cs-CZ">
+            <quote>Ačkoli nevykonal pouť do Mekky, všichni mu říkali Hádží Ághá.</quote>
+         </cit>
+      </cit>
+      <usg type="domain" ana="#LeDIIR.taxonomy.9.2.5">
+         <idno>9.2.5</idno>
+         <term>Conjunctions</term>
+      </usg>
+      <xr type="related" subtype="Reversals">
+         <lbl type="cross-rerefence" subtype="reversals" xml:lang="cs-CZ">Zpětné odkazy:</lbl>
+         <ref xml:lang="cs-CZ" type="reversal">ač</ref>
+         <pc>, </pc>
+         <ref xml:lang="cs-CZ" type="reversal">ačkoli(v)</ref>
+         <pc>, </pc>
+         <ref xml:lang="cs-CZ" type="reversal">nehledě, nehledíc</ref>
+         <pc>, </pc>
+         <ref xml:lang="cs-CZ" type="reversal">přestože</ref>
+         <pc>, </pc>
+         <ref xml:lang="en" type="reversal">although</ref>
+      </xr>
+   </sense>
+   <xr type="related">
+      <lbl type="cross-rerefence" subtype="complex-forms"/>
+      <ref type="entry" target="#FACS.3158fb97-7bd3-4507-a775-8d05a41b8514" subtype="kolokace" ana="#LeDIIR.taxonomy.complexFormType.kolokace">با</ref>
+      <ref type="entry" target="#FACS.2950ba6b-7b32-448a-9c7b-fbd2f5fb0168" subtype="kolokace" ana="#LeDIIR.taxonomy.complexFormType.kolokace">آنکه</ref>
+   </xr>
+</entry>
+```
+
 ## Sample queries
+
+- query for all items
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := ()
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query)]
+return $hits
+```
 
 - query field using whole word
 
@@ -203,6 +282,42 @@ In function:
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
 let $query := "reversal:biologically"
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query)]
+return $hits
+```
+
+- query field for combination of words
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := 'reversal: "accidental touch" '
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query)]
+return $hits
+```
+
+- query field using regular expressions
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := "reversal:/pray|loss/"
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query)]
+return $hits
+```
+
+- query field on multiple values (`OR`, `AND` must be upper-case)
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := "reversal:(pray OR loss)"
 
 let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
 let $hits := collection($collection)//tei:entry[ft:query(., $query)]
@@ -235,7 +350,7 @@ let $hits := collection($collection)//tei:entry[ft:query(., $query, $options)]
    return $hits
 ```
 
-- retrieve the filed and use it for sorting
+- retrieve the filed and use it (for sorting)
 
 ```xquery
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
@@ -248,4 +363,52 @@ let $hits := collection($collection)//tei:entry[ft:query(., $query, $options)]
 for $hit in $hits
    order by ft:field($hit, "sortKey")
    return $hit
+```
+
+- highlight found string
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+declare namespace exist = "http://exist.sourceforge.net/NS/exist";
+
+let $query := "reversal:although"
+ 
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query)]
+for $hit in $hits
+  let $expanded := util:expand($hit)
+  return $expanded
+```
+
+- return only found string
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+declare namespace exist = "http://exist.sourceforge.net/NS/exist";
+
+let $query := "reversal: /[Bb]io.*/ "
+
+ 
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query)]
+for $hit in $hits
+  let $expanded := util:expand($hit)
+  return $expanded//exist:match
+```
+
+- search for items using facets
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := ()
+let $options := map {
+    "facets": map {
+        "partOfSpeech": ("subst", "v")
+    }
+}
+ 
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query, $options)]
+return $hits
 ```
