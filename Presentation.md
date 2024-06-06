@@ -194,3 +194,58 @@ In function:
 ```
 
 - look in the Monex for the content of the field/facet
+
+## Sample queries
+
+- query field using whole word
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := "reversal:biologically"
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query)]
+return $hits
+```
+
+- query field using wildcards
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := "reversal:bio*"
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query)]
+return $hits
+```
+
+- query field using wildcards at the beginning
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := "reversal:*log*"
+let $options := map { "leading-wildcard": "yes",
+    "filter-rewrite": "yes"}
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query, $options)]
+   return $hits
+```
+
+- retrieve the filed and use it for sorting
+
+```xquery
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+let $query := "partOfSpeechAll:adj"
+let $options := map { "fields" : "sortKey" }
+
+let $collection := "/db/apps/exist-db-lucene/data/dictionaries"
+let $hits := collection($collection)//tei:entry[ft:query(., $query, $options)]
+for $hit in $hits
+   order by ft:field($hit, "sortKey")
+   return $hit
+```
